@@ -1,0 +1,1000 @@
+Minimal,Use unknown,Major Arterial,Unrecorded,65,QUEEN,ST,NORTHCOTE,AV,-79.4256,43.6428,0842,no control,Dry,1993/07/13,Driving properly,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,34,LAWRENCE,AV,WELLAND,ROAD,-79.4256,43.7201,1214,no control,Dry,1994/09/13,Driving properly,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,25,QUEEN,ST,NORTHCOTE,AV,-79.4256,43.6428,1215,no control,Dry,1992/08/04,Other,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,24,QUEEN,ST,NORTHCOTE,AV,-79.4256,43.6428,1400,no control,Dry,1987/09/05,Other,Normal,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,28,QUEEN,ST,NORTHCOTE,AV,-79.4256,43.6428,1500,no control,Unrecorded,1988/06/11,Failed to yield right-of-way,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,24,FINCH,AV,ALTAMONT,ROAD,-79.4256,43.77753,1800,stop sign,Dry,1987/05/21,Failed to yield right-of-way,Normal,small_purple
+Minimal,Use unknown,Major Arterial,Unrecorded,41,QUEEN,ST,NORTHCOTE,AV,-79.4256,43.6428,1850,no control,Dry,1993/06/18,Other,Normal,small_purple
+Minimal,No equipment available,Collector,Unrecorded,11,PATRICIA,AVE,HILDA,AVE,-79.4255905151367,43.7885894775391,1645,stop sign,Dry,2002/08/01,Disobeyed traffic control,Inattentive,small_purple
+Minimal,Helmet,Major Arterial,"Motorist turn right at non-signalized intersection (i.e. stop, yield, no control,  and driveway) and strikes cyclist",45,180 STEELES,AVE,,,-79.4255752563477,43.7967872619629,1955,no control,Dry,2005/08/23,Failed to yield right-of-way,Normal,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,30,COLLEGE,ST,DOVERCOURT,RD,-79.4255676269531,43.6537780761719,2045,no control,Dry,2002/06/06,Other,Normal,small_purple
+Minimal,Equipment not used but available,Major Arterial,Motorist turned left across cyclist's path,35,QUEEN,ST,NORTHCOTE,AVE,-79.4255523681641,43.6428451538086,1850,no control,Dry,2005/11/08,Improper turn,Normal,small_purple
+Minimal,No equipment available,Collector,Unrecorded,40,MOWAT,AV,LIBERTY,ST,-79.42553,43.63729,1100,stop sign,Unrecorded,1989/06/09,Driving properly,Normal,small_purple
+Minimal,No equipment available,Minor Arterial,Unrecorded,33,DUNDAS,ST,COOLMINE,ROAD,-79.4255,43.6494,1400,traffic signal,Unrecorded,1989/06/10,Driving properly,Normal,small_purple
+Minimal,Unrecorded,Minor Arterial,Unrecorded,19,DUNDAS,ST,COOLMINE,ROAD,-79.4255,43.6494,1900,no control,Dry,1987/05/09,Driving properly,Normal,small_purple
+Minimal,No equipment available,Collector,"Motorist turn right at non-signalized intersection (i.e. stop, yield, no control,  and driveway) and strikes cyclist",27,SHAW,ST,ESSEX,ST,-79.4254608154297,43.6672782897949,0914,no control,Dry,2007/04/13,Driving properly,Normal,small_purple
+Minimal,No equipment available,Collector,Unrecorded,38,SHAW,ST,ESSEX,ST,-79.42546,43.66728,0800,stop sign,Unrecorded,1988/06/10,Improper turn,Unknown,small_purple
+Minimal,No equipment available,Collector,Unrecorded,61,SHAW,ST,ESSEX,ST,-79.42546,43.66728,0905,stop sign,Dry,1994/10/13,Wrong way on one-way road,Normal,small_purple
+Minimal,Helmet,Collector,Unrecorded,40,SHAW,ST,ESSEX,ST,-79.42546,43.66728,1440,stop sign,Dry,1994/08/22,Driving properly,Normal,small_purple
+Minimal,Other safety equipment used,Major Arterial,"Cyclist without right of way (fault) rides into the path of motorist at intersection, laneway, driveway - Cyclist not turning",13,BATHURST,ST,ROSEMARY,LANE,-79.4254379272461,43.7001609802246,1237,stop sign,Dry,2006/06/30,Driving properly,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,31,BLOOR,ST,OSSINGTON,AVE,-79.4254150390625,43.6620063781738,1235,no control,Dry,2000/12/29,Other,Unknown,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,44,BLOOR,ST,OSSINGTON,AV,-79.4254,43.662,0800,no control,Dry,1987/05/05,Other,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,19,BLOOR,ST,OSSINGTON,AV,-79.4254,43.662,0900,no control,Unrecorded,1991/09/18,Improper  lane change,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,24,BLOOR,ST,OSSINGTON,AV,-79.4254,43.662,1200,no control,Unrecorded,1991/06/04,Other,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,22,BLOOR,ST,OSSINGTON,AV,-79.4254,43.662,1300,traffic signal,Unrecorded,1990/10/30,Improper turn,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,24,BLOOR,ST,OSSINGTON,AV,-79.4254,43.662,1500,no control,Unrecorded,1989/05/27,Other,Unknown,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,25,BLOOR,ST,OSSINGTON,AV,-79.4254,43.662,1700,no control,Unrecorded,1988/08/26,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Minor Arterial,Unrecorded,17,OSSINGTON,AV,HEPBOURNE,ST,-79.4254,43.662,1800,no control,Unrecorded,1988/07/29,Other,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,29,BLOOR,ST,OSSINGTON,AV,-79.4254,43.662,1900,traffic signal,Unrecorded,1988/07/05,Improper passing,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,44,BLOOR,ST,OSSINGTON,AV,-79.4254,43.662,1900,no control,Dry,1986/08/22,Improper turn,Normal,small_purple
+Minimal,Helmet,Major Arterial,"Motorist turn right at non-signalized intersection (i.e. stop, yield, no control,  and driveway) and strikes cyclist",26,COLLEGE,St,DELAWARE,Ave,-79.4253845214844,43.6538124084473,1303,no control,Dry,2010/07/03,Improper turn,Unknown,small_purple
+Minimal,No equipment available,Major Arterial,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other,49,1179 KING,ST,,,-79.4253845214844,43.6393394470215,1350,no control,Wet,2005/02/28,Driving properly,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,34,COLLEGE,ST,DELAWARE,AV,-79.42538,43.65381,1600,no control,Dry,1986/12/17,Failed to yield right-of-way,Normal,small_purple
+Minimal,Other safety equipment used,Collector,"Motorist without right of way (fault) drives into path of cyclist at intersection, laneway, driveway - Driver not turning",11,SHAW,ST,ESSEX,ST,-79.4253616333008,43.6669960021973,0845,stop sign,Dry,2007/10/18,Failed to yield right-of-way,Unknown,small_purple
+Minimal,Unrecorded,Minor Arterial,Unrecorded,39,DUNDAS,,COOLMINE,,-79.4253616333008,43.6494102478027,1705,no control,Dry,1998/05/28,Improper  lane change,Normal,small_purple
+Minimal,Helmet,Major Arterial,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other,23,BLOOR,ST,OSSINGTON,AVE,-79.4253234863281,43.6620407104492,1640,no control,Dry,2005/11/02,Improper  lane change,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,21,ST. CLAIR,AV,CHRISTIE,ST,-79.4253,43.6818,1500,no control,Unrecorded,1990/05/05,Other,Inattentive,small_purple
+Minimal,Unrecorded,Local,Unrecorded,24,MELVILLE,AV,SHAW,ST,-79.42524,43.67001,1700,no control,Dry,1987/05/08,Driving properly,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,41,COLLEGE,Stre,DELAWARE,Aven,-79.4251022338867,43.6539001464844,1425,no control,Dry,2000/10/03,Unrecorded,Unrecorded,small_purple
+Minimal,No equipment available,Minor Arterial,Unrecorded,28,DOVERCOURT,ROAD,DUNDAS,ST,-79.4251,43.6498,2300,no control,Unrecorded,1988/07/04,Other,Unknown,small_purple
+Minimal,No equipment available,Major Arterial,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other,57,KING,ST,JOE SHUSTER,WAY,-79.4250411987305,43.6394081115723,1710,traffic signal,Dry,2008/09/19,Driving properly,Normal,small_purple
+Minimal,Helmet,Minor Arterial,"Motorist without right of way (fault) drives into path of cyclist at intersection, laneway, driveway - Driver not turning",51,HEPBOURNE,Stre,OSSINGTON,Aven,-79.4250030517578,43.6596984863281,1524,stop sign,Dry,2009/05/31,Failed to yield right-of-way,Inattentive,small_purple
+Minimal,Helmet,Minor Arterial,Cyclist and Driver travelling in same direction. One vehicle rear-ended the other,36,DUNDAS,Stre,DOVERCOURT,Road,-79.4250030517578,43.6493988037109,2015,no control,Wet,2009/02/11,Driving properly,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,38,QUEEN,ST,BEACONSFIELD,AV,-79.425,43.64296,1400,no control,Dry,1994/06/07,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,21,QUEEN,ST,BEACONSFIELD,AV,-79.425,43.64296,1500,no control,Unrecorded,1991/08/01,Failed to yield right-of-way,Normal,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,39,QUEEN,ST,BEACONSFIELD,AV,-79.425,43.64296,1705,no control,Dry,1993/05/06,Driving properly,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Motorist turned left across cyclist's path,25,QUEEN,ST,BEACONSFIELD,AVE,-79.4249954223633,43.6429595947266,0048,no control,Dry,2006/08/20,Failed to yield right-of-way,Inattentive,small_purple
+Minimal,No equipment available,Local,Unrecorded,10,OSSINGTON,AV,HEPBOURNE,ST,-79.42499,43.65971,1100,traffic signal,Unrecorded,1990/08/15,Driving properly,Normal,small_purple
+Minimal,No equipment available,Minor Arterial,Motorist turned left across cyclist's path,24,OSSINGTON,AVE,HEPBOURNE,ST,-79.4249877929688,43.6597137451172,0205,stop sign,Dry,2005/07/17,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Minor Arterial,Motorist turned left across cyclist's path,31,OSSINGTON,AVE,HEPBOURNE,ST,-79.4249877929688,43.6597137451172,2232,stop sign,Dry,2005/08/15,Failed to yield right-of-way,Normal,small_purple
+Minimal,Other safety equipment used,Major Arterial,"Cyclist without right of way (fault) rides into the path of motorist at intersection, laneway, driveway - Cyclist not turning",35,EGLINTON,AVE,BATHURST,ST,-79.4249725341797,43.7011032104492,1315,no control,Dry,2005/06/28,Driving properly,Normal,small_purple
+Minimal,No equipment available,Minor Arterial,Unrecorded,28,DOVERCOURT,ROAD,DUNDAS,ST,-79.42495,43.64938,1400,traffic signal,Unrecorded,1988/10/25,Driving properly,Normal,small_purple
+Minimal,Helmet,Minor Arterial,Motorist turning right on green or amber  at signalized intersections strikes cyclist,58,DUNDAS,ST,DOVERCOURT,RD,-79.4249496459961,43.6493835449219,1135,traffic signal,Dry,2005/12/08,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Minor Arterial,Motorist turned left across cyclist's path,46,DOVERCOURT,RD,DUNDAS,ST,-79.4249496459961,43.6493835449219,1940,traffic signal,Wet,2006/04/12,Failed to yield right-of-way,Normal,small_purple
+Minimal,Helmet,Local,Unrecorded,14,PINEWOOD,AVE,ST CLAIR,AVE,-79.4249267578125,43.6822624206543,0833,no control,Dry,2002/10/01,Driving properly,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,27,BLOOR,ST,CARLING,AV,-79.42484,43.66214,1344,no control,Dry,1995/09/29,Following too close,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,24,BLOOR,ST,CARLING,AV,-79.42484,43.66214,1600,no control,Dry,1986/06/13,Driving properly,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,25,BLOOR,ST,CARLING,AV,-79.42484,43.66214,1650,no control,Unrecorded,1993/08/31,Improper turn,Unknown,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,19,BLOOR,ST,CARLING,AV,-79.42484,43.66214,1700,no control,Dry,1986/08/29,Failed to yield right-of-way,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,34,BLOOR,ST,CARLING,AV,-79.42484,43.66214,2100,no control,Dry,1986/05/14,Driving properly,Normal,small_purple
+Minimal,Helmet,Collector,Unrecorded,36,CASTLEFIELD,AVE,CHAPLIN,CRES,-79.4248275756836,43.7065773010254,0815,stop sign,Wet,2001/05/17,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,31,QUEEN,ST,BEACONSFIELD,AV,-79.4248,43.6539,1700,no control,Unrecorded,1989/09/20,Driving properly,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,34,QUEEN,ST,BEACONSFIELD,AV,-79.4248,43.643,1800,no control,Dry,1987/08/18,Other,Unrecorded,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,34,COLLEGE,ST,DELAWARE,AV,-79.4248,43.6539,1800,no control,Unrecorded,1990/10/10,Other,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,48,BLOOR,Stre,CARLING,Aven,-79.4247970581055,43.6622009277344,1415,no control,Dry,1999/12/14,Unrecorded,Unrecorded,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,26,ST. CLAIR,AV,PINEWOOD,AV,-79.42477,43.68189,1600,no control,Unrecorded,1991/08/21,Failed to yield right-of-way,Normal,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,10,SHEPPARD,AV,ADDINGTON,AV,-79.42476,43.75844,0835,stop sign,Dry,1994/06/27,Driving properly,Normal,small_purple
+Minimal,Use unknown,Collector,Unrecorded,20,DOVERCOURT,RD,MACKENZIE,CRES,-79.4247055053711,43.6488037109375,2200,no control,Dry,1993/07/23,Other,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,19,BLOOR,ST,CARLING,AV,-79.4247,43.6622,1700,no control,Wet,1986/05/20,Other,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,12,BLOOR,ST,ROXTON,ROAD,-79.42463,43.66219,0000,no control,Unrecorded,1988/07/05,Improper  lane change,Normal,small_purple
+Minimal,Use unknown,Major Arterial,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other,62,BLOOR,Stre,ROXTON,Road,-79.4245986938477,43.6622009277344,1527,no control,Dry,2007/09/20,Failed to yield right-of-way,Unknown,small_purple
+Minimal,No equipment available,Major Arterial,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other,18,QUEEN,ST,ABELL,ST,-79.4245910644531,43.6430358886719,0126,no control,Dry,2010/08/06,Driving properly,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,32,QUEEN,ST,ABELL,ST,-79.4245910644531,43.6430358886719,0750,no control,Dry,2000/12/01,Improper turn,Normal,small_purple
+Minimal,Equipment not used but available,Major Arterial,Unrecorded,28,QUEEN,ST,ABELL,ST,-79.4245910644531,43.6430358886719,0945,stop sign,Dry,2004/12/03,Failed to yield right-of-way,Normal,small_purple
+Minimal,Other safety equipment used,Major Arterial,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other,54,QUEEN,ST,ABELL,ST,-79.4245910644531,43.6430358886719,1215,no control,Dry,2006/06/20,Improper passing,Unknown,small_purple
+Minimal,No equipment available,Major Arterial,"Cyclist without right of way (fault) rides into the path of motorist at intersection, laneway, driveway - Cyclist not turning",21,QUEEN,ST,ABELL,ST,-79.4245910644531,43.6430358886719,1820,traffic signal,Wet,2009/12/14,Driving properly,Normal,small_purple
+Minimal,Equipment not used but available,Minor Arterial,Unrecorded,31,DUNDAS,,DOVERCOURT,,-79.4245529174805,43.6493759155273,1030,no control,Dry,1998/08/30,Failed to yield right-of-way,Normal,small_purple
+Minimal,Helmet,Collector,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other,49,SHAW,St,LEEDS,St,-79.4245529174805,43.6650238037109,1303,no control,Dry,2010/03/04,Improper passing,Normal,small_purple
+Minimal,No equipment available,Minor Arterial,Motorist turned left across cyclist's path,24,HARBORD,ST,OSSINGTON,AVE,-79.4245147705078,43.6584930419922,0005,traffic signal,Dry,2007/09/24,Improper turn,Normal,small_purple
+Minimal,Helmet,Minor Arterial,Cyclist turns left across motorist's path,33,OSSINGTON,AVE,HARBORD,ST,-79.4245147705078,43.6584930419922,1040,traffic signal,Dry,2005/05/30,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Minor Arterial,Motorist turning right on green or amber  at signalized intersections strikes cyclist,27,OSSINGTON,Ave,HARBORD,St,-79.4245147705078,43.6584930419922,1930,traffic signal,Dry,2007/10/30,Improper turn,Unknown,small_purple
+Minimal,Helmet,Minor Arterial,Unrecorded,37,OSSINGTON,AV,HARBORD,ST,-79.42451,43.65849,0655,traffic signal,Dry,1995/05/26,Driving properly,Normal,small_purple
+Minimal,Unrecorded,Minor Arterial,Unrecorded,54,OSSINGTON,AV,HARBORD,ST,-79.42451,43.65849,1000,traffic signal,Dry,1986/04/29,Improper passing,Normal,small_purple
+Minimal,Helmet,Laneway,Unrecorded,30,OSSINGTON,AV,HARBORD,ST,-79.42451,43.65849,2330,traffic signal,Dry,1993/08/04,Other,Unknown,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,19,EGLINTON,AV,BATHURST,ST,-79.4245,43.7012,2200,no control,Dry,1986/06/19,Driving properly,Normal,small_purple
+Minimal,Helmet,Minor Arterial,Cyclist and Driver travelling in same direction. One vehicle rear-ended the other,59,OSSINGTON,AVE,HARBORD,ST,-79.4244995117188,43.65850067Cyclist and Driver travelling in same direction. One vheicle rear-ended the other867,Unrecorded,traffic signal,Dry,2008/02/16,Speed too fast for condition,Normal,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,03,COLLEGE,ST,DELAWARE,AVE,-79.4244766235352,43.6539993286133,1215,no control,Dry,2005/09/28,Other,Normal,small_purple
+Minimal,Equipment not used but available,Minor Arterial,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other,38,DUNDAS,ST,DOVERCOURT,RD,-79.4244766235352,43.6493759155273,1435,no control,Dry,2005/06/20,Failed to yield right-of-way,Unknown,small_purple
+Minimal,No equipment available,Minor Arterial,Cyclist struck at Ped Crossover (cyclist either travelling in same direction as vehicle or riding across crosswalk),17,CHRISTIE,ST,TYRREL,AVE,-79.4244766235352,43.6781616210938,1628,pedestrian crossover,Dry,2004/05/09,Failed to yield right-of-way,Unknown,small_purple
+Minimal,Use unknown,Minor Arterial,Motorist turned left across cyclist's path,23,CHRISTIE,ST,TYRREL,AVE,-79.4244766235352,43.6781616210938,1740,stop sign,Dry,2006/11/03,Failed to yield right-of-way,Normal,small_purple
+Minimal,Helmet,Local,"Cyclist without right of way (fault) rides into the path of motorist at intersection, laneway, driveway - Cyclist not turning",10,89 MAPLEWOOD,AVE,,,-79.424446105957,43.6857109069824,1707,no control,Dry,2005/05/22,Driving properly,Normal,small_purple
+Minimal,Helmet,Local,Unrecorded,09,VESTA,DR,BATHURST,ST,-79.42433,43.70317,1250,no control,Dry,1995/07/07,Driving properly,Normal,small_purple
+Minimal,No equipment available,Minor Arterial,Unrecorded,61,HILDA,AV,DREWRY,AV,-79.42432,43.78558,1900,stop sign,Unrecorded,1988/10/12,Failed to yield right-of-way,Normal,small_purple
+Minimal,Other safety equipment used,Minor Arterial,Motorist turning right on green or amber  at signalized intersections strikes cyclist,11,HILDA,AVE,DREWRY,AVE,-79.42431640625,43.7855834960938,1100,traffic signal,Dry,2005/04/27,Failed to yield right-of-way,Inattentive,small_purple
+Minimal,No equipment available,Collector,Unrecorded,38,DOVERCOURT,RD,FOXLEY,ST,-79.4242706298828,43.647590637207,1600,no control,Dry,2000/04/25,Unrecorded,Unrecorded,small_purple
+Minimal,Other safety equipment used,Collector,Unrecorded,18,CHAPLIN,CRES,ROSELAWN,AVE,-79.424201965332,43.7056007385254,0840,traffic signal,Dry,2001/11/06,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,27,QUEEN,ST,ABELL,ST,-79.4242,43.6431,1445,no control,Dry,1994/04/13,Other,Normal,small_purple
+Minimal,Use unknown,Major Arterial,Unrecorded,31,QUEEN,ST,ABELL,ST,-79.4242,43.6431,1600,no control,Unrecorded,1989/08/01,Other,Normal,small_purple
+Minimal,Other safety equipment used,Minor Arterial,"Motorist turn right at non-signalized intersection (i.e. stop, yield, no control,  and driveway) and strikes cyclist",12,SENLAC,RD,BURNETT,AVE,-79.4241714477539,43.7622108459473,1540,stop sign,Dry,2002/06/18,Driving properly,Normal,small_purple
+Minimal,Helmet,Major Arterial,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other,37,COLLEGE,ST,CONCORD,AVE,-79.4241561889648,43.6540679931641,0816,no control,Dry,2008/09/15,Improper passing,Inattentive,small_purple
+Minimal,Use unknown,Major Arterial,Unrecorded,21,COLLEGE,ST,CONCORD,AVE,-79.4241561889648,43.6540679931641,0940,no control,Wet,2002/06/04,Driving properly,Normal,small_purple
+Minimal,No equipment available,Minor Arterial,Unrecorded,12,BURNETT,AV,SENLAC,ROAD,-79.4241,43.76206,0800,stop sign,Unrecorded,1991/10/04,Other,Unknown,small_purple
+Minimal,No equipment available,Minor Arterial,Unrecorded,16,SENLAC,ROAD,BURNETT,AV,-79.4241,43.7621,1640,no control,Dry,1992/08/17,Driving properly,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,18,BLOOR,ST,ROXTON,RD,-79.4240570068359,43.6623077392578,0923,no control,Dry,2002/09/09,Failed to yield right-of-way,Normal,small_purple
+Minimal,Use unknown,Collector,Unrecorded,25,DOVERCOURT,ROAD,FOXLEY,ST,-79.42401,43.64702,2240,no control,Dry,1993/07/16,Improper turn,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,44,BLOOR,ST,ROXTON,ROAD,-79.424,43.6623,0900,no control,Dry,1987/06/12,Other,Unrecorded,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,25,BLOOR,ST,ROXTON,ROAD,-79.424,43.6623,1925,no control,Dry,1993/11/24,Other,Inattentive,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,44,BLOOR,ST,ROXTON,ROAD,-79.424,43.6623,2100,no control,Dry,1987/07/06,Other,Normal,small_purple
+Minimal,Use unknown,Local,Unrecorded,19,HOMEWOOD,AVE,HILDA,AVE,-79.4239654541016,43.7899208068848,0250,no control,Dry,2002/01/05,Driving properly,Normal,small_purple
+Minimal,Helmet,Major Arterial,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other,44,BLOOR,Stre,SHAW,Stre,-79.4239654541016,43.6623420715332,0950,no control,Dry,2008/04/26,Improper passing,Inattentive,small_purple
+Minimal,No equipment available,Local,Unrecorded,35,ROXTON,ROAD,BLOOR,ST,-79.42396,43.66047,1000,no control,Unrecorded,1989/09/17,Improper passing,Unknown,small_purple
+Minimal,Unrecorded,Minor Arterial,Unrecorded,34,OSSINGTON,AV,DEWSON,ST,-79.42396,43.65705,1500,stop sign,Dry,1987/03/21,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other,40,KING,ST,JOE SHUSTER WAY,Way,-79.423957824707,43.6396141052246,1430,traffic signal,Dry,2010/09/14,Improper passing,Normal,small_purple
+Minimal,Other safety equipment used,Minor Arterial,Cyclist struck at Ped Crossover (cyclist either travelling in same direction as vehicle or riding across crosswalk),12,OSSINGTON,AVE,DEWSON,ST,-79.4239044189453,43.6569175720215,1710,pedestrian crossover,Dry,2008/05/08,Failed to yield right-of-way,Inattentive,small_purple
+Minimal,No equipment available,Local,Unrecorded,05,PENDRITH,ST,SHAW,ST,-79.4239,43.6666,1100,no control,Unrecorded,1989/04/22,Driving properly,Normal,small_purple
+Minimal,No equipment available,Local,Unrecorded,14,PENDRITH,ST,SHAW,ST,-79.4239,43.6666,1500,no control,Unrecorded,1988/09/23,Driving properly,Normal,small_purple
+Minimal,No equipment available,Minor Arterial,Unrecorded,11,VAUGHAN,ROAD,KENWOOD,AV,-79.42386,43.68756,1000,stop sign,Unrecorded,1989/10/13,Failed to yield right-of-way,Normal,small_purple
+Minimal,Unrecorded,Local,Unrecorded,29,COLLEGE,ST,CONCORD,AV,-79.4238,43.6541,1030,no control,Unrecorded,1997/03/04,Unrecorded,Unrecorded,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,22,QUEEN,Stre,LISGAR,Stre,-79.4237976074219,43.6431999206543,1645,traffic signal,Dry,1999/06/14,Unrecorded,Unrecorded,small_purple
+Minimal,Helmet,Local,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other,29,YARMOUTH,RD,MILES,PL,-79.4237899780273,43.6694145202637,1245,no control,Dry,2010/06/11,Exceeding speed limit,Normal,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,13,BATHURST,ST,ELDERWOOD,DR,-79.4237,43.6958,1500,no control,Dry,1994/04/23,Exceeding speed limit,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,29,BATHURST,ST,ELDERWOOD,DR,-79.4237,43.6958,1700,no control,Unrecorded,1988/05/06,Improper passing,Normal,small_purple
+Minimal,Equipment not used but available,Collector,Unrecorded,38,DOVERCOURT,RD,ARGYLE,ST,-79.4236679077148,43.6461372375488,1330,traffic signal,Dry,2003/10/24,Driving properly,Normal,small_purple
+Minimal,Other safety equipment used,Collector,"Cyclist without right of way (fault) rides into the path of motorist at intersection, laneway, driveway - Cyclist not turning",26,DOVERCOURT,RD,ARGYLE,ST,-79.4236679077148,43.6461372375488,1340,stop sign,Dry,2005/08/26,Driving properly,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,41,ST CLAIR,Aven,WYCHWOOD,Aven,-79.423651,43.682088,2037,traffic signal,Dry,1998/05/01,Unrecorded,Unrecorded,small_purple
+Minimal,Unrecorded,Collector,Unrecorded,19,TALBOT,ROAD,HENDON,AV,-79.42362,43.77992,0800,stop sign,Dry,1987/05/14,Failed to yield right-of-way,Unrecorded,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,14,SHEPPARD,AV,SENLAC,ROAD,-79.4236,43.75869,1800,traffic signal,Dry,1986/05/10,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,26,QUEEN,ST,LISGAR,ST,-79.4235916137695,43.6432342529297,1315,no control,Dry,1999/08/23,Driving properly,Normal,small_purple
+Minimal,Unrecorded,Minor Arterial,Unrecorded,25,DUNDAS,ST,GROVE,AV,-79.4235,43.6542,1800,stop sign,Unrecorded,1996/07/27,Unrecorded,Unrecorded,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,17,BLOOR,ST,SHAW,ST,-79.42347,43.66245,0700,traffic signal,Unrecorded,1990/05/11,Failed to yield right-of-way,Normal,small_purple
+Minimal,Use unknown,Major Arterial,Unrecorded,17,BLOOR,ST,SHAW,ST,-79.42347,43.66245,1700,traffic signal,Unrecorded,1991/06/05,Driving properly,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,24,BLOOR,ST,SHAW,ST,-79.42347,43.66245,2000,no control,Dry,1986/04/23,Failed to yield right-of-way,Normal,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,24,BLOOR,ST,SHAW,ST,-79.423469543457,43.6624526977539,2330,traffic signal,Dry,2004/03/14,Disobeyed traffic control,Normal,small_purple
+Minimal,No equipment available,Minor Arterial,Unrecorded,24,DUNDAS,ST,GROVE,AV,-79.42346,43.64934,1115,stop sign,Dry,1995/12/02,Failed to yield right-of-way,Normal,small_purple
+Minimal,Unrecorded,Local,Unrecorded,09,SENLAC,ROAD,SHEPPARD,AV,-79.42344,43.75832,1400,no control,Dry,1986/08/29,Unrecorded,Unrecorded,small_purple
+Minimal,Other safety equipment used,Major Arterial,Unrecorded,19,COLLEGE,ST,CONCORD,AVE,-79.4234313964844,43.6541366577148,1715,no control,Dry,2001/07/03,Other,Other,small_purple
+Minimal,Helmet,Minor Arterial,"Motorist without right of way (fault) drives into path of cyclist at intersection, laneway, driveway - Driver not turning",73,ELMHURST,AVE,SENLAC,RD,-79.4234237670898,43.7604751586914,1210,stop sign,Dry,2006/06/02,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Minor Arterial,Unrecorded,20,OSSINGTON,AV,COLLEGE,ST,-79.4234,43.6556,1415,no control,Dry,1993/06/25,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Local,Unrecorded,07,ST. CLEMENTS,AV,CHAPLIN,CR,-79.4234,43.7973,1500,no control,Unrecorded,1988/04/10,Driving properly,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,29,COLLEGE,ST,CONCORD,AV,-79.4234,43.6542,2115,no control,Unrecorded,1997/06/30,Unrecorded,Unrecorded,small_purple
+Minimal,Unrecorded,Local,Unrecorded,19,GARNET,AV,MILES,PL,-79.42335,43.6687,2000,no control,Dry,1987/09/20,Unrecorded,Unrecorded,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,27,COLLEGE,ST,CONCORD,AVE,-79.4233474731445,43.6542358398438,1210,no control,Wet,2000/05/18,Other,Normal,small_purple
+Minimal,No equipment available,Local,Unrecorded,11,STORMONT,AV,LEDBURY,ST,-79.42331,43.71977,0800,no control,Unrecorded,1991/04/17,Driving properly,Normal,small_purple
+Minimal,No equipment available,Minor Arterial,"Cyclist without right of way (fault) rides into the path of motorist at intersection, laneway, driveway - Cyclist not turning",25,HARBORD,Stre,ROXTON,Road,-79.4233016967773,43.6586990356445,0139,stop sign,Wet,2010/09/12,Driving properly,Normal,small_purple
+Minimal,No equipment available,Minor Arterial,Unrecorded,21,CHRISTIE,ST,DAVENPORT,RD,-79.4233016967773,43.6754989624023,1414,traffic signal,Dry,2001/10/02,Driving properly,Normal,small_purple
+Minimal,Helmet,Minor Arterial,Unrecorded,32,CHRISTIE,Stre,DAVENPORT,Road,-79.4233,43.6755,0756,traffic signal,Dry,2005/11/14,Unrecorded,Unrecorded,small_purple
+Minimal,Helmet,Minor Arterial,Cyclist and Driver travelling in same direction. One vehicle rear-ended the other,27,CHRISTIE,ST,DAVENPORT,RD,-79.4232940673828,43.6755065917969,0945,traffic signal,Dry,2009/05/08,Driving properly,Normal,small_purple
+Minimal,Helmet,Minor Arterial,Unrecorded,29,CHRISTIE,ST,DAVENPORT,RD,-79.4232940673828,43.6755065917969,2315,traffic signal,Dry,1999/07/15,Improper turn,Normal,small_purple
+Minimal,No equipment available,Minor Arterial,Unrecorded,40,DAVENPORT,ROAD,CHRISTIE,ST,-79.42329,43.67551,0700,traffic signal,Unrecorded,1990/09/07,Driving properly,Normal,small_purple
+Minimal,No equipment available,Minor Arterial,Unrecorded,68,DAVENPORT,ROAD,CHRISTIE,ST,-79.42329,43.67551,1010,traffic signal,Dry,1993/07/08,Failed to yield right-of-way,Normal,small_purple
+Minimal,Helmet,Minor Arterial,Unrecorded,27,HARBORD,ST,ROXTON,ROAD,-79.42329,43.65874,1200,no control,Unrecorded,1988/06/02,Improper turn,Normal,small_purple
+Minimal,No equipment available,Minor Arterial,Unrecorded,26,CHRISTIE,ST,DAVENPORT,ROAD,-79.42329,43.67551,1600,traffic signal,Unrecorded,1991/09/23,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Minor Arterial,Unrecorded,14,CHRISTIE,ST,DAVENPORT,ROAD,-79.42329,43.67551,2200,traffic signal,Unrecorded,1988/09/01,Improper turn,Normal,small_purple
+Minimal,No equipment available,Minor Arterial,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other,37,1214 DUNDAS,ST,,,-79.4232177734375,43.6493377685547,1910,no control,Dry,2005/08/23,Driving properly,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,37,QUEEN,ST,LISGAR,ST,-79.4232,43.6433,0200,no control,Unrecorded,1988/12/02,Driving properly,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,31,COLLEGE,ST,CONCORD,AV,-79.4232,43.6543,1000,no control,Unrecorded,1996/05/16,Unrecorded,Unrecorded,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,64,QUEEN,ST,LISGAR,ST,-79.4232,43.6433,1100,no control,Dry,1986/05/22,Unrecorded,Normal,small_purple
+Minimal,Use unknown,Major Arterial,Unrecorded,32,QUEEN,ST,LISGAR,ST,-79.4232,43.6433,1700,no control,Unrecorded,1991/11/29,Improper passing,Normal,small_purple
+Minimal,No equipment available,Local,Unrecorded,25,DUNDAS,ST,GROVE,AV,-79.4232,43.6493,2000,no control,Unrecorded,1990/06/22,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Laneway,Unrecorded,20,SHAW,ST,HARBORD,ST,-79.4231643676758,43.6617164611816,1800,no control,Dry,1998/08/04,Failed to yield right-of-way,Normal,small_purple
+Minimal,Equipment not used but available,Major Arterial,Cyclist struck open vehicle door,29,BLOOR,ST,SHAW,ST,-79.4231338500977,43.662525177002,2115,no control,Dry,2007/08/16,Other,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,29,OSSINGTON,AV,COLLEGE,ST,-79.423,43.6545,0130,no control,Unrecorded,1996/05/05,Unrecorded,Unrecorded,small_purple
+Minimal,Unrecorded,Collector,Unrecorded,19,DOVERCOURT,ROAD,QUEEN,ST,-79.423,43.6444,1900,no control,Dry,1986/09/18,Other,Normal,small_purple
+Minimal,No equipment available,Minor Arterial,Unrecorded,15,DUNDAS,ST,LAKEVIEW,AV,-79.42298,43.64933,1600,stop sign,Unrecorded,1989/07/19,Failed to yield right-of-way,Normal,small_purple
+Minimal,Use unknown,Collector,Insufficient information (to determine cyclist crash type),27,LEDBURY,ST,GLENGARRY,AVE,-79.4229736328125,43.7215003967285,1025,stop sign,Dry,2007/06/13,Disobeyed traffic control,Inattentive,small_purple
+Minimal,No equipment available,Major Arterial,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other,29,COLLEGE,ST,OSSINGTON,AVE,-79.4229049682617,43.6543464660645,0802,traffic signal,Dry,2008/11/17,Driving properly,Normal,small_purple
+Minimal,Helmet,Minor Arterial,Motorist turning right on red at signalized intersection strikes cyclists,24,OSSINGTON,AVE,COLLEGE,ST,-79.4229049682617,43.6543464660645,0947,traffic signal,Dry,2008/09/09,Improper turn,Inattentive,small_purple
+Minimal,Lap and shoulder belt,Major Arterial,Cyclist struck open vehicle door,18,OSSINGTON,AVE,COLLEGE,ST,-79.4229049682617,43.6543464660645,1918,no control,Dry,2009/09/29,Other,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,13,OSSINGTON,AV,COLLEGE,ST,-79.4229,43.65434,0700,traffic signal,Unrecorded,1988/07/02,Failed to yield right-of-way,Normal,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,47,LAKESHORE,BV,AQUATIC,DR,-79.4229,43.6301,0810,no control,Dry,1994/05/27,Other,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,14,OSSINGTON,AV,COLLEGE,ST,-79.4229,43.65434,1200,traffic signal,Unrecorded,1989/07/24,Driving properly,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,37,COLLEGE,ST,OSSINGTON,AV,-79.4229,43.65434,1200,traffic signal,Unrecorded,1989/05/28,Improper turn,Normal,small_purple
+Minimal,No equipment available,Local,Unrecorded,15,CRAWFORD,ST,BLOOR,ST,-79.4229,43.6641,1300,no control,Unrecorded,1991/07/30,Driving properly,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,34,OSSINGTON,AV,COLLEGE,ST,-79.4229,43.65434,1600,no control,Dry,1986/06/06,Other,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,14,BLOOR,ST,SHAW,ST,-79.4229,43.6626,1700,no control,Unrecorded,1990/07/09,Driving properly,Normal,small_purple
+Minimal,No equipment available,Local,Unrecorded,15,CRAWFORD,ST,BLOOR,ST,-79.4229,43.6641,1900,no control,Dry,1994/06/18,Driving properly,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,10,COLLEGE,ST,OSSINGTON,AV,-79.4229,43.65434,2000,traffic signal,Unrecorded,1989/06/23,Disobeyed traffic control,Normal,small_purple
+Minimal,Unrecorded,Local,Unrecorded,16,CHRISTIE,,MELITA,,-79.4227905273438,43.6743431091309,2305,stop sign,Dry,1998/09/10,Failed to yield right-of-way,Normal,small_purple
+Minimal,Other safety equipment used,Major Arterial,Unrecorded,36,SHEPPARD,AVE,SENLAC,RD,-79.4227523803711,43.7588958740234,0815,traffic signal,Dry,2002/07/04,Unrecorded,Unrecorded,small_purple
+Minimal,Use unknown,Major Arterial,Unrecorded,17,SHEPPARD,AVE,SENLAC,RD,-79.4227523803711,43.7588958740234,1000,traffic signal,Dry,2002/02/09,Failed to yield right-of-way,Inattentive,small_purple
+Minimal,Unrecorded,Minor Arterial,Unrecorded,19,CHRISTIE,ST,MELITA,AV,-79.4227,43.6741,1400,no control,Dry,1986/05/10,Failed to yield right-of-way,Normal,small_purple
+Minimal,Helmet,Minor Arterial,Unrecorded,17,OSSINGTON,AV,SHANNON,ST,-79.4227,43.6539,1814,no control,Wet,1995/08/04,Driving properly,Normal,small_purple
+Minimal,No equipment available,Local,Unrecorded,28,YARMOUTH,ROAD,MILES,PL,-79.4227,43.6696,1900,no control,Unrecorded,1990/05/29,Improper passing,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,12,LEDBURY,ST,LAWRENCE,AVE,-79.4226989746094,43.7207984924316,1445,traffic signal,Dry,2000/02/26,Unrecorded,Unrecorded,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,14,LAWRENCE,,LEDBURY,,-79.4226760864258,43.7207641601563,1919,traffic signal,Dry,1998/08/27,Driving properly,Normal,small_purple
+Minimal,Other safety equipment used,Major Arterial,"Motorist turn right at non-signalized intersection (i.e. stop, yield, no control,  and driveway) and strikes cyclist",19,STEELES,AVE,TANGREEN,CRT,-79.4226455688477,43.797435760498,0750,no control,Dry,2005/04/11,Improper turn,Unknown,small_purple
+Minimal,No equipment available,Collector,"Cyclist without right of way (fault) rides into the path of motorist at intersection, laneway, driveway - Cyclist not turning",30,DOVERCOURT,RD,QUEEN,ST,-79.4226455688477,43.6435356140137,1325,no control,Dry,2008/10/22,Driving properly,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,10,DOVERCOURT,ROAD,QUEEN,ST,-79.42261,43.64343,1058,traffic signal,Dry,1994/10/02,Failed to yield right-of-way,Normal,small_purple
+Minimal,Other safety equipment used,Major Arterial,Unrecorded,30,QUEEN,Stre,DOVERCOURT,Road,-79.4226,43.6434,1520,traffic signal,Dry,2001/06/02,Unrecorded,Unrecorded,small_purple
+Minimal,Helmet,Major Arterial,Motorist turned left across cyclist's path,49,QUEEN,Stre,DOVERCOURT,Road,-79.4225997924805,43.6433982849121,0730,traffic signal,Wet,2009/11/25,Failed to yield right-of-way,Normal,small_purple
+Minimal,Use unknown,Major Arterial,Unrecorded,44,COLLEGE,Stre,OSSINGTON,Aven,-79.4225997924805,43.6543998718262,1011,no control,Dry,2000/11/11,Unrecorded,Unrecorded,small_purple
+Minimal,Other safety equipment used,Major Arterial,Unrecorded,36,QUEEN,ST,DOVERCOURT,RD,-79.4225997924805,43.6433982849121,1743,traffic signal,Dry,2004/07/03,Failed to yield right-of-way,Normal,small_purple
+Minimal,Helmet,Minor Arterial,Unrecorded,49,HARBORD,ST,SHAW,ST,-79.4225997924805,43.6589012145996,1800,no control,Wet,1999/03/05,Improper  lane change,Normal,small_purple
+Minimal,Helmet,Minor Arterial,Unrecorded,38,COLLEGE,Stre,OSSINGTON,Aven,-79.4225997924805,43.6543006896973,2050,no control,Dry,1999/08/09,Unrecorded,Unrecorded,small_purple
+Minimal,No equipment available,Minor Arterial,Unrecorded,22,CHRISTIE,ST,LAMBERTLODGE,AVE,-79.4225845336914,43.6737823486328,2325,no control,Dry,2003/06/09,Driving properly,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,33,COLLEGE,ST,OSSINGTON,AVE,-79.4225387573242,43.6544227600098,1440,no control,Dry,1999/07/07,Other,Inattentive,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,29,KING,ST,JEFFERSON,AVE,-79.4225006103516,43.6398010253906,1040,no control,Dry,2003/07/11,Failed to yield right-of-way,Normal,small_purple
+Minimal,Helmet,Major Arterial,Motorist turning right on red at signalized intersection strikes cyclists,54,HIGHWAY 401 X,,AVENUE,Road,-79.422492980957,43.7412376403809,0700,traffic signal,Dry,2010/07/02,Failed to yield right-of-way,Inattentive,small_purple
+Minimal,Helmet,Major Arterial,"Motorist without right of way (fault) drives into path of cyclist at intersection, laneway, driveway - Driver not turning",22,235 SHEPPARD,AVE,,,-79.4224090576172,43.7588768005371,1225,no control,Dry,2004/06/03,Disobeyed traffic control,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,37,COLLEGE,ST,OSSINGTON,AV,-79.4224,43.6545,1815,no control,Unrecorded,1997/05/09,Unrecorded,Unrecorded,small_purple
+Minimal,No equipment available,Local,Unrecorded,12,MANITOBA,DR,SASKATCHEWAN,ROAD,-79.42237,43.63262,1500,stop sign,Unrecorded,1988/08/16,Driving properly,Normal,small_purple
+Minimal,Helmet,Major Arterial,"Motorist without right of way (fault) drives into path of cyclist at intersection, laneway, driveway - Driver not turning",32,BLOOR,Stre,CRAWFORD,Stre,-79.4223022460938,43.6627006530762,1540,stop sign,Dry,2010/05/04,Failed to yield right-of-way,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,22,BLOOR,ST,CRAWFORD,ST,-79.4223,43.6627,1645,no control,Unrecorded,1997/08/23,Unrecorded,Unrecorded,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,28,COLLEGE,ST,OSSINGTON,AV,-79.4223,43.6545,1901,traffic signal,Dry,1993/06/23,Other,Normal,small_purple
+Minimal,Unrecorded,Local,Unrecorded,24,KENWOOD,AV,ST. CLAIR,AV,-79.42229,43.68265,2000,no control,Dry,1987/08/23,Unrecorded,Had been drinking,small_purple
+Minimal,Other safety equipment used,Major Arterial,Unrecorded,28,COLLEGE,ST,OSSINGTON,AVE,-79.4222640991211,43.6544494628906,1930,no control,Dry,2002/08/27,Failed to yield right-of-way,Unrecorded,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,29,BLOOR,ST,CRAWFORD,ST,-79.42226,43.66272,1525,stop sign,Wet,1993/10/16,Improper turn,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,20,BLOOR,ST,CRAWFORD,ST,-79.42226,43.66272,1900,stop sign,Unrecorded,1991/09/16,Driving properly,Normal,small_purple
+Minimal,Other safety equipment used,Minor Arterial,Motorist turning right on red at signalized intersection strikes cyclists,21,351 CHRISTIE,ST,,,-79.4222030639648,43.6727485656738,1900,no control,Dry,2007/06/17,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Local,Unrecorded,19,ARGYLE,ST,DOVERCOURT,ROAD,-79.4222,43.6464,1200,no control,Unrecorded,1989/09/23,Driving properly,Normal,small_purple
+Minimal,Other safety equipment used,Major Arterial,"Motorist turn right at non-signalized intersection (i.e. stop, yield, no control,  and driveway) and strikes cyclist",28,STEELES,Ave,YONGE,ST,-79.4221725463867,43.7975692749023,1445,no control,Dry,2009/09/23,Failed to yield right-of-way,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,34,ST. CLAIR,AV,KENWOOD,AV,-79.42217,43.68236,0600,stop sign,Dry,1986/10/10,Failed to yield right-of-way,Normal,small_purple
+Minimal,Helmet,Major Arterial,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other,17,WILSON,AVE,BIDEFORD,AVE,-79.4221267700195,43.7397575378418,1625,no control,Dry,2005/07/27,Driving properly,Normal,small_purple
+Minimal,No equipment available,Minor Arterial,Unrecorded,Unrecorded,HARBORD,ST,SHAW,ST,-79.4220962524414,43.6590003967285,1835,traffic signal,Dry,2001/06/12,Driving properly,Normal,small_purple
+Minimal,Helmet,Minor Arterial,Motorist turning right on green or amber  at signalized intersections strikes cyclist,27,SHAW,ST,HARBORD,ST,-79.4220809936523,43.6589813232422,0958,traffic signal,Dry,2009/03/28,Improper turn,Inattentive,small_purple
+Minimal,Helmet,Minor Arterial,Unrecorded,33,HARBORD,ST,SHAW,ST,-79.4220809936523,43.6589813232422,1720,no control,Dry,2001/08/06,Other,Inattentive,small_purple
+Minimal,No equipment available,Local,Unrecorded,11,FENNINGS,ST,HUMBERT,ST,-79.42208,43.64555,1954,stop sign,Dry,1995/07/09,Driving properly,Normal,small_purple
+Minimal,No equipment available,Minor Arterial,Motorist makes u-turn in-front of cyclist,22,DUPONT,ST,WILLOWVALE,LANE,-79.4220199584961,43.671516418457,0855,no control,Dry,2007/08/29,Improper turn,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,34,KING,ST,JEFFERSON,AV,-79.422,43.64,0010,no control,Dry,1993/07/11,Driving properly,Normal,small_purple
+Minimal,Unrecorded,Local,Unrecorded,10,OSSINGTON,AV,CHURCHILL,AV,-79.422,43.6519,1630,pedestrian crossover,Unrecorded,1997/10/08,Unrecorded,Unrecorded,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,20,KING,ST,JEFFERSON,AV,-79.422,43.64,1720,no control,Dry,1994/03/08,Improper passing,Unknown,small_purple
+Minimal,No equipment available,Minor Arterial,Unrecorded,26,DUNDAS,ST,LAKEVIEW,AV,-79.422,43.6493,1800,no control,Unrecorded,1988/08/06,Other,Unknown,small_purple
+Minimal,Helmet,Minor Arterial,Unrecorded,31,DUNDAS,ST,LAKEVIEW,AV,-79.422,43.6493,1945,no control,Dry,1995/06/16,Other,Normal,small_purple
+Minimal,Helmet,Major Arterial,Cyclist struck open vehicle door,33,BLOOR,ST,CRAWFORD,ST,-79.4219818115234,43.6627807617188,2000,no control,Wet,2005/09/22,Other,Normal,small_purple
+Minimal,No equipment available,Minor Arterial,Unrecorded,38,OSSINGTON,AV,CHURCHILL,AV,-79.42198,43.65192,1300,no control,Unrecorded,1989/11/05,Failed to yield right-of-way,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,39,AVENUE,RD,WILSON,AVE,-79.4218978881836,43.7397003173828,0750,traffic signal,Dry,1997/10/20,Unrecorded,Unrecorded,small_purple
+Minimal,No equipment available,Minor Arterial,Unrecorded,31,DREWRY,AVE,FAIRCHILD,AVE,-79.4218826293945,43.7861137390137,1305,stop sign,Dry,2001/08/04,Failed to yield right-of-way,Inattentive,small_purple
+Minimal,Other safety equipment used,Expressway Ramp,Unrecorded,11,WILSON,AVE,AVENUE,RD,-79.4218444824219,43.739818572998,1330,traffic signal,Dry,2002/08/20,Failed to yield right-of-way,Unknown,small_purple
+Minimal,No equipment available,Local,Cyclist and Driver travelling in same direction. One vehicle rear-ended the other,16,24 FRONTENAC,Ave,,,-79.4218368530273,43.7183570861816,2256,no control,Dry,2010/10/19,Driving properly,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Motorist turning right on green or amber  at signalized intersections strikes cyclist,66,CHRISTIE,ST,DUPONT,ST,-79.421745300293,43.6715660095215,1125,traffic signal,Dry,2008/07/07,Driving properly,Normal,small_purple
+Minimal,Other safety equipment used,Major Arterial,Unrecorded,25,CHRISTIE,ST,DUPONT,ST,-79.421745300293,43.6715660095215,1955,traffic signal,Dry,2001/08/29,Failed to yield right-of-way,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,24,DUPONT,ST,CHRISTIE,ST,-79.42174,43.67157,2100,traffic signal,Dry,1987/07/30,Improper turn,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,22,DUPONT,ST,CHRISTIE,ST,-79.42174,43.67157,2200,traffic signal,Unrecorded,1991/06/18,Other,Normal,small_purple
+Minimal,Other safety equipment used,Local,"Motorist without right of way (fault) drives into path of cyclist at intersection, laneway, driveway - Driver not turning",46,MELVILLE,AVE,WILLOWVALE,LANE,-79.4217224121094,43.6706581115723,1730,no control,Dry,2005/09/13,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,23,BLOOR,ST,CRAWFORD,ST,-79.4217,43.6628,0000,no control,Unrecorded,1988/03/21,Other,Unknown,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,34,BLOOR,ST,CRAWFORD,ST,-79.4217,43.6628,1400,no control,Loose snow,1986/11/21,Speed too fast for condition,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,29,COLLEGE,ST,ROXTON,ROAD,-79.4217,43.6546,1440,no control,Unrecorded,1997/11/13,Unrecorded,Unrecorded,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,33,COLLEGE,ST,ROXTON,ROAD,-79.4217,43.6546,1855,stop sign,Unrecorded,1997/09/04,Unrecorded,Unrecorded,small_purple
+Minimal,No equipment available,Local,Unrecorded,23,PENDRITH,ST,PENDRITH,LANE,-79.4217,43.667,1900,no control,Unrecorded,1991/11/18,Driving properly,Normal,small_purple
+Minimal,No equipment available,Major Arterial,"Motorist without right of way (fault) drives into path of cyclist at intersection, laneway, driveway - Driver not turning",39,ROXTON,Road,COLLEGE,Stre,-79.4216995239258,43.654598236084,1826,no control,Dry,2007/05/11,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,08,ROXTON,ROAD,COLLEGE,ST,-79.42169,43.6546,1500,no control,Unrecorded,1988/07/08,Driving properly,Normal,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,26,COLLEGE,ST,ROXTON,ROAD,-79.42169,43.6546,1830,no control,Dry,1994/06/28,Improper turn,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,34,COLLEGE,ST,ROXTON,ROAD,-79.42169,43.6546,2000,no control,Wet,1986/03/05,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,32,COLLEGE,ST,ROXTON,ROAD,-79.42169,43.6546,2200,no control,Unrecorded,1988/06/26,Failed to yield right-of-way,Unknown,small_purple
+Minimal,Helmet,Major Arterial,Cyclist struck open vehicle door,27,COLLEGE,ST,ROXTON,RD,-79.4216842651367,43.6546020507813,0220,no control,Dry,2009/07/04,Driving properly,Normal,small_purple
+Minimal,Helmet,Major Arterial,Motorist turned left across cyclist's path,37,COLLEGE,ST,ROXTON,RD,-79.4216842651367,43.6546020507813,1600,stop sign,Dry,2009/05/11,Improper turn,Inattentive,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,50,COLLEGE,ST,ROXTON,RD,-79.4216842651367,43.6546020507813,1700,no control,Dry,2003/05/15,Improper turn,Normal,small_purple
+Minimal,No equipment available,Minor Arterial,Unrecorded,24,DUNDAS,ST,LAKEVIEW,AVE,-79.4216384887695,43.6493377685547,1716,no control,Dry,2001/10/18,Driving properly,Normal,small_purple
+Minimal,Unrecorded,Collector,Unrecorded,7,CHAPLIN,CR,SPADINA,ROAD,-79.4216003417969,43.7041015625,1105,pedestrian crossover,Unrecorded,1996/05/25,Unrecorded,Unrecorded,small_purple
+Minimal,No equipment available,Minor Arterial,Unrecorded,27,CHRISTIE,ST,MELVILLE,AVE,-79.4216003417969,43.6713981628418,1742,no control,Dry,2000/09/22,Failed to yield right-of-way,Normal,small_purple
+Minimal,Unrecorded,Minor Arterial,Unrecorded,24,CHRISTIE,ST,MELVILLE,AV,-79.4216,43.6711,1200,no control,Dry,1986/10/24,Failed to yield right-of-way,Normal,small_purple
+Minimal,Unrecorded,Minor Arterial,Unrecorded,14,OSSINGTON,AV,HARRISON,ST,-79.42158,43.6509,1600,no control,Dry,1987/07/30,Driving properly,Normal,small_purple
+Minimal,Equipment not used but available,Minor Arterial,Cyclist struck open vehicle door,39,353 HARBORD,ST,,,-79.4214935302734,43.6590805053711,1010,no control,Dry,2005/09/06,Other,Normal,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,23,KING,ST,ATLANTIC,AV,-79.42149,43.64012,0855,no control,Dry,1994/05/02,Driving properly,Normal,small_purple
+Minimal,No equipment available,Major Arterial,"Cyclist without right of way (fault) rides into the path of motorist at intersection, laneway, driveway - Cyclist not turning",34,KING,ST,ATLANTIC,AVE,-79.4214859008789,43.6401214599609,1043,traffic signal,Dry,2008/09/10,Driving properly,Normal,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,48,KING,ST,ATLANTIC,AVE,-79.4214859008789,43.6401214599609,1425,no control,Dry,2000/10/19,Improper turn,Normal,small_purple
+Minimal,Equipment not used but available,Major Arterial,Unrecorded,33,KING,ST,ATLANTIC,AVE,-79.4214859008789,43.6401214599609,1720,stop sign,Dry,2002/03/02,Failed to yield right-of-way,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,30,KING,ST,ATLANTIC,AV,-79.42148,43.64012,1200,stop sign,Unrecorded,1997/06/05,Unrecorded,Unrecorded,small_purple
+Minimal,Use unknown,Major Arterial,Unrecorded,25,DUPONT,ST,CHRISTIE,ST,-79.4214324951172,43.6716232299805,1830,no control,Dry,2003/09/11,Other,Had been drinking,small_purple
+Minimal,No equipment available,Minor Arterial,Unrecorded,22,CHRISTIE,ST,MELVILLE,AV,-79.42143,43.67072,0230,stop sign,Wet,1992/04/24,Failed to yield right-of-way,Inattentive,small_purple
+Minimal,Unrecorded,Minor Arterial,Unrecorded,14,CHRISTIE,ST,MELVILLE,AV,-79.42143,43.67072,1500,stop sign,Dry,1986/05/11,Driving properly,Normal,small_purple
+Minimal,No equipment available,Local,"Cyclist without right of way (fault) rides into the path of motorist at intersection, laneway, driveway - Cyclist not turning",15,GARNET,AVE,WILLOWVALE,LANE,-79.4214019775391,43.6690864562988,1835,stop sign,Dry,2008/05/12,Driving properly,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,34,QUEEN,ST,FENNINGS,ST,-79.4214,43.64367,0000,no control,Dry,1987/06/20,Failed to yield right-of-way,Unrecorded,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,60,QUEEN,ST,FENNINGS,ST,-79.4214,43.64367,0700,no control,Unrecorded,1989/10/26,Failed to yield right-of-way,Normal,small_purple
+Minimal,Use unknown,Major Arterial,Unrecorded,26,QUEEN,ST,FENNINGS,ST,-79.4214,43.64367,0805,no control,Dry,1992/12/09,Driving properly,Normal,small_purple
+Minimal,Use unknown,Major Arterial,Unrecorded,41,QUEEN,ST,FENNINGS,ST,-79.4213943481445,43.643669128418,1350,no control,Dry,1999/11/12,Improper turn,Normal,small_purple
+Minimal,Other passive restraint device,Major Arterial,Unrecorded,27,QUEEN,ST,FENNINGS,ST,-79.4213943481445,43.643669128418,1524,no control,Wet,2004/12/04,Other,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,32,QUEEN,ST,FENNINGS,ST,-79.4213943481445,43.643669128418,1810,stop sign,Dry,1999/11/01,Failed to yield right-of-way,Normal,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,18,DUPONT,ST,CHRISTIE,ST,-79.4213638305664,43.6715888977051,1430,no control,Dry,2004/07/18,Failed to yield right-of-way,Inattentive,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,09,WILSON,AV,AVENUE,ROAD,-79.4213,43.7399,0800,no control,Unrecorded,1991/06/13,Failed to yield right-of-way,Normal,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,11,WILSON,AV,AVENUE,ROAD,-79.4213,43.7399,0800,other,Unrecorded,1990/09/11,Driving properly,Normal,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,07,WILSON,AV,AVENUE,ROAD,-79.4213,43.6703,1300,no control,Unrecorded,1991/06/07,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Minor Arterial,Unrecorded,25,CHRISTIE,ST,YARMOUTH,ROAD,-79.4213,43.7399,1300,no control,Unrecorded,1989/07/09,Improper turn,Normal,small_purple
+Minimal,Other safety equipment used,Collector,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other,47,ATLANTIC,AVE,HANNA,AVE,-79.4212112426758,43.6394157409668,1320,no control,Dry,2007/06/03,Failed to yield right-of-way,Inattentive,small_purple
+Minimal,Helmet,Minor Arterial,Unrecorded,56,CHRISTIE,ST,YARMOUTH,RD,-79.4211349487305,43.6699562072754,1555,pedestrian crossover,Dry,2002/01/27,Disobeyed traffic control,Normal,small_purple
+Minimal,Other safety equipment used,Minor Arterial,Cyclist struck at Ped Crossover (cyclist either travelling in same direction as vehicle or riding across crosswalk),25,CHRISTIE,ST,YARMOUTH,RD,-79.4211349487305,43.6699562072754,2121,pedestrian crossover,Dry,2007/07/09,Disobeyed traffic control,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,31,MONTROSE,AV,BLOOR,ST,-79.42111,43.66297,1615,no control,Wet,1993/03/02,Improper turn,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,24,BLOOR,ST,MONTROSE,AV,-79.42111,43.66297,2000,no control,Unrecorded,1990/08/05,Improper turn,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,20,BLOOR,ST,MONTROSE,AV,-79.42111,43.66297,2200,no control,Unrecorded,1991/08/23,Driving properly,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,19,COLLEGE,ST,ROXTON,ROAD,-79.4211,43.6547,1300,no control,Unrecorded,1990/03/14,Other,Normal,small_purple
+Minimal,Use unknown,Major Arterial,Unrecorded,56,DUPONT,ST,CHRISTIE,ST,-79.4211,43.6717,1530,no control,Unrecorded,1995/04/25,Other,Unknown,small_purple
+Minimal,Use unknown,Major Arterial,Unrecorded,29,COLLEGE,ST,ROXTON,ROAD,-79.4211,43.6547,1630,no control,Dry,1994/04/18,Improper passing,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,19,VESTA,DR,EGLINTON,AV,-79.4211,43.7019,1700,stop sign,Unrecorded,1996/05/02,Unrecorded,Unrecorded,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,23,COLLEGE,ST,ROXTON,ROAD,-79.4211,43.6547,1800,no control,Unrecorded,1990/04/27,Other,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,24,COLLEGE,ST,ROXTON,ROAD,-79.4211,43.6547,1800,no control,Dry,1987/06/09,Other,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,25,COLLEGE,ST,ROXTON,ROAD,-79.4211,43.6547,1900,no control,Unrecorded,1989/09/30,Driving properly,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,24,COLLEGE,ST,ROXTON,ROAD,-79.4211,43.6547,2100,no control,Unrecorded,1991/10/30,Failed to yield right-of-way,Normal,small_purple
+Minimal,Unrecorded,Minor Arterial,Unrecorded,9,CHRISTIE,ST,YARMOUTH,ROAD,-79.4210968017578,43.6699981689453,1535,pedestrian crossover,Unrecorded,1996/08/06,Unrecorded,Unrecorded,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,12,RIDLEY,BV,AVENUE,ROAD,-79.42104,43.73804,1900,stop sign,Unrecorded,1989/09/20,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Local,Unrecorded,19,DUNBLAINE,AVE,KELSO,AVE,-79.4210357666016,43.7356910705566,1405,no control,Dry,2001/09/16,Unrecorded,Unrecorded,small_purple
+Minimal,Unrecorded,Minor Arterial,Unrecorded,29,HARBORD,ST,CRAWFORD,ST,-79.421,43.6592,0920,no control,Unrecorded,1997/11/03,Unrecorded,Unrecorded,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,33,DUNDAS,Stre,OSSINGTON,Aven,-79.421,43.6493,1820,no control,Dry,2003/07/04,Unrecorded,Unrecorded,small_purple
+Minimal,No equipment available,Minor Arterial,Unrecorded,35,DUNDAS,Stre,OSSINGTON,Aven,-79.4209976196289,43.6492004394531,1420,traffic signal,Dry,1998/06/09,Other,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,47,DUNDAS,ST,OSSINGTON,AVE,-79.4209823608398,43.6492767333984,1013,traffic signal,Dry,2004/08/08,Other,Inattentive,small_purple
+Minimal,Other safety equipment used,Major Arterial,Unrecorded,25,DUNDAS,ST,OSSINGTON,AVE,-79.4209823608398,43.6492767333984,1420,traffic signal,Wet,2002/05/14,Driving properly,Unknown,small_purple
+Minimal,No equipment available,Major Arterial,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other,45,DUNDAS,ST,OSSINGTON,AVE,-79.4209823608398,43.6492767333984,1833,no control,Dry,2010/07/29,Improper passing,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,44,OSSINGTON,AV,DUNDAS,ST,-79.42098,43.64928,1600,traffic signal,Dry,1987/02/09,Disobeyed traffic control,Normal,small_purple
+Minimal,Use unknown,Major Arterial,Unrecorded,31,DUNDAS,ST,OSSINGTON,AV,-79.42098,43.64928,2100,traffic signal,Unrecorded,1989/08/22,Driving properly,Unknown,small_purple
+Minimal,Helmet,Minor Arterial,"Cyclist without right of way (fault) rides into the path of motorist at intersection, laneway, driveway - Cyclist not turning",59,78 VAUGHAN,RD,,,-79.4209442138672,43.6831245422363,1845,no control,Dry,2006/09/11,Driving properly,Normal,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,35,BATHURST,ST,HEATHDALE,RD,-79.4209289550781,43.6890869140625,0635,no control,Dry,2001/10/22,Following too close,Inattentive,small_purple
+Minimal,No equipment available,Major Arterial,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other,21,797 COLLEGE,ST,,,-79.4209136962891,43.6547317504883,1129,no control,Dry,2008/08/03,Improper passing,Normal,small_purple
+Minimal,No equipment available,Minor Arterial,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other,51,HARBORD,ST,CRAWFORD,ST,-79.4208755493164,43.6592254638672,1043,no control,Dry,2010/05/17,Improper passing,Unknown,small_purple
+Minimal,Helmet,Minor Arterial,"Motorist without right of way (fault) drives into path of cyclist at intersection, laneway, driveway - Driver not turning",50,HARBORD,ST,CRAWFORD,ST,-79.4208755493164,43.6592254638672,1430,stop sign,Dry,2006/07/19,Failed to yield right-of-way,Unknown,small_purple
+Minimal,Helmet,Minor Arterial,"Motorist without right of way (fault) drives into path of cyclist at intersection, laneway, driveway - Driver not turning",38,HARBORD,ST,CRAWFORD,ST,-79.4208755493164,43.6592254638672,1730,stop sign,Dry,2007/11/01,Failed to yield right-of-way,Normal,small_purple
+Minimal,Helmet,Minor Arterial,"Motorist without right of way (fault) drives into path of cyclist at intersection, laneway, driveway - Driver not turning",22,CHRISTIE,ST,GARNET,AVE,-79.4208374023438,43.6691970825195,1724,stop sign,Dry,2010/02/28,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Minor Arterial,Unrecorded,22,OSSINGTON,AV,ROLYAT,ST,-79.4208,43.6438,1400,traffic signal,Dry,1992/06/30,Unrecorded,Unrecorded,small_purple
+Minimal,Use unknown,Laneway,Unrecorded,23,SHAW,ST,COLLEGE,ST,-79.4208,43.6557,1720,no control,Slush,1993/03/08,Other,Unknown,small_purple
+Minimal,Unrecorded,Collector,Unrecorded,24,LIBERTY,Stre,ATLANTIC,Aven,-79.4207992553711,43.6381988525391,0001,stop sign,Wet,1998/11/12,Unrecorded,Unrecorded,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,34,QUEEN,ST,FENNINGS,ST,-79.4207992553711,43.643798828125,1205,no control,Dry,2002/06/17,Other,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other,19,1600 BATHURST,ST,,,-79.4206771850586,43.6884574890137,1215,no control,Dry,2006/06/05,Driving properly,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Cyclist struck open vehicle door,35,DUNDAS,Stre,OSSINGTON,Aven,-79.4206008911133,43.6493988037109,0030,no control,Dry,Cyclist struck open vehicle door/8/2007,Other,Normal,small_purple
+Minimal,Helmet,Major Arterial,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other,43,AVENUE,RD,JOICEY,BLVD,-79.4206008911133,43.7371406555176,1715,no control,Dry,2008/11/04,Driving properly,Normal,small_purple
+Minimal,Use unknown,Major Arterial,Unrecorded,30,KING,ST,ATLANTIC,AV,-79.4206,43.6403,0855,no control,Dry,1992/06/30,Failed to yield right-of-way,Normal,small_purple
+Minimal,Helmet,Minor Arterial,"Cyclist without right of way (fault) rides into the path of motorist at intersection, laneway, driveway - Cyclist not turning",12,HALTON,ST,OSSINGTON,AVE,-79.4205780029297,43.6482734680176,1638,stop sign,Dry,2007/05/31,Driving properly,Normal,small_purple
+Minimal,No equipment available,Major Arterial,"Cyclist without right of way (fault) rides into the path of motorist at intersection, laneway, driveway - Cyclist not turning",27,COLLEGE,Stre,SHAW,Stre,-79.4205017089844,43.6548004150391,1150,stop sign,Dry,2010/09/18,Driving properly,Normal,small_purple
+Minimal,Other safety equipment used,Major Arterial,"Motorist turn right at non-signalized intersection (i.e. stop, yield, no control,  and driveway) and strikes cyclist",48,BATHURST,ST,LONSMOUNT,DR,-79.4205017089844,43.6880340576172,1500,stop sign,Dry,2007/08/29,Other,Unknown,small_purple
+Minimal,Use unknown,Major Arterial,"Motorist turn right at non-signalized intersection (i.e. stop, yield, no control,  and driveway) and strikes cyclist",28,SHAW,ST,COLLEGE,ST,-79.4204711914063,43.6548538208008,0225,no control,Dry,2005/09/18,Failed to yield right-of-way,Normal,small_purple
+Minimal,Helmet,Major Arterial,Motorist turned left across cyclist's path,25,COLLEGE,ST,SHAW,ST,-79.4204711914063,43.6548538208008,0854,no control,Dry,2008/01/09,Improper turn,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,15,COLLEGE,ST,SHAW,ST,-79.4204711914063,43.6548538208008,1200,pedestrian crossover,Dry,2001/09/06,Driving properly,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,27,SHAW,ST,COLLEGE,ST,-79.4204711914063,43.6548538208008,1830,stop sign,Dry,2004/02/25,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Cyclist struck open vehicle door,29,COLLEGE,St,SHAW,St,-79.4204711914063,43.6548538208008,2100,no control,Dry,2010/08/10,Other,Inattentive,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,28,COLLEGE,ST,SHAW,ST,-79.42047,43.65485,0640,traffic signal,Dry,1992/10/29,Failed to yield right-of-way,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,34,COLLEGE,ST,SHAW,ST,-79.42047,43.65485,1300,no control,Dry,1986/08/01,Other,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,18,COLLEGE,ST,SHAW,ST,-79.42047,43.65485,1500,no control,Unrecorded,1988/06/02,Speed too fast for condition,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,18,COLLEGE,ST,SHAW,ST,-79.42047,43.65485,2200,stop sign,Unrecorded,1988/09/09,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,29,AVENUE,ROAD,JOICEY,BV,-79.42046,43.73673,1200,no control,Unrecorded,1989/06/07,Improper turn,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,23,ST CLAIR,,VAUGHAN,,-79.4204254150391,43.6827163696289,0825,traffic signal,Dry,1998/09/09,Failed to yield right-of-way,Inattentive,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,19,ST. CLAIR,AV,VAUGHAN,ROAD,-79.42042,43.68272,1600,no control,Dry,1986/06/04,Driving properly,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,19,ST. CLAIR,AV,VAUGHAN,ROAD,-79.42042,43.68272,2000,traffic signal,Wet,1986/09/29,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,35,ST. CLAIR,AV,VAUGHAN,ROAD,-79.42042,43.68272,2200,traffic signal,Unrecorded,1991/04/25,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,24,DUNDAS,ST,OSSINGTON,AV,-79.4204,43.6494,0826,no control,Wet,1992/09/08,Driving properly,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,41,DUNDAS,ST,OSSINGTON,AV,-79.4204,43.6494,1000,no control,Dry,1995/06/22,Other,Unknown,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,46,DUNDAS,ST,OSSINGTON,AV,-79.4204,43.6494,1100,no control,Unrecorded,1991/04/02,Other,Unknown,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,21,DUNDAS,ST,OSSINGTON,AV,-79.4204,43.6494,1800,no control,Unrecorded,1988/10/18,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,24,DUNDAS,ST,OSSINGTON,AV,-79.4204,43.6494,2200,no control,Unrecorded,1989/06/25,Failed to yield right-of-way,Normal,small_purple
+Minimal,Other safety equipment used,Collector,Motorist reversing struck cyclist,35,SHAW,ST,HARRISON,ST,-79.4203720092773,43.6545944213867,1230,no control,Dry,2006/07/21,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Major Arterial,"Motorist without right of way (fault) drives into path of cyclist at intersection, laneway, driveway - Driver not turning",47,166 WILSON,AVE,,,-79.4203338623047,43.7401428222656,1445,no control,Dry,2005/07/25,Failed to yield right-of-way,Inattentive,small_purple
+Minimal,Helmet,Local,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other,50,LIBERTY,ST,HANNA,AVE,-79.4203109741211,43.6383399963379,0947,no control,Dry,2009/07/22,Driving properly,Normal,small_purple
+Minimal,Helmet,Local,Unrecorded,10,AVENUE,Road,DUNBLAINE,Aven,-79.4203033447266,43.7358016967773,1545,traffic signal,Dry,1998/10/11,Improper turn,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,65,STEELES,AVE,YONGE,ST,-79.420280456543,43.7979469299316,1011,traffic signal,Dry,1998/04/29,Driving properly,Normal,small_purple
+Minimal,Equipment not used but available,Major Arterial,Motorist turning right on green or amber  at signalized intersections strikes cyclist,10,STEELES,AVE,YONGE,ST,-79.420280456543,43.7979469299316,1620,traffic signal,Dry,2006/05/03,Failed to yield right-of-way,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,20,STEELES,AVE,YONGE,ST,-79.420280456543,43.7979469299316,2200,traffic signal,Dry,1999/06/08,Unrecorded,Unrecorded,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,57,YONGE,ST,STEELES,AV,-79.42028,43.79795,1100,traffic signal,Unrecorded,1991/08/31,Failed to yield right-of-way,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,19,STEELES,AV,YONGE,ST,-79.42028,43.79795,1200,traffic signal,Dry,1987/09/03,Driving properly,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,11,YONGE,ST,STEELES,AV,-79.42028,43.79795,1857,traffic signal,Dry,1993/10/01,Driving properly,Normal,small_purple
+Minimal,Helmet,Major Arterial,"Motorist without right of way (fault) drives into path of cyclist at intersection, laneway, driveway - Driver not turning",25,YONGE,ST,NIPIGON,AVE,-79.4202041625977,43.7977027893066,1315,no control,Dry,2005/05/04,Failed to yield right-of-way,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,14,AVENUE,ROAD,HADDINGTON,AV,-79.4202,43.7354,1200,no control,Dry,1987/05/15,Failed to yield right-of-way,Unrecorded,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,22,BATHURST,ST,CLAXTON,BV,-79.42016,43.68715,0800,traffic signal,Unrecorded,1989/10/23,Driving properly,Normal,small_purple
+Minimal,No equipment available,Local,Unrecorded,30,BATHURST,ST,LONSDALE,ROAD,-79.42016,43.68715,0800,no control,Unrecorded,1990/09/24,Failed to yield right-of-way,Normal,small_purple
+Minimal,Lap and shoulder belt,Major Arterial,Motorist turned left across cyclist's path,26,BATHURST,ST,CLAXTON,BLVD,-79.4201583862305,43.6871528625488,1410,traffic signal,Dry,2005/09/11,Driving properly,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,14,YONGE,ST,STEELES,AV,-79.42015,43.79753,1400,no control,Dry,1987/07/04,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Local,Unrecorded,31,CHRISTIE,ST,PENDRITH,ST,-79.42013,43.66734,1920,stop sign,Wet,1993/04/02,Improper turn,Normal,small_purple
+Minimal,Helmet,Major Arterial,Motorist turned left across cyclist's path,34,REMEMBRANCE,DR,ONTARIO,DR,-79.4200820922852,43.6301803588867,0841,no control,Dry,2006/05/31,Failed to yield right-of-way,Normal,small_purple
+Minimal,Unrecorded,Minor Arterial,Unrecorded,Unrecorded,OSSINGTON,AVE,ARGYLE,ST,-79.420036315918,43.6468696594238,1850,pedestrian crossover,Unrecorded,1996/07/25,Unrecorded,Unrecorded,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,28,YONGE,ST,NIPIGON,AV,-79.42002,43.79711,2050,no control,Dry,1992/07/28,Failed to yield right-of-way,Normal,small_purple
+Minimal,Unrecorded,Local,Unrecorded,55,YONGE,ST,NIPIGON,AV,-79.42,43.7971,1550,no control,Unrecorded,1997/10/05,Unrecorded,Unrecorded,small_purple
+Minimal,No equipment available,Local,Unrecorded,28,CHRISTIE,ST,BARTON,AV,-79.42,43.6669,2100,no control,Unrecorded,1991/07/19,Other,Inattentive,small_purple
+Minimal,Use unknown,Major Arterial,Unrecorded,35,YONGE,ST,ABITIBI,AVE,-79.4199981689453,43.796501159668,2045,no control,Dry,2002/08/07,Driving properly,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,65,ONTARIO,DR,LAKESHORE,BV,-79.41998,43.63037,0900,traffic signal,Dry,1986/07/07,Driving properly,Normal,small_purple
+Minimal,Other safety equipment used,Collector,"Motorist without right of way (fault) drives into path of cyclist at intersection, laneway, driveway - Driver not turning",33,GREY,RD,WOBURN,AVE,-79.4199752807617,43.7247619628906,0850,stop sign,Dry,2003/12/19,Failed to yield right-of-way,Inattentive,small_purple
+Minimal,No equipment available,Major Arterial,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other,52,750 BLOOR,ST,,,-79.4199600219727,43.6632232666016,1413,no control,Dry,2008/11/28,Improper passing,Inattentive,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,17,COLLEGE,ST,SHAW,ST,-79.4199142456055,43.6549530029297,1730,no control,Dry,2001/04/26,Other,Normal,small_purple
+Minimal,No equipment available,Minor Arterial,Motorist turned left across cyclist's path,49,862 DAVENPORT,RD,,,-79.4199066162109,43.6764526367188,1740,no control,Dry,2009/03/28,Failed to yield right-of-way,Inattentive,small_purple
+Minimal,Lap and shoulder belt,Major Arterial,Unrecorded,45,COLLEGE,ST,SHAW,ST,-79.4199066162109,43.6549911499023,1930,no control,Dry,1999/03/04,Speed too slow,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,34,COLLEGE,ST,SHAW,ST,-79.4199,43.655,0800,no control,Dry,1986/07/09,Improper turn,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,19,COLLEGE,ST,SHAW,ST,-79.4199,43.655,1300,no control,Dry,1986/08/10,Other,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,27,COLLEGE,ST,SHAW,ST,-79.4199,43.655,1300,no control,Unrecorded,1989/01/30,Failed to yield right-of-way,Normal,small_purple
+Minimal,Use unknown,Major Arterial,Unrecorded,41,COLLEGE,ST,SHAW,ST,-79.4199,43.655,1550,stop sign,Dry,1995/09/21,Driving properly,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,20,COLLEGE,ST,SHAW,ST,-79.4199,43.655,1553,no control,Dry,1992/08/31,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,21,COLLEGE,ST,SHAW,ST,-79.4199,43.655,1600,no control,Unrecorded,1989/07/17,Improper turn,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,36,DUPONT,ST,CLINTON,ST,-79.4199,43.6719,1600,no control,Unrecorded,1991/04/25,Driving properly,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,22,YONGE,ST,ABITIBI,AV,-79.4199,43.7967,2200,no control,Unrecorded,1990/05/19,Improper  lane change,Unknown,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,24,ABITIBI,AV,YONGE,ST,-79.41983,43.79627,2000,stop sign,Unrecorded,1988/06/09,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Minor Arterial,Motorist turning right on green or amber  at signalized intersections strikes cyclist,24,CHRISTIE,ST,BARTON,AVE,-79.4198226928711,43.6665191650391,1455,traffic signal,Dry,2010/02/01,Driving properly,Normal,small_purple
+Minimal,Helmet,Minor Arterial,Unrecorded,23,CHRISTIE,ST,BARTON,AVE,-79.4198226928711,43.6665191650391,1900,traffic signal,Wet,2002/02/06,Improper turn,Inattentive,small_purple
+Minimal,Equipment not used but available,Local,Cyclist turns left across motorist's path,17,GWENDOLEN,AVE,RADINE,RD,-79.419807434082,43.752269744873,1645,stop sign,Dry,2010/05/18,Driving properly,Normal,small_purple
+Minimal,Other safety equipment used,Laneway,Unrecorded,26,VAUGHAN,ROAD,ST. CLAIR,AV,-79.4198,43.6824,2200,no control,Unrecorded,1991/04/05,Improper passing,Unknown,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,46,KING,,ATLANTIC AVE,,-79.4197998046875,43.6403999328613,1333,no control,Dry,1998/01/19,Other,Normal,small_purple
+Minimal,Helmet,Local,Cyclist turns left across motorist's path,14,HENDON,AVE,ELDORA,AVE,-79.4197998046875,43.7807655334473,1550,no control,Dry,2005/09/28,Driving properly,Normal,small_purple
+Minimal,No equipment available,Minor Arterial,Unrecorded,32,MONTROSE,AVE,HARBORD,ST,-79.4197769165039,43.6594696044922,1700,traffic signal,Dry,2001/07/22,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Minor Arterial,Unrecorded,16,HARBORD,ST,MONTROSE,AV,-79.41977,43.65947,0843,stop sign,Dry,1993/09/17,Failed to yield right-of-way,Normal,small_purple
+Minimal,Other safety equipment used,Private Property,Unrecorded,15,YONGE,ST,ABITIBI,AVE,-79.4197540283203,43.797004699707,0850,stop sign,Dry,2002/05/29,Failed to yield right-of-way,Inattentive,small_purple
+Minimal,Other safety equipment used,Major Arterial,Unrecorded,20,AVENUE,RD,BROOKE,AVE,-79.4197540283203,43.7334671020508,1500,no control,Dry,2004/07/29,Improper passing,Unknown,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,21,DUNDAS,ST,ROXTON,ROAD,-79.41974,43.64952,1700,stop sign,Unrecorded,1991/05/23,Improper turn,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Motorist turned left across cyclist's path,30,COLLEGE,ST,SHAW,ST,-79.4197311401367,43.6550102233887,0921,no control,Wet,2007/10/09,Improper turn,Normal,small_purple
+Minimal,Helmet,Minor Arterial,Cyclist struck open vehicle door,30,OSSINGTON,Ave,HUMBERT,St,-79.4197235107422,43.6460342407227,1515,no control,Dry,Cyclist struck open vehicle door/1/2010,Driving properly,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,25,YONGE ST,Stre,ATHABASKA,,-79.4197235107422,43.7958450317383,1530,no control,Dry,1998/06/29,Unrecorded,Unrecorded,small_purple
+Minimal,Helmet,Major Arterial,"Motorist turn right at non-signalized intersection (i.e. stop, yield, no control,  and driveway) and strikes cyclist",45,COLLEGE,Stre,CRAWFORD,Stre,-79.4197006225586,43.6549987792969,1035,no control,Dry,2010/09/08,Improper turn,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Motorist turning right on red at signalized intersection strikes cyclists,17,AVENUE,RD,BROOKE,AVE,-79.4197006225586,43.7331886291504,1810,traffic signal,Dry,2010/05/23,Improper turn,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other,27,COLLEGE,St,CRAWFORD,St,-79.4196624755859,43.6549797058105,0338,no control,Dry,2008/04/27,Improper  lane change,Normal,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,52,AVENUE,RD,ROE,AVE,-79.4196472167969,43.7328186035156,1447,no control,Dry,2001/07/11,Other,Normal,small_purple
+Minimal,Equipment not used but available,Major Arterial,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other,30,QUEEN,St,OSSINGTON,Ave,-79.4196395874023,43.6440200805664,1840,no control,Dry,2010/09/18,Improper passing,Normal,small_purple
+Minimal,Use unknown,Major Arterial,Unrecorded,14,YONGE,ST,ATHABASKA,AV,-79.41962,43.79542,1545,traffic signal,Dry,1994/10/16,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Minor Arterial,Unrecorded,34,CHRISTIE,ST,BLOOR,ST,-79.4195785522461,43.6658668518066,1330,no control,Dry,2004/04/30,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,15,AVENUE,RD,OLD ORCHARD GRV,Grov,-79.4195709228516,43.7320556640625,1320,pedestrian crossover,Slush,2002/12/16,Failed to yield right-of-way,Normal,small_purple
+Minimal,Helmet,Major Arterial,Cyclist struck at Ped Crossover (cyclist either travelling in same direction as vehicle or riding across crosswalk),12,1865 AVENUE,RD,,,-79.419563293457,43.7320556640625,1710,pedestrian crossover,Dry,2005/06/28,Disobeyed traffic control,Inattentive,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,11,AVENUE,ROAD,OLD ORCHARD,GROV,-79.4195,43.732,1335,pedestrian crossover,Dry,1993/12/19,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,19,YONGE,ST,OTONABEE,AV,-79.4195,43.795,1530,no control,Dry,1993/07/12,Improper turn,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,37,QUEEN,ST,BROOKFIELD,ROAD,-79.4195,43.6441,2100,no control,Unrecorded,1996/10/18,Unrecorded,Unrecorded,small_purple
+Minimal,Other safety equipment used,Local,Motorist turned left across cyclist's path,36,CONNAUGHT,AVE,LARIVIERE,RD,-79.4194793701172,43.7889747619629,1942,no control,Dry,2008/07/28,Failed to yield right-of-way,Unknown,small_purple
+Minimal,No equipment available,Major Arterial,Motorist turning right on green or amber  at signalized intersections strikes cyclist,42,TICHESTER,RD,BATHURST,ST,-79.41943359375,43.6853561401367,0740,no control,Dry,2005/12/12,Driving properly,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,24,BATHURST,ST,TICHESTER,ROAD,-79.41943,43.68536,1300,pedestrian crossover,Dry,1987/10/31,Other,Normal,small_purple
+Minimal,No equipment available,Minor Arterial,Cyclist struck open vehicle door,45,CHRISTIE,ST,BARTON,AVE,-79.4194259643555,43.66552734375,Unrecorded,no control,Dry,Cyclist struck open vehicle door/27/2009,Other,Inattentive,small_purple
+Minimal,No equipment available,Major Arterial,"Cyclist without right of way (fault) rides into the path of motorist at intersection, laneway, driveway - Cyclist not turning",19,YONGE,St,OTONABEE,Ave,-79.4194030761719,43.7945671081543,1545,no control,Dry,2010/06/30,Driving properly,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Cyclist falls off bike - no contact with motorist,31,YONGE,Stre,OTONABEE,Aven,-79.4194030761719,43.7946014404297,1757,no control,Dry,2009/09/22,Driving properly,Normal,small_purple
+Minimal,Helmet,Local,Cyclist struck open vehicle door,40,HOCKEN,AVE,VAUGHAN,RD,-79.419303894043,43.6816062927246,0910,no control,Dry,2010/05/27,Other,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,26,EGLINTON,AVE,SPADINA,RD,-79.419303894043,43.7022972106934,2000,traffic signal,Unrecorded,1991/07/17,Failed to yield right-of-way,Inattentive,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,19,YONGE,ST,MOORE PARK,AV,-79.4193,43.7942,1500,no control,Dry,1986/08/27,Failed to yield right-of-way,Normal,small_purple
+Minimal,Helmet,Minor Arterial,Unrecorded,25,DAVENPORT,RD,CHRISTIE,ST,-79.4192962646484,43.6766014099121,1010,no control,Wet,2001/10/31,Other,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,27,DUNDAS,ST,ROXTON,RD,-79.4192504882813,43.6496963500977,1100,no control,Dry,1998/10/24,Unrecorded,Unrecorded,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,38,COLLEGE,ST,CRAWFORD,ST,-79.41923,43.6551,1320,traffic signal,Dry,1994/12/19,Following too close,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,25,COLLEGE,ST,CRAWFORD,ST,-79.41923,43.6551,1500,traffic signal,Unrecorded,1991/07/17,Improper passing,Normal,small_purple
+Minimal,Use unknown,Major Arterial,Motorist turning right on red at signalized intersection strikes cyclists,27,COLLEGE,ST,CRAWFORD,ST,-79.4192276000977,43.655101776123,0155,traffic signal,Dry,2008/07/07,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Motorist turned left across cyclist's path,60,COLLEGE,ST,CRAWFORD,ST,-79.4192276000977,43.655101776123,1302,traffic signal,Dry,2008/08/28,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other,26,COLLEGE,ST,CRAWFORD,ST,-79.4192276000977,43.655101776123,1315,no control,Dry,2008/09/16,Driving properly,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other,26,COLLEGE,St,CRAWFORD,St,-79.4192276000977,43.655101776123,2150,traffic signal,Wet,2007/12/03,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Major Arterial,"Cyclist without right of way (fault) rides into the path of motorist at intersection, laneway, driveway - Cyclist not turning",44,YONGE,ST,MADAWASKA,AVE,-79.4192123413086,43.7937545776367,0943,traffic signal,Dry,2006/10/15,Driving properly,Normal,small_purple
+Minimal,Helmet,Major Arterial,Motorist turning right on red at signalized intersection strikes cyclists,08,YONGE,ST,MADAWASKA,AVE,-79.4192123413086,43.7937545776367,1130,traffic signal,Dry,2008/06/08,Failed to yield right-of-way,Normal,small_purple
+Minimal,Equipment not used but available,Local,Unrecorded,38,YONGE,ST,MADAWASKA,AV,-79.41921,43.79375,1630,traffic signal,Dry,1993/06/12,Improper passing,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,55,DUNDAS,Stre,SHAW,Stre,-79.4192,43.6497,2007,no control,Wet,2009/12/31,Unrecorded,Unrecorded,small_purple
+Minimal,Helmet,Minor Arterial,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other,19,CHRISTIE,ST,BLOOR,ST,-79.4191436767578,43.6647872924805,1329,no control,Dry,2009/02/27,Failed to yield right-of-way,Inattentive,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,29,DUNDAS,ST,ROXTON,ROAD,-79.4191,43.6496,1615,no control,Dry,1994/08/15,Other,Normal,small_purple
+Minimal,Helmet,Major Arterial,Motorist turned left across cyclist's path,22,QUEEN,ST,OSSINGTON,AVE,-79.4190902709961,43.6441421508789,0342,traffic signal,Dry,2008/07/22,Improper turn,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,24,OSSINGTON,AV,QUEEN,ST,-79.41909,43.64414,0000,traffic signal,Wet,1986/05/16,Failed to yield right-of-way,"Ability impaired, alcohol",small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,32,QUEEN,ST,OSSINGTON,AV,-79.41909,43.64414,0000,traffic signal,Unrecorded,1989/07/11,Driving properly,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,34,QUEEN,ST,OSSINGTON,AV,-79.41909,43.64414,1700,no control,Dry,1986/08/22,Driving properly,Normal,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,29,QUEEN,ST,OSSINGTON,AV,-79.41909,43.64414,2100,traffic signal,Unrecorded,1989/07/05,Failed to yield right-of-way,Unknown,small_purple
+Minimal,Helmet,Major Arterial,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other,70,ST CLAIR,AVE,RAGLAN,AVE,-79.4190826416016,43.6830024719238,0435,no control,Dry,2007/11/17,Improper  lane change,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,30,BLOOR,ST,GRACE,ST,-79.41907,43.66342,1950,traffic signal,Dry,1994/09/29,Improper turn,Inattentive,small_purple
+Minimal,Use unknown,Major Arterial,"Cyclist without right of way (fault) rides into the path of motorist at intersection, laneway, driveway - Cyclist not turning",21,GRACE,St,BLOOR,St,-79.4190673828125,43.6634178161621,0920,traffic signal,Dry,2010/07/13,Driving properly,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,62,BLOOR,ST,CHRISTIE,ST,-79.4190673828125,43.6634178161621,1215,traffic signal,Dry,1999/04/05,Disobeyed traffic control,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,28,BLOOR,,GRACE,,-79.4190673828125,43.6634178161621,1555,traffic signal,Dry,1998/08/04,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,18,BLOOR,ST,GRACE,ST,-79.4190673828125,43.6634178161621,1733,traffic signal,Dry,2000/06/04,Driving properly,Normal,small_purple
+Minimal,Equipment not used but available,Major Arterial,Unrecorded,13,AVENUE,RD,MELROSE,AVE,-79.4189987182617,43.7302017211914,1450,no control,Dry,2002/06/15,Driving properly,Normal,small_purple
+Minimal,Lap and shoulder belt,Major Arterial,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other,30,YONGE,ST,PLEASANT,AVE,-79.4189910888672,43.7929039001465,1140,no control,Dry,2005/06/11,Driving properly,Normal,small_purple
+Minimal,Other safety equipment used,Collector,Unrecorded,27,GRACE,ST,BLOOR,ST,-79.4189529418945,43.6630935668945,2028,no control,Dry,2002/08/27,Failed to yield right-of-way,Inattentive,small_purple
+Minimal,No equipment available,Major Arterial,Insufficient information (to determine cyclist crash type),31,QUEEN,ST,OSSINGTON,AVE,-79.4189224243164,43.6441688537598,1215,no control,Dry,2001/03/03,Failed to yield right-of-way,Normal,small_purple
+Minimal,Helmet,Laneway,Unrecorded,38,GRACE,ST,HARBORD,ST,-79.4189147949219,43.6625480651855,1504,no control,Dry,1998/06/19,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,29,YONGE,ST,GOULDING,AV,-79.4189,43.7925,1100,no control,Unrecorded,1991/05/13,Improper turn,Normal,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,33,COLLEGE,ST,CRAWFORD,ST,-79.4189,43.6552,1130,no control,Dry,1993/04/24,Improper  lane change,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,54,COLLEGE,ST,CRAWFORD,ST,-79.4189,43.6552,1200,no control,Dry,1986/05/31,Other,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,31,COLLEGE,ST,CRAWFORD,ST,-79.4189,43.6552,1700,no control,Unrecorded,1990/06/17,Other,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,19,COLLEGE,ST,CRAWFORD,ST,-79.4189,43.6552,2100,no control,Unrecorded,1988/09/23,Failed to yield right-of-way,Normal,small_purple
+Minimal,Use unknown,Major Arterial,Unrecorded,35,COLLEGE,Stre,MONTROSE,Aven,-79.4188995361328,43.655200958252,1939,no control,Dry,2000/09/15,Unrecorded,Unrecorded,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,27,BLOOR,ST,GRACE,ST,-79.4188766479492,43.663459777832,0855,no control,Dry,2002/06/06,Improper passing,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,19,AVENUE,ROAD,MELROSE,AV,-79.41886,43.72983,1700,stop sign,Dry,1986/08/29,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other,42,BLOOR,ST,GRACE,ST,-79.4188385009766,43.6634712219238,0515,no control,Dry,2007/07/11,Improper  lane change,Unknown,small_purple
+Minimal,Unrecorded,Collector,Unrecorded,24,CHRISTIE,ST,BLOOR,ST,-79.4188,43.66396,0000,no control,Dry,1986/07/27,Improper passing,Unrecorded,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,20,BLOOR,ST,GRACE,ST,-79.4188,43.6635,0100,no control,Unrecorded,1990/04/29,Failed to yield right-of-way,Normal,small_purple
+Minimal,Use unknown,Major Arterial,Unrecorded,21,EGLINTON,AV,SPADINA,ROAD,-79.4188,43.7024,1055,no control,Dry,1994/10/21,Other,Unknown,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,27,BLOOR,ST,GRACE,ST,-79.4188,43.6635,1600,no control,Unrecorded,1989/09/07,Driving properly,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,24,BLOOR,ST,GRACE,ST,-79.4188,43.6635,1700,traffic signal,Unrecorded,1991/04/23,Failed to yield right-of-way,Inattentive,small_purple
+Minimal,Helmet,Minor Arterial,Unrecorded,21,CHRISTIE,ST,BLOOR,ST,-79.4188,43.66396,1800,no control,Unrecorded,1990/06/14,Other,Normal,small_purple
+Minimal,No equipment available,Collector,Unrecorded,21,CHAPLIN,CR,SPADINA,ROAD,-79.4188,43.70326,2300,stop sign,Unrecorded,1988/06/25,Failed to yield right-of-way,Unknown,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,14,GOULDING,AV,YONGE,ST,-79.41877,43.79201,1600,stop sign,Unrecorded,1989/05/18,Driving properly,Normal,small_purple
+Minimal,No equipment available,Collector,Unrecorded,20,CHRISTIE,ST,BLOOR,ST,-79.4187622070313,43.6641540527344,1242,no control,Dry,2001/05/12,Driving properly,Normal,small_purple
+Minimal,Use unknown,Local,Unrecorded,43,CINDER,AVE,CRAWFORD,ST,-79.4186477661133,43.6535301208496,0932,stop sign,Wet,1999/09/07,Failed to yield right-of-way,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,24,CHRISTIE,ST,BLOOR,ST,-79.41862,43.66353,1100,no control,Dry,1987/04/13,Other,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,23,BLOOR,ST,CHRISTIE,ST,-79.41862,43.66353,1500,no control,Unrecorded,1991/06/17,Improper  lane change,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,24,BLOOR,ST,CHRISTIE,ST,-79.41862,43.66353,1700,stop sign,Wet,1987/09/19,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,26,BLOOR,ST,CHRISTIE,ST,-79.41862,43.66353,2300,traffic signal,Dry,1992/10/01,Failed to yield right-of-way,Normal,small_purple
+Minimal,Helmet,Major Arterial,"Motorist turn right at non-signalized intersection (i.e. stop, yield, no control,  and driveway) and strikes cyclist",38,BLOOR,ST,CHRISTIE,ST,-79.4186172485352,43.6635284423828,1450,no control,Dry,2006/04/18,Failed to yield right-of-way,Inattentive,small_purple
+Minimal,No equipment available,Major Arterial,Cyclist struck open vehicle door,22,BLOOR,Stre,CHRISTIE,Stre,-79.4186096191406,43.6635055541992,Unrecorded,no control,Dry,2010/09/10,Other,Normal,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,28,BLOOR,Stre,CHRISTIE,Stre,-79.4186019897461,43.663501739502,2124,no control,Dry,2010/07/30,Unrecorded,Unrecorded,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,45,BLOOR,ST,CHRISTIE,ST,-79.4186,43.6635,1800,stop sign,Unrecorded,1997/08/06,Unrecorded,Unrecorded,small_purple
+Minimal,No equipment available,Local,Unrecorded,18,VESTA,,ELDERWOOD,,-79.4185943603516,43.6961288452148,2215,stop sign,Dry,1998/07/09,Driving properly,Normal,small_purple
+Minimal,Lap and shoulder belt,Major Arterial,Unrecorded,40,QUEEN,ST,OSSINGTON,AVE,-79.418571472168,43.6442375183105,1655,no control,Dry,2001/05/02,Wrong way on one-way road,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,34,COLLEGE,ST,MONTROSE,AVE,-79.4185256958008,43.6551895141602,2000,stop sign,Dry,2000/09/19,Improper turn,Normal,small_purple
+Minimal,Use unknown,Major Arterial,Unrecorded,35,KING,Stre,SUDBURY,Stre,-79.4185028076172,43.6407012939453,1420,no control,Dry,2000/10/19,Unrecorded,Unrecorded,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,17,ST. CLAIR,AV,BATHURST,ST,-79.4185,43.68311,0800,traffic signal,Unrecorded,1988/05/17,Failed to yield right-of-way,Normal,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,34,ST. CLAIR,AV,BATHURST,ST,-79.4185,43.68311,1005,traffic signal,Dry,1993/08/25,Disobeyed traffic control,Normal,small_purple
+Minimal,Unrecorded,Laneway,Unrecorded,63,DUPONT,ST,MANNING,AV,-79.4185,43.6722,1645,no control,Unrecorded,1997/08/14,Unrecorded,Unrecorded,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,34,BATHURST,ST,ST. CLAIR,AV,-79.4185,43.68311,1700,traffic signal,Dry,1987/07/24,Disobeyed traffic control,Unrecorded,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,29,DUNDAS,ST,SHAW,ST,-79.4185,43.6498,1835,stop sign,Unrecorded,1997/04/05,Unrecorded,Unrecorded,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,26,SHAW,ST,DUNDAS,ST,-79.41849,43.64977,2100,traffic signal,Unrecorded,1988/05/02,Driving properly,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Cyclist and Driver travelling in same direction. One vehicle rear-ended the other,43,SHAW,ST,DUNDAS,ST,-79.4184875488281,43.6497688293457,0227,traffic signal,Dry,2008/09/07,Exceeding speed limit,"Ability impaired, alcohol",small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,25,DUNDAS,ST,SHAW,ST,-79.4184875488281,43.6497688293457,1015,traffic signal,Dry,1999/08/23,Driving properly,Normal,small_purple
+Minimal,No equipment available,Major Arterial,"Cyclist without right of way (fault) rides into the path of motorist at intersection, laneway, driveway - Cyclist not turning",18,SHAW,ST,DUNDAS,ST,-79.4184875488281,43.6497688293457,1750,traffic signal,Dry,2006/05/10,Driving properly,Normal,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,33,DUNDAS,ST,SHAW,ST,-79.4184875488281,43.6497688293457,2040,traffic signal,Dry,1999/04/04,Failed to yield right-of-way,Normal,small_purple
+Minimal,Helmet,Major Arterial,"Motorist without right of way (fault) drives into path of cyclist at intersection, laneway, driveway - Driver not turning",31,DUNDAS,ST,SHAW,ST,-79.4184875488281,43.6497688293457,2346,traffic signal,Dry,2008/10/04,Failed to yield right-of-way,Unknown,small_purple
+Minimal,No equipment available,Major Arterial,"Motorist without right of way (fault) drives into path of cyclist at intersection, laneway, driveway - Driver not turning",46,6075 YONGE,ST,,,-79.4184494018555,43.7906761169434,1445,no control,Dry,2007/06/21,Failed to yield right-of-way,Normal,small_purple
+Minimal,Helmet,Collector,"Cyclist without right of way (fault) rides into the path of motorist at intersection, laneway, driveway - Cyclist not turning",38,BURTON,RD,GLENAYR,RD,-79.4184188842773,43.692699432373,0848,stop sign,Dry,2006/04/27,Driving properly,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,28,QUEEN,ST,OSSINGTON,AV,-79.4184,43.6443,1300,no control,Unrecorded,1989/11/01,Driving properly,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,30,COLLEGE,ST,MONTROSE,AV,-79.4184,43.6552,1820,no control,Unrecorded,1997/06/02,Unrecorded,Unrecorded,small_purple
+Minimal,Use unknown,Major Arterial,Motorist turned left across cyclist's path,40,QUEEN,ST,OSSINGTON,AVE,-79.4183654785156,43.644287109375,0840,no control,Dry,2006/03/27,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Major Arterial,"Motorist without right of way (fault) drives into path of cyclist at intersection, laneway, driveway - Driver not turning",18,YONGE,ST,PATRICIA,AVE,-79.4183349609375,43.7901992797852,1500,traffic signal,Dry,2006/07/17,Disobeyed traffic control,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,47,YONGE,ST,PATRICIA,AVE,-79.4183349609375,43.7901992797852,1645,traffic signal,Dry,2004/08/06,Failed to yield right-of-way,Unknown,small_purple
+Minimal,No equipment available,Major Arterial,"Motorist turn right at non-signalized intersection (i.e. stop, yield, no control,  and driveway) and strikes cyclist",18,1717 AVENUE,RD,,,-79.4183197021484,43.7284164428711,1248,no control,Dry,2005/09/18,Failed to yield right-of-way,Inattentive,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,34,BATHURST,ST,MELGUND,ROAD,-79.4183,43.6825,1600,no control,Dry,1986/08/01,Driving properly,Normal,small_purple
+Minimal,No equipment available,Minor Arterial,"Cyclist without right of way (fault) rides into the path of motorist at intersection, laneway, driveway - Cyclist not turning",70,HARBORD,ST,MONTROSE,AVE,-79.4182586669922,43.6597709655762,1513,no control,Dry,2005/10/27,Driving properly,Normal,small_purple
+Minimal,Other safety equipment used,Major Arterial,"Motorist turn right at non-signalized intersection (i.e. stop, yield, no control,  and driveway) and strikes cyclist",19,6061 YONGE,ST,,,-79.418212890625,43.7897300720215,1755,no control,Dry,2007/09/02,Failed to yield right-of-way,Inattentive,small_purple
+Minimal,Use unknown,Major Arterial,Unrecorded,13,YONGE,ST,CONNAUGHT,AV,-79.4182,43.7898,1253,no control,Dry,1995/09/09,Failed to yield right-of-way,Normal,small_purple
+Minimal,Helmet,Major Arterial,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other,58,COLLEGE,ST,MONTROSE,AVE,-79.4181060791016,43.6551895141602,1445,no control,Dry,2008/07/31,Improper  lane change,Inattentive,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,26,COLLEGE,ST,MONTROSE,AVE,-79.4181060791016,43.6551818847656,1823,stop sign,Dry,2000/08/12,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,28,COLLEGE,Stre,MONTROSE,Aven,-79.4181060791016,43.6551895141602,2155,stop sign,Dry,1998/07/19,Unrecorded,Unrecorded,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,19,COLLEGE,ST,MONTROSE,AV,-79.4181,43.65519,1800,no control,Dry,1987/11/19,Improper turn,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,22,DUPONT,ST,MANNING,AV,-79.4181,43.6723,1810,no control,Dry,1994/08/11,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,21,COLLEGE,ST,MONTROSE,AV,-79.4181,43.65519,2100,no control,Unrecorded,1988/06/11,Improper turn,Normal,small_purple
+Minimal,No equipment available,Major Arterial,"Motorist without right of way (fault) drives into path of cyclist at intersection, laneway, driveway - Driver not turning",23,6023 YONGE,ST,,,-79.418098449707,43.7892265319824,1110,no control,Dry,2005/07/28,Failed to yield right-of-way,Normal,small_purple
+Minimal,Other safety equipment used,Major Arterial,"Motorist turn right at non-signalized intersection (i.e. stop, yield, no control,  and driveway) and strikes cyclist",27,YONGE,ST,WEDGEWOOD,DR,-79.4180221557617,43.7889251708984,1700,stop sign,Dry,2006/05/09,Failed to yield right-of-way,Unknown,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,29,YONGE,ST,WEDGEWOOD,DR,-79.4180221557617,43.7889251708984,2000,stop sign,Wet,2001/10/05,Driving properly,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,14,WEDGEWOOD,DR,YONGE,ST,-79.41802,43.78892,1200,stop sign,Dry,1986/11/14,Driving properly,Normal,small_purple
+Minimal,Helmet,Minor Arterial,Unrecorded,30,DAVENPORT,RD,WYCHWOOD,PK,-79.4180068969727,43.6766967773438,1700,no control,Dry,1994/07/14,Other,Unknown,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,32,BLOOR,ST,CHRISTIE,ST,-79.418,43.6637,1600,no control,Unrecorded,1988/06/13,Improper turn,Unknown,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,28,BLOOR,ST,CHRISTIE,ST,-79.418,43.6637,1750,no control,Wet,1992/12/04,Improper passing,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,24,BLOOR,ST,CHRISTIE,ST,-79.418,43.6637,1800,no control,Dry,1987/08/01,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,19,BLOOR,ST,CHRISTIE,ST,-79.418,43.6637,2100,no control,Unrecorded,1989/07/26,Driving properly,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,28,BLOOR,ST,CHRISTIE,ST,-79.4179992675781,43.6636009216309,1310,no control,Dry,2000/09/19,Other,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,24,DUNDAS,ST,SHAW,ST,-79.4179,43.6499,1700,no control,Unrecorded,1989/06/23,Improper passing,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,30,DUNDAS,ST,SHAW,ST,-79.4179,43.6499,1800,no control,Wet,1993/01/22,Other,Normal,small_purple
+Minimal,No equipment available,Minor Arterial,Unrecorded,13,SPADINA,ROAD,ORMSBY,CR,-79.41788,43.7005,0800,stop sign,Unrecorded,1991/05/15,Failed to yield right-of-way,Normal,small_purple
+Minimal,Helmet,Minor Arterial,"Motorist turn right at non-signalized intersection (i.e. stop, yield, no control,  and driveway) and strikes cyclist",10,SPADINA,RD,ORMSBY,CRES,-79.4178771972656,43.7005043029785,0850,stop sign,Dry,2005/10/27,Failed to yield right-of-way,Normal,small_purple
+Minimal,Use unknown,Major Arterial,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other,21,FINCH,AVE,LORRAINE,DR,-79.4178695678711,43.7792587280273,2005,no control,Dry,2007/06/23,Driving properly,Normal,small_purple
+Minimal,Use unknown,Minor Arterial,Unrecorded,27,BATHURST,ST,VAUGHAN,RD,-79.4178237915039,43.6813926696777,0115,no control,Dry,1999/12/20,Unrecorded,Unrecorded,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,27,YONGE,ST,DREWRY,AV,-79.4178,43.788,1015,no control,Wet,1994/02/17,Failed to yield right-of-way,Inattentive,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,19,YONGE,ST,CUMMER,AV,-79.4178,43.788,1400,no control,Dry,1986/08/15,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,36,YONGE,ST,CUMMER,AV,-79.4178,43.788,1400,no control,Unrecorded,1990/09/17,Failed to yield right-of-way,Normal,small_purple
+Minimal,Use unknown,Major Arterial,Unrecorded,12,YONGE,ST,DREWRY,AV,-79.4178,43.788,1630,no control,Dry,1993/10/06,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,12,YONGE,ST,CUMMER,AV,-79.4178,43.788,1700,no control,Unrecorded,1988/03/27,Failed to yield right-of-way,Inattentive,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,16,YONGE,ST,CUMMER,AV,-79.4178,43.788,1800,no control,Unrecorded,1991/09/28,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,28,YONGE,ST,DREWRY,AV,-79.4178,43.788,1800,no control,Unrecorded,1988/07/15,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,47,BATHURST,ST,HELENA,AV,-79.4178,43.6813,1910,stop sign,Dry,1992/09/30,Driving properly,Normal,small_purple
+Minimal,Use unknown,Major Arterial,Unrecorded,45,QUEEN,ST,GIVINS,ST,-79.41774,43.64441,1800,stop sign,Unrecorded,1990/12/08,Driving properly,Normal,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,27,COLLEGE,ST,MONTROSE,AVE,-79.417724609375,43.6551551818848,1545,no control,Dry,2002/06/30,Unrecorded,Normal,small_purple
+Minimal,Helmet,Minor Arterial,Unrecorded,28,HARBORD,ST,GRACE,ST,-79.41771,43.65988,0220,traffic signal,Dry,1995/06/17,Exceeding speed limit,Had been drinking,small_purple
+Minimal,No equipment available,Minor Arterial,Unrecorded,23,HARBORD,ST,GRACE,ST,-79.41771,43.65988,1207,traffic signal,Dry,1992/06/05,Unrecorded,Unrecorded,small_purple
+Minimal,Unrecorded,Minor Arterial,Unrecorded,44,HARBORD,ST,GRACE,ST,-79.41771,43.65988,1600,traffic signal,Dry,1987/10/25,Driving properly,Normal,small_purple
+Minimal,Use unknown,Minor Arterial,Unrecorded,33,HARBORD,ST,GRACE,ST,-79.41771,43.65988,1630,traffic signal,Dry,1993/09/17,Other,Unknown,small_purple
+Minimal,No equipment available,Minor Arterial,Unrecorded,07,HARBORD,ST,GRACE,ST,-79.41771,43.65988,1700,traffic signal,Unrecorded,1989/07/18,Driving properly,Normal,small_purple
+Minimal,Unrecorded,Minor Arterial,Unrecorded,34,HARBORD,ST,GRACE,ST,-79.41771,43.65988,1800,traffic signal,Dry,1987/05/20,Driving properly,Normal,small_purple
+Minimal,No equipment available,Minor Arterial,Motorist turning right on red at signalized intersection strikes cyclists,20,HARBORD,ST,GRACE,ST,-79.4177093505859,43.6598777770996,0001,traffic signal,Dry,2010/08/19,Failed to yield right-of-way,Unknown,small_purple
+Minimal,No equipment available,Minor Arterial,Cyclist turns right across motorist path,53,HARBORD,ST,GRACE,ST,-79.4177093505859,43.6598777770996,1905,traffic signal,Wet,2006/01/04,Driving properly,Normal,small_purple
+Minimal,Helmet,Major Arterial,"Motorist turn right at non-signalized intersection (i.e. stop, yield, no control,  and driveway) and strikes cyclist",12,BROOKDALE,AVE,AVENUE,RD,-79.4177017211914,43.7268981933594,1846,stop sign,Dry,2010/06/03,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,35,COLLEGE,ST,MONTROSE,AV,-79.4177,43.6552,1200,no control,Wet,1993/12/10,Other,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,26,COLLEGE,ST,MONTROSE,AV,-79.4177,43.6552,1400,no control,Dry,1992/06/06,Other,Normal,small_purple
+Minimal,Unrecorded,Local,Unrecorded,49,BATHURST,ST,VAUGHAN,ROAD,-79.4177,43.681,1930,stop sign,Unrecorded,1997/11/09,Unrecorded,Unrecorded,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,14,COLLEGE,ST,MONTROSE,AV,-79.4177,43.6552,2000,no control,Unrecorded,1991/05/20,Failed to yield right-of-way,Normal,small_purple
+Minimal,Use unknown,Major Arterial,Unrecorded,28,COLLEGE,ST,MONTROSE,AV,-79.4177,43.6552,2200,no control,Unrecorded,1990/07/29,Improper turn,Unknown,small_purple
+Minimal,Helmet,Major Arterial,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other,28,COLLEGE,ST,MONTROSE,AVE,-79.4176788330078,43.6551513671875,0820,no control,Dry,2008/11/27,Failed to yield right-of-way,Normal,small_purple
+Minimal,Use unknown,Local,Unrecorded,42,BATHURST,ST,HELENA,AVE,-79.4176788330078,43.6809959411621,1300,no control,Dry,1999/06/12,Driving properly,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,29,COLLEGE,ST,MONTROSE,AVE,-79.4176025390625,43.655101776123,1656,no control,Dry,2003/10/28,Improper passing,Inattentive,small_purple
+Minimal,Use unknown,Local,Unrecorded,29,CRAWFORD,ST,DUNDAS,ST,-79.4176,43.6508,1800,no control,Dry,1993/05/09,Other,Unknown,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,19,AVENUE,ROAD,CRANBROOKE,AV,-79.4176,43.7266,1900,no control,Dry,1987/04/25,Driving properly,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,34,EGLINTON,AV,CHAPLIN,CR,-79.41758,43.70267,1200,traffic signal,Dry,1986/07/09,Unrecorded,Normal,small_purple
+Minimal,No equipment available,Major Arterial,"Cyclist without right of way (fault) rides into the path of motorist at intersection, laneway, driveway - Cyclist not turning",23,CHAPLIN,CRES,EGLINTON,AVE,-79.4175796508789,43.7026634216309,1125,traffic signal,Dry,2007/09/08,Driving properly,Normal,small_purple
+Minimal,Equipment not used but available,Major Arterial,Unrecorded,33,EGLINTON,,CHAPLIN,,-79.4175796508789,43.7026634216309,1140,traffic signal,Dry,1998/09/06,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,33,YONGE,ST,CUMMER,AV,-79.41755,43.78701,1753,traffic signal,Wet,1992/10/20,Improper turn,Normal,small_purple
+Minimal,Helmet,Major Arterial,Motorist turning right on green or amber  at signalized intersections strikes cyclist,Unrecorded,CUMMER,AVE,YONGE,ST,-79.4175491333008,43.7870140075684,0925,traffic signal,Wet,2005/10/23,Driving properly,Normal,small_purple
+Minimal,Helmet,Minor Arterial,Unrecorded,83,YONGE,ST,CUMMER,AVE,-79.4175491333008,43.7870140075684,1520,traffic signal,Dry,1998/06/27,Unrecorded,Unrecorded,small_purple
+Minimal,No equipment available,Major Arterial,Motorist turning right on red at signalized intersection strikes cyclists,32,DREWRY,Ave,YONGE,St,-79.4175491333008,43.7870140075684,2012,traffic signal,Dry,2009/09/08,Driving properly,Inattentive,small_purple
+Minimal,Helmet,Major Arterial,Motorist turned left across cyclist's path,24,CUMMER,Aven,YONGE,Stre,-79.4175033569336,43.7869987487793,1456,traffic signal,Dry,2010/12/07,Improper turn,Inattentive,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,34,BATHURST,ST,ALCINA,AV,-79.4175,43.6805,1800,no control,Dry,1987/07/23,Driving properly,Normal,small_purple
+Minimal,No equipment available,Local,Unrecorded,21,JERSEY,AV,PAGE,ST,-79.4175,43.66094,2100,other,Unrecorded,1988/06/27,Driving properly,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,31,KING,ST,SUDBURY,ST,-79.41744,43.64093,1300,stop sign,Unrecorded,1991/10/19,Failed to yield right-of-way,Normal,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,31,KING,ST,SUDBURY,ST,-79.41744,43.64093,1350,stop sign,Dry,1994/09/07,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,33,KING,ST,SUDBURY,ST,-79.41744,43.64093,1500,stop sign,Unrecorded,1990/08/28,Driving properly,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,25,SUDBURY,ST,KING,ST,-79.41744,43.64093,1600,stop sign,Unrecorded,1989/02/03,Driving properly,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,28,BLOOR,ST,CLINTON,ST,-79.41742,43.66378,0000,no control,Unrecorded,1988/04/21,Driving properly,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,34,BLOOR,ST,CLINTON,ST,-79.41742,43.66378,0700,no control,Dry,1986/06/21,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,29,BLOOR,ST,CLINTON,ST,-79.41742,43.66378,1400,no control,Unrecorded,1991/06/13,Failed to yield right-of-way,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,34,BLOOR,ST,CLINTON,ST,-79.41742,43.66378,1500,stop sign,Dry,1987/09/25,Failed to yield right-of-way,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,24,BLOOR,ST,CLINTON,ST,-79.41742,43.66378,1700,stop sign,Dry,1987/05/22,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,40,BLOOR,ST,CLINTON,ST,-79.41742,43.66378,1700,stop sign,Unrecorded,1990/07/27,Failed to yield right-of-way,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,24,BLOOR,ST,CLINTON,ST,-79.41742,43.66378,2000,no control,Dry,1987/06/21,Failed to yield right-of-way,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,34,BLOOR,ST,CLINTON,ST,-79.41742,43.66378,2100,stop sign,Dry,1986/05/21,Driving properly,Normal,small_purple
+Minimal,Helmet,Major Arterial,"Motorist without right of way (fault) drives into path of cyclist at intersection, laneway, driveway - Driver not turning",24,BLOOR,ST,CLINTON,ST,-79.4174194335938,43.6637802124023,0900,stop sign,Dry,2006/01/27,Failed to yield right-of-way,Inattentive,small_purple
+Minimal,No equipment available,Major Arterial,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other,24,BLOOR,ST,CLINTON,ST,-79.4174194335938,43.6637802124023,1429,no control,Dry,2008/11/17,Failed to yield right-of-way,Inattentive,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,12,5906 YONGE,ST,HENDON,AVE,-79.4174194335938,43.7864875793457,1600,no control,Dry,2000/05/24,Failed to yield right-of-way,Normal,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,51,BLOOR,ST,CLINTON,ST,-79.4174194335938,43.6637802124023,2015,stop sign,Wet,2003/01/15,Failed to yield right-of-way,Inattentive,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,24,BLOOR,ST,CLINTON,ST,-79.4174,43.6638,0838,stop sign,Unrecorded,1996/04/18,Unrecorded,Unrecorded,small_purple
+Minimal,No equipment available,Minor Arterial,Unrecorded,26,HARBORD,ST,GRACE,ST,-79.4174,43.6599,1740,no control,Dry,1995/08/11,Improper passing,Unknown,small_purple
+Minimal,Use unknown,Major Arterial,Unrecorded,27,ST. CLAIR,AV,HILTON,AV,-79.41734,43.68334,0940,stop sign,Dry,1993/08/23,Driving properly,Normal,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,28,AVENUE,ROAD,WOBURN,AV,-79.4173,43.7258,1000,no control,Unrecorded,1992/06/09,Failed to yield right-of-way,Normal,small_purple
+Minimal,Helmet,Major Arterial,"Motorist turn right at non-signalized intersection (i.e. stop, yield, no control,  and driveway) and strikes cyclist",21,COLLEGE,Stre,BEATRICE,Stre,-79.4172973632813,43.655101776123,1040,no control,Dry,2009/09/11,Improper turn,Inattentive,small_purple
+Minimal,No equipment available,Local,Unrecorded,67,BATHURST,ST,ALCINA,AV,-79.41729,43.68005,1700,no control,Unrecorded,1991/06/16,Driving properly,Normal,small_purple
+Minimal,Helmet,Major Arterial,"Motorist turn right at non-signalized intersection (i.e. stop, yield, no control,  and driveway) and strikes cyclist",39,BATHURST,ST,ALCINA,AVE,-79.4172897338867,43.6800498962402,0824,no control,Dry,2007/06/20,Driving properly,Unknown,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,11,EGLINTON,AVE,GILGORM,RD,-79.4172897338867,43.7027282714844,1805,no control,Wet,1999/10/08,Driving properly,Normal,small_purple
+Minimal,Helmet,Major Arterial,Cyclist struck open vehicle door,43,COLLEGE,ST,BEATRICE,ST,-79.4172744750977,43.6551132202148,0945,no control,Dry,2009/09/22,Other,Inattentive,small_purple
+Minimal,Helmet,Major Arterial,Cyclist struck open vehicle door,21,COLLEGE,St,BEATRICE,St,-79.4172744750977,43.6551132202148,1003,no control,Dry,2010/11/24,Other,Normal,small_purple
+Minimal,Helmet,Major Arterial,Cyclist struck open vehicle door,25,COLLEGE,St,BEATRICE,St,-79.4172744750977,43.6551132202148,1536,no control,Dry,2008/10/16,Other,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,27,DUNDAS,ST,CRAWFORD,ST,-79.41727,43.65001,1045,stop sign,Wet,1992/12/15,Failed to yield right-of-way,Normal,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,20,DUNDAS,ST,CRAWFORD,ST,-79.41727,43.65001,1925,no control,Dry,1994/08/07,Improper turn,Normal,small_purple
+Minimal,Other safety equipment used,Major Arterial,Unrecorded,43,DUNDAS,ST,CRAWFORD,ST,-79.4172668457031,43.6500129699707,1249,stop sign,Dry,2003/09/24,Improper turn,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,47,CRAWFORD,ST,DUNDAS,ST,-79.4172668457031,43.6500129699707,1900,stop sign,Dry,2002/05/07,Driving properly,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,24,DUNDAS,ST,CRAWFORD,ST,-79.4172668457031,43.6500129699707,1918,stop sign,Dry,1999/11/23,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,35,DUNDAS,ST,CRAWFORD,ST,-79.4172668457031,43.6500129699707,1922,stop sign,Dry,2000/10/20,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Major Arterial,"Motorist turn right at non-signalized intersection (i.e. stop, yield, no control,  and driveway) and strikes cyclist",48,YONGE,ST,BISHOP,AVE,-79.4172592163086,43.7858505249023,1150,no control,Dry,2005/08/03,Failed to yield right-of-way,Inattentive,small_purple
+Minimal,Helmet,Major Arterial,"Motorist turn right at non-signalized intersection (i.e. stop, yield, no control,  and driveway) and strikes cyclist",48,5915 YONGE,ST,,,-79.4172439575195,43.7858009338379,1312,no control,Dry,2010/07/17,Failed to yield right-of-way,Inattentive,small_purple
+Minimal,No equipment available,Collector,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other,32,216 GRACE,ST,,,-79.4172210693359,43.6582527160645,1700,no control,Dry,2010/07/26,Failed to yield right-of-way,Inattentive,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,17,KING,ST,SUDBURY,ST,-79.4171524047852,43.6409645080566,1335,traffic signal,Dry,2002/08/28,Following too close,Normal,small_purple
+Minimal,Other safety equipment used,Minor Arterial,Motorist turned left across cyclist's path,38,JERSEY,AVE,HARBORD,ST,-79.4171371459961,43.6599960327148,2100,traffic signal,Wet,2004/04/06,Other,Had been drinking,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,48,COLLEGE,ST,BEATRICE,ST,-79.4171295166016,43.655086517334,1615,no control,Dry,2003/07/20,Other,Normal,small_purple
+Minimal,No equipment available,Collector,Unrecorded,13,HENDON,AV,DUPLEX,AV,-79.4171,43.7814,1220,no control,Dry,1995/05/02,Driving properly,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,18,KING,ST,SUDBURY,ST,-79.4171,43.641,1405,no control,Wet,1994/04/06,Other,Normal,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,22,QUEEN,ST,GIVINS,ST,-79.4171,43.6445,1724,no control,Dry,1993/04/27,Other,Unknown,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,28,QUEEN,ST,GIVINS,ST,-79.4171,43.6445,1810,traffic signal,Dry,1995/07/18,Other,Normal,small_purple
+Minimal,Helmet,Major Arterial,Motorist turning right on green or amber  at signalized intersections strikes cyclist,16,AVENUE,RD,WOBURN,AVE,-79.4170913696289,43.7253646850586,1300,traffic signal,Dry,2005/07/19,Driving properly,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,14,AVENUE,ROAD,WOBURN,AV,-79.41709,43.72537,0800,traffic signal,Unrecorded,1989/10/02,Driving properly,Normal,small_purple
+Minimal,No equipment available,Collector,Unrecorded,17,AVENUE,ROAD,WOBURN,AV,-79.41709,43.72537,0800,traffic signal,Unrecorded,1990/10/18,Driving properly,Normal,small_purple
+Minimal,Use unknown,Collector,Unrecorded,Unrecorded,AVENUE,ROAD,WOBURN,AV,-79.41709,43.72537,1700,traffic signal,Unrecorded,1990/04/27,Driving properly,Normal,small_purple
+Minimal,No equipment available,Collector,Unrecorded,16,AVENUE,ROAD,WOBURN,AV,-79.41709,43.72537,1800,traffic signal,Unrecorded,1990/09/26,Driving properly,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,44,DUPONT,ST,PALMERSTON,AV,-79.417,43.6726,1700,stop sign,Unrecorded,1996/08/16,Unrecorded,Unrecorded,small_purple
+Minimal,Helmet,Local,"Cyclist without right of way (fault) rides into the path of motorist at intersection, laneway, driveway - Cyclist not turning",22,CRAWFORD,ST,BELLWOODS,PK,-79.4169692993164,43.6492385864258,1620,no control,Dry,2008/05/26,Driving properly,Normal,small_purple
+Minimal,Use unknown,Major Arterial,Unrecorded,21,LAWRENCE,AVE,EDGECOMBE,AVE,-79.4169540405273,43.7219619750977,1738,no control,Dry,1999/06/29,Driving properly,Normal,small_purple
+Minimal,Helmet,Major Arterial,"Motorist without right of way (fault) drives into path of cyclist at intersection, laneway, driveway - Driver not turning",41,COLLEGE,ST,BEATRICE,ST,-79.4169311523438,43.6550598144531,0827,stop sign,Dry,2010/05/18,Failed to yield right-of-way,Inattentive,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,35,COLLEGE,ST,BEATRICE,ST,-79.41693,43.65506,0700,no control,Unrecorded,1991/05/15,Failed to yield right-of-way,Normal,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,40,DUNDAS,Stre,CRAWFORD,Stre,-79.4169006347656,43.6501007080078,2150,no control,Dry,1998/10/03,Unrecorded,Unrecorded,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,17,BLOOR,ST,CLINTON,ST,-79.4169,43.6639,0905,no control,Dry,1992/09/29,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,24,BLOOR,ST,CLINTON,ST,-79.4169,43.6639,1217,no control,Dry,1992/06/01,Other,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,24,BLOOR,ST,CLINTON,ST,-79.4169,43.6639,1300,no control,Dry,1986/08/13,Other,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,20,BLOOR,ST,CLINTON,ST,-79.4169,43.6639,1800,no control,Unrecorded,1990/09/11,Other,Normal,small_purple
+Minimal,No equipment available,Major Arterial,"Motorist without right of way (fault) drives into path of cyclist at intersection, laneway, driveway - Driver not turning",54,5795 YONGE,ST,,,-79.4168930053711,43.7843322753906,1500,no control,Dry,2005/05/16,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Minor Arterial,Cyclist and Driver travelling in same direction. One vehicle rear-ended the other,17,CUMMER,Ave,YONGE,St,-79.4168548583984,43.7871208190918,0210,no control,Dry,2009/05/24,Following too close,Unknown,small_purple
+Minimal,No equipment available,Collector,Unrecorded,44,GRACE,ST,COLLEGE,ST,-79.4168,43.6574,1300,traffic signal,Unrecorded,1989/10/14,Driving properly,Normal,small_purple
+Minimal,No equipment available,Private Property,Cyclist hit in parking lot,14,45  CUMMER,AVE,PARKING LOT,,-79.416748046875,43.7880401611328,0845,no control,Dry,2008/09/09,Failed to yield right-of-way,Inattentive,small_purple
+Minimal,No equipment available,Local,Unrecorded,36,LOBB,AV,SHAW,ST,-79.41674,43.64701,1740,no control,Dry,1995/06/15,Failed to yield right-of-way,Normal,small_purple
+Minimal,Helmet,Major Arterial,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other,25,679 BLOOR,St,,,-79.4167327880859,43.6639213562012,0945,no control,Dry,2009/11/04,Improper  lane change,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,09,FINCH,AV,DUPLEX,AV,-79.4167,43.7795,1600,no control,Unrecorded,1990/07/03,Failed to yield right-of-way,Inattentive,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,60,5754 YONGE,ST,,,-79.4165954589844,43.7831687927246,1700,no control,Dry,1998/04/28,Driving properly,Normal,small_purple
+Minimal,No equipment available,Collector,Unrecorded,33,BEECROFT,ROAD,PARK HOME,AV,-79.41652,43.76847,1200,stop sign,Unrecorded,1988/04/12,Failed to yield right-of-way,Normal,small_purple
+Minimal,Helmet,Collector,Motorist turning right on green or amber  at signalized intersections strikes cyclist,11,BEECROFT,RD,PARK HOME,AVE,-79.4165191650391,43.7684669494629,1645,traffic signal,Dry,2010/03/24,Improper turn,Inattentive,small_purple
+Minimal,Equipment not used but available,Collector,"Motorist without right of way (fault) drives into path of cyclist at intersection, laneway, driveway - Driver not turning",15,BEECROFT,RD,PARK HOME,AVE,-79.4165191650391,43.7684669494629,1900,traffic signal,Dry,2009/05/13,Failed to yield right-of-way,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,36,QUEEN,,SHAW,,-79.41650390625,43.6446685791016,0035,traffic signal,Dry,1998/10/24,Disobeyed traffic control,Other,small_purple
+Minimal,Use unknown,Major Arterial,Unrecorded,34,QUEEN,ST,SHAW,ST,-79.41650390625,43.6446685791016,1020,traffic signal,Dry,1999/06/23,Driving properly,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,25,QUEEN,,SHAW,,-79.41650390625,43.6446685791016,1420,traffic signal,Dry,1998/10/25,Improper turn,Normal,small_purple
+Minimal,Helmet,Major Arterial,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other,58,QUEEN,ST,SHAW,ST,-79.41650390625,43.6446685791016,1600,traffic signal,Dry,2008/08/28,Driving properly,Unknown,small_purple
+Minimal,Helmet,Major Arterial,Motorist turning right on green or amber  at signalized intersections strikes cyclist,33,SHAW,ST,QUEEN,ST,-79.41650390625,43.6446685791016,1626,traffic signal,Dry,2006/12/12,Failed to yield right-of-way,Normal,small_purple
+Minimal,Use unknown,Major Arterial,Unrecorded,22,QUEEN,ST,SHAW,ST,-79.4165,43.64467,0800,traffic signal,Unrecorded,1988/05/30,Driving properly,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,25,QUEEN,ST,SHAW,ST,-79.4165,43.64467,1300,traffic signal,Unrecorded,1988/06/15,Driving properly,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,26,QUEEN,ST,SHAW,ST,-79.4165,43.6447,1850,traffic signal,Unrecorded,1997/05/15,Unrecorded,Unrecorded,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,25,QUEEN,ST,SHAW,ST,-79.4165,43.6447,2240,unrecorded,Unrecorded,1997/06/11,Unrecorded,Unrecorded,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,32,QUEEN,Stre,SHAW,Stre,-79.4164962768555,43.6446990966797,1400,traffic signal,Dry,2000/10/11,Unrecorded,Unrecorded,small_purple
+Minimal,No equipment available,Local,Unrecorded,23,MONA,DR,CORTLEIGH,BV,-79.41649,43.71204,0810,stop sign,Wet,1992/09/08,Driving properly,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,24,COLLEGE,ST,BEATRICE,ST,-79.4164,43.655,0800,no control,Dry,1987/06/23,Driving properly,Normal,small_purple
+Minimal,Unrecorded,Collector,Unrecorded,34,CLINTON,ST,HARBORD,ST,-79.4164,43.6612,1300,no control,Dry,1986/05/29,Driving properly,Normal,small_purple
+Minimal,Use unknown,Major Arterial,Unrecorded,36,COLLEGE,ST,BEATRICE,ST,-79.4164,43.655,1730,no control,Dry,1994/09/01,Other,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,39,COLLEGE,ST,BEATRICE,ST,-79.4163970947266,43.6549987792969,1354,no control,Dry,2000/12/20,Other,Normal,small_purple
+Minimal,Other safety equipment used,Major Arterial,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other,43,COLLEGE,ST,GRACE,ST,-79.4163970947266,43.6549835205078,1830,no control,Dry,2010/03/01,Driving properly,Normal,small_purple
+Minimal,Use unknown,Collector,Unrecorded,18,SHAW,ST,ADELAIDE,ST,-79.4163360595703,43.6442565917969,1715,no control,Dry,1999/06/04,Driving properly,Normal,small_purple
+Minimal,Equipment not used but available,Major Arterial,Unrecorded,20,COLLEGE,ST,GRACE,ST,-79.4163131713867,43.6549644470215,2150,no control,Dry,1998/08/11,Failed to yield right-of-way,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,34,BLOOR,ST,MANNING,AV,-79.41631,43.66401,1200,no control,Dry,1987/07/30,Other,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,34,BLOOR,ST,MANNING,AV,-79.41631,43.66401,1700,traffic signal,Dry,1987/08/03,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,20,BLOOR,ST,MANNING,AV,-79.4163,43.664,0800,no control,Unrecorded,1991/06/17,Following too close,Normal,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,23,BLOOR,ST,MANNING,AV,-79.4163,43.664,1500,no control,Unrecorded,1990/07/08,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,35,BLOOR,ST,MANNING,AV,-79.4163,43.664,1500,no control,Unrecorded,1988/09/06,Unrecorded,Unrecorded,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,23,YONGE,ST,BISHOP,AV,-79.4163,43.664,1800,no control,Unrecorded,1990/08/10,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,26,BLOOR,ST,MANNING,AV,-79.4163,43.664,1800,no control,Unrecorded,1988/05/02,Other,Normal,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,32,BLOOR,ST,MANNING,AV,-79.4163,43.7819,1800,no control,Unrecorded,1988/12/30,Failed to yield right-of-way,Normal,small_purple
+Minimal,Helmet,Major Arterial,Cyclist struck open vehicle door,25,COLLEGE,ST,BEATRICE,ST,-79.4162673950195,43.6549339294434,1105,no control,Dry,2006/04/30,Other,Inattentive,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,26,COLLEGE,ST,BEATRICE,ST,-79.4162063598633,43.6549491882324,1358,no control,Dry,2003/10/19,Driving properly,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,38,COLLEGE,ST,BEATRICE,ST,-79.4162,43.655,1925,no control,Unrecorded,1997/02/05,Unrecorded,Unrecorded,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,48,QUEEN,Stre,SHAW,Stre,-79.4161987304688,43.6446990966797,1215,no control,Dry,2000/10/04,Unrecorded,Unrecorded,small_purple
+Minimal,Use unknown,Major Arterial,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other,31,BLOOR,ST,MANNING,AVE,-79.4161911010742,43.6640319824219,1935,traffic signal,Dry,2006/08/26,Improper  lane change,Inattentive,small_purple
+Minimal,No equipment available,Major Arterial,"Cyclist without right of way (fault) rides into the path of motorist at intersection, laneway, driveway - Cyclist not turning",15,AVENUE,RD,GLENGARRY,AVE,-79.416130065918,43.722957611084,1525,police control,Wet,2007/12/23,Driving properly,Normal,small_purple
+Minimal,No equipment available,Minor Arterial,Motorist turned left across cyclist's path,24,HARBORD,Stre,CLINTON,Stre,-79.4160995483398,43.6601982116699,0855,stop sign,Dry,2009/11/17,Failed to yield right-of-way,Inattentive,small_purple
+Minimal,Other safety equipment used,Minor Arterial,"Motorist without right of way (fault) drives into path of cyclist at intersection, laneway, driveway - Driver not turning",41,HARBORD,Stre,CLINTON,Stre,-79.4160995483398,43.6601982116699,0900,stop sign,Dry,2010/12/02,Failed to yield right-of-way,Unknown,small_purple
+Minimal,No equipment available,Minor Arterial,"Cyclist without right of way (fault) rides into the path of motorist at intersection, laneway, driveway - Cyclist not turning",28,HARBORD,Stre,CLINTON,Stre,-79.4160995483398,43.6601982116699,1729,traffic signal,Dry,2009/11/30,Driving properly,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,17,BATHURST,ST,DAVENPORT,ROAD,-79.4160614013672,43.6768646240234,2210,no control,Slush,1997/01/31,Unrecorded,Unrecorded,small_purple
+Minimal,Use unknown,Minor Arterial,Unrecorded,66,HARBORD,ST,CLINTON,ST,-79.4160537719727,43.660228729248,1205,stop sign,Dry,2004/11/09,Driving properly,Normal,small_purple
+Minimal,Helmet,Minor Arterial,Motorist turning right on green or amber  at signalized intersections strikes cyclist,26,HARBORD,ST,CLINTON,ST,-79.4160537719727,43.660228729248,1920,no control,Dry,2005/06/30,Failed to yield right-of-way,Inattentive,small_purple
+Minimal,Helmet,Minor Arterial,"Motorist without right of way (fault) drives into path of cyclist at intersection, laneway, driveway - Driver not turning",48,HARBORD,ST,CLINTON,ST,-79.4160537719727,43.660228729248,2010,stop sign,Dry,2008/02/14,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Minor Arterial,Unrecorded,32,HARBORD,ST,CLINTON,ST,-79.41605,43.66023,1615,no control,Dry,1992/06/08,Other,Inattentive,small_purple
+Minimal,Unrecorded,Local,Unrecorded,14,MANNING,AV,BLOOR,ST,-79.41605,43.66339,1900,no control,Dry,1987/05/20,Driving properly,Normal,small_purple
+Minimal,Helmet,Major Arterial,Motorist turning right on green or amber  at signalized intersections strikes cyclist,30,BATHURST,Stre,DAVENPORT,Road,-79.4160003662109,43.676700592041,1114,traffic signal,Dry,2009/08/24,Failed to yield right-of-way,Normal,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,34,AVENUE,ROAD,LAWRENCE,AV,-79.416,43.7226,0800,no control,Dry,1992/07/24,Driving properly,Unknown,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,28,AVENUE,ROAD,LAWRENCE,AV,-79.416,43.7226,1110,no control,Dry,1992/07/01,Other,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,20,AVENUE,ROAD,LAWRENCE,AV,-79.416,43.7226,1200,no control,Unrecorded,1991/11/04,Failed to yield right-of-way,Normal,small_purple
+Minimal,Unrecorded,Local,Unrecorded,23,SPADINA,ROAD,ARCHER,ROAD,-79.416,43.696,1330,unrecorded,Unrecorded,1997/06/10,Unrecorded,Unrecorded,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,14,AVENUE,ROAD,LAWRENCE,AV,-79.416,43.7226,1600,no control,Unrecorded,1989/06/28,Improper turn,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,44,BATHURST,ST,DAVENPORT,ROAD,-79.41599,43.67668,0900,traffic signal,Dry,1986/07/15,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Minor Arterial,Unrecorded,31,BATHURST,ST,DAVENPORT,ROAD,-79.41599,43.67668,1000,traffic signal,Unrecorded,1991/06/29,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Minor Arterial,Unrecorded,18,BATHURST,ST,DAVENPORT,ROAD,-79.41599,43.67668,1235,traffic signal,Dry,1993/06/28,Failed to yield right-of-way,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,24,BATHURST,ST,DAVENPORT,ROAD,-79.41599,43.67668,2100,traffic signal,Dry,1987/05/27,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,22,BATHURST,ST,DAVENPORT,RD,-79.4159851074219,43.6766738891602,0145,traffic signal,Dry,2000/08/13,Failed to yield right-of-way,Normal,small_purple
+Minimal,Other safety equipment used,Major Arterial,Motorist turning right on green or amber  at signalized intersections strikes cyclist,25,BATHURST,ST,DAVENPORT,RD,-79.4159851074219,43.6766738891602,0742,traffic signal,Dry,2005/05/10,Driving properly,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Motorist turned left across cyclist's path,25,BATHURST,ST,DAVENPORT,RD,-79.4159851074219,43.6766738891602,0845,traffic signal,Dry,2010/05/18,Failed to yield right-of-way,Normal,small_purple
+Minimal,Use unknown,Minor Arterial,Unrecorded,35,BATHURST,ST,DAVENPORT,RD,-79.4159851074219,43.6766738891602,1015,traffic signal,Dry,1998/11/15,Driving properly,Normal,small_purple
+Minimal,No equipment available,Minor Arterial,Unrecorded,33,BATHURST,ST,DAVENPORT,RD,-79.4159851074219,43.6766738891602,1020,traffic signal,Dry,1999/11/04,Driving properly,Normal,small_purple
+Minimal,No equipment available,Minor Arterial,Unrecorded,25,BATHURST,ST,DAVENPORT,RD,-79.4159851074219,43.6766738891602,1450,traffic signal,Dry,1999/09/14,Driving properly,Normal,small_purple
+Minimal,Helmet,Major Arterial,Cyclist turns right across motorist path,48,BATHURST,ST,DAVENPORT,RD,-79.4159851074219,43.6766738891602,1559,traffic signal,Dry,2003/05/24,Driving properly,Normal,small_purple
+Minimal,Helmet,Major Arterial,Cyclist turns left across motorist's path,25,BATHURST,ST,DAVENPORT,RD,-79.4159851074219,43.6766738891602,1605,traffic signal,Dry,2008/09/16,Driving properly,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,14,BATHURST,ST,DAVENPORT,RD,-79.4159851074219,43.6766738891602,1800,traffic signal,Dry,2000/06/27,Failed to yield right-of-way,Normal,small_purple
+Minimal,Other safety equipment used,Collector,Unrecorded,11,BEECROFT,RD,NORTH YORK,BLVD,-79.4159088134766,43.7670555114746,1045,pedestrian crossover,Dry,2003/08/07,Driving properly,Unknown,small_purple
+Minimal,Helmet,Local,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other,46,GLENCAIRN,AVE,MONA,DR,-79.415901184082,43.7152671813965,1559,no control,Dry,2010/03/19,Improper passing,Unknown,small_purple
+Minimal,No equipment available,Major Arterial,Cyclist struck open vehicle door,25,BLOOR,ST,MANNING,AVE,-79.4158706665039,43.6641006469727,0950,no control,Dry,2007/09/22,Driving properly,Normal,small_purple
+Minimal,Helmet,Major Arterial,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other,52,COLLEGE,Stre,GRACE,Stre,-79.4158325195313,43.654842376709,1017,no control,Dry,2010/02/08,Improper passing,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,48,COLLEGE,ST,GRACE,ST,-79.41581,43.6549,1613,traffic signal,Dry,1995/07/26,Driving properly,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,14,LAWRENCE,AV,AVENUE,ROAD,-79.41581,43.7222,1900,traffic signal,Dry,1987/07/16,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Major Arterial,"Cyclist without right of way (fault) rides into the path of motorist at intersection, laneway, driveway - Cyclist not turning",17,COLLEGE,ST,GRACE,ST,-79.4158096313477,43.6548957824707,2131,traffic signal,Wet,2009/05/06,Driving properly,Normal,small_purple
+Minimal,Use unknown,Major Arterial,Unrecorded,19,LAWRENCE,AVE,AVENUE,RD,-79.4158096313477,43.7222023010254,2143,traffic signal,Dry,2002/07/18,Improper turn,Normal,small_purple
+Minimal,Other safety equipment used,Major Arterial,Motorist turning right on red at signalized intersection strikes cyclists,37,LAWRENCE,Aven,AVENUE,Road,-79.4158020019531,43.7221984863281,0700,traffic signal,Dry,2005/12/27,Improper turn,Normal,small_purple
+Minimal,Helmet,Major Arterial,Cyclist and Driver travelling in same direction. One vehicle rear-ended the other,52,COLLEGE,Stre,GRACE,Stre,-79.4158020019531,43.654899597168,1437,traffic signal,Dry,2010/10/30,Following too close,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,18,COLLEGE,Stre,GRACE,Stre,-79.4158020019531,43.654899597168,1705,traffic signal,Dry,1998/05/12,Unrecorded,Unrecorded,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,25,ST. CLAIR,AV,WELLS,AV,-79.4158,43.6795,1900,no control,Unrecorded,1989/05/09,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,28,DUPONT,ST,PALMERSTON,AV,-79.4158,43.6728,2300,no control,Unrecorded,1988/05/15,Other,Normal,small_purple
+Minimal,Helmet,Local,Motorist turned left across cyclist's path,58,LENNOX,ST,MANNING,AVE,-79.4157943725586,43.6627769470215,1822,stop sign,Wet,2008/02/05,Improper turn,Normal,small_purple
+Minimal,No equipment available,Local,Unrecorded,22,HOUNSLOW,AVE,HORSHAM,AVE,-79.4157791137695,43.7748374938965,1130,stop sign,Dry,1993/05/03,Failed to yield right-of-way,Normal,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,59,YONGE,Stre,FINCH,Aven,-79.415771484375,43.7797164916992,1130,traffic signal,Dry,2003/05/23,Other,Normal,small_purple
+Minimal,Equipment not used but available,Major Arterial,Unrecorded,22,YONGE,ST,FINCH,AV,-79.41577,43.77972,1430,traffic signal,Dry,1993/08/02,Unrecorded,Unrecorded,small_purple
+Minimal,Use unknown,Major Arterial,Unrecorded,52,YONGE,ST,FINCH,AV,-79.41577,43.77972,1700,traffic signal,Dry,1995/04/23,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,18,YONGE,ST,FINCH,AV,-79.41577,43.77972,2100,traffic signal,Wet,1993/04/09,Failed to yield right-of-way,Normal,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,33,YONGE,ST,OLIVE,AVE,-79.4157028198242,43.7793998718262,0822,no control,Dry,2002/09/19,Improper turn,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,16,BLOOR,ST,MANNING,AV,-79.4157,43.6641,2015,no control,Unrecorded,1997/07/16,Unrecorded,Unrecorded,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,26,BLOOR,ST,MANNING,AVE,-79.415641784668,43.6642456054688,1955,no control,Dry,2001/06/05,Failed to yield right-of-way,Normal,small_purple
+Minimal,Use unknown,Major Arterial,Unrecorded,23,YONGE,ST,OLIVE,AV,-79.4156,43.7792,1315,no control,Dry,1993/04/20,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Collector,Motorist turned left across cyclist's path,14,BEECROFT,RD,NORTH YORK,BLVD,-79.4155731201172,43.7662773132324,0825,stop sign,Dry,2007/05/30,Other,Inattentive,small_purple
+Minimal,Unrecorded,Collector,Unrecorded,14,BEECROFT,ROAD,NORTH YORK,BV,-79.41555,43.76624,1300,no control,Wet,1987/07/13,Driving properly,Normal,small_purple
+Minimal,Use unknown,Collector,Unrecorded,38,GRACE,ST,HENDERSON,AVE,-79.4155426025391,43.6542892456055,0815,no control,Dry,2001/07/26,Unrecorded,Unrecorded,small_purple
+Minimal,Helmet,Minor Arterial,Unrecorded,21,DAVENPORT,ROAD,BATHURST,ST,-79.4155,43.6767,1000,no control,Dry,1995/09/08,Improper turn,Normal,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,46,BATHURST,ST,BRIDGMAN,AV,-79.4155,43.6755,1200,no control,Unrecorded,1989/03/22,Improper  lane change,Normal,small_purple
+Minimal,No equipment available,Minor Arterial,Unrecorded,29,DAVENPORT,ROAD,BATHURST,ST,-79.4155,43.6767,1210,no control,Dry,1992/04/10,Other,Unknown,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,14,BATHURST,ST,BRIDGMAN,AV,-79.4155,43.6755,1300,no control,Dry,1987/03/16,Driving properly,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,27,BATHURST,ST,BRIDGMAN,AV,-79.4155,43.6755,1600,no control,Unrecorded,1989/05/31,Failed to yield right-of-way,Unknown,small_purple
+Minimal,Use unknown,Major Arterial,Unrecorded,Unrecorded,BATHURST,ST,BRIDGMAN,AV,-79.4155,43.6755,2300,no control,Unrecorded,1991/09/19,Driving properly,Normal,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,28,COLLEGE,ST,GRACE,ST,-79.4154968261719,43.654899597168,1200,no control,Dry,2003/06/19,Other,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,28,BLOOR,ST,MANNING,AVE,-79.4154815673828,43.664176940918,0820,no control,Dry,2000/05/04,Unrecorded,Unrecorded,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,21,YONGE,ST,OLIVE,AV,-79.41548,43.77863,1830,no control,Dry,1995/05/23,Improper  lane change,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Cyclist struck open vehicle door,29,623 COLLEGE,St,,,-79.4154739379883,43.6548843383789,Unrecorded,no control,Dry,2008/08/07,Driving properly,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,Unrecorded,WILSON,AV,YONGE,BV,-79.41542,43.74123,1600,traffic signal,Unrecorded,1990/07/24,Driving properly,Normal,small_purple
+Minimal,Helmet,Minor Arterial,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other,34,DAVENPORT,RD,BATHURST,ST,-79.4154052734375,43.6766815185547,0810,no control,Dry,2007/11/15,Improper  lane change,Unknown,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,24,YONGE,ST,OLIVE,AVE,-79.4154052734375,43.7787971496582,1610,no control,Dry,2000/08/04,Driving properly,Normal,small_purple
+Minimal,No equipment available,Collector,"Motorist without right of way (fault) drives into path of cyclist at intersection, laneway, driveway - Driver not turning",39,CANTERBURY,PL,CHURCHILL,AVE,-79.4154052734375,43.7734909057617,1745,stop sign,Dry,2007/05/19,Failed to yield right-of-way,Normal,small_purple
+Minimal,Use unknown,Local,Cyclist struck open vehicle door,32,50 LYNN WILLIAMS,ST,,,-79.415397644043,43.6390228271484,0819,no control,Dry,2009/07/21,Other,Inattentive,small_purple
+Minimal,No equipment available,Collector,Unrecorded,57,HEATH,ST,TICHESTER,RD,-79.415397644043,43.6861190795898,1120,no control,Dry,1993/10/12,Other,Normal,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,25,BLOOR,ST,MANNING,AVE,-79.4153594970703,43.6642189025879,1955,no control,Dry,2001/09/04,Improper  lane change,Normal,small_purple
+Minimal,Unrecorded,Local,Unrecorded,34,EUCLID,AV,BLOOR,ST,-79.4153,43.665,1600,no control,Dry,1987/06/01,Improper turn,Unrecorded,small_purple
+Minimal,Unrecorded,Local,Unrecorded,09,PALMERSTON,AV,BARTON,AV,-79.4153,43.6683,1800,no control,Dry,1986/07/11,Driving properly,Normal,small_purple
+Minimal,Helmet,Local,Unrecorded,29,EUCLID,AV,BLOOR,ST,-79.4153,43.665,1800,no control,Wet,1992/04/21,Other,Normal,small_purple
+Minimal,Use unknown,Major Arterial,Unrecorded,28,QUEEN,ST,CRAWFORD,ST,-79.41527,43.64492,0438,no control,Wet,1995/10/22,Other,Normal,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,50,QUEEN,ST,CRAWFORD,ST,-79.41527,43.64492,1122,no control,Wet,1995/08/05,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,37,COLLEGE,Stre,GRACE,Stre,-79.4152450561523,43.6549224853516,0935,no control,Dry,2000/10/02,Other,Other,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,25,1187 BATHURST,ST,,,-79.4152450561523,43.6747932434082,2140,no control,Wet,2000/04/07,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,17,396 ST CLAIR,AVE,,,-79.4152374267578,43.6837615966797,1530,no control,Dry,2002/06/21,Other,Normal,small_purple
+Minimal,Helmet,Minor Arterial,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other,44,HARBORD,ST,CLINTON,ST,-79.4152297973633,43.6603965759277,1742,no control,Dry,2007/06/18,Improper passing,Inattentive,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,13,KING,ST,SHAW,ST,-79.41522,43.64138,0800,stop sign,Unrecorded,1989/09/29,Disobeyed traffic control,Unknown,small_purple
+Minimal,Use unknown,Collector,Unrecorded,26,GRACE,,MANSFIELD,,-79.4152145385742,43.653434753418,1658,no control,Dry,1998/06/30,Other,Normal,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,33,SHAW,ST,KING,ST,-79.4152145385742,43.6413803100586,1850,traffic signal,Dry,2003/07/16,Failed to yield right-of-way,Inattentive,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,14,EGLINTON,AVE,CASTLEWOOD,RD,-79.4151458740234,43.7031898498535,0830,stop sign,Dry,2000/11/21,Failed to yield right-of-way,Unrecorded,small_purple
+Minimal,No equipment available,Major Arterial,Motorist turned left across cyclist's path,61,DUNDAS,ST,BEATRICE,ST,-79.4151458740234,43.6504440307617,2105,no control,Dry,2010/05/01,Failed to yield right-of-way,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,19,EGLINTON,AV,CASTLEWOOD,ROAD,-79.41514,43.70319,1900,no control,Dry,1986/11/03,Failed to yield right-of-way,Unrecorded,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,17,LAWRENCE,AV,AVENUE,ROAD,-79.4151,43.7224,1800,no control,Unrecorded,1991/05/15,Improper turn,Normal,small_purple
+Minimal,Unrecorded,Collector,Unrecorded,21,GRACE,ST,MANSFIELD,AV,-79.4151,43.6531,2210,stop sign,Unrecorded,1997/07/02,Unrecorded,Unrecorded,small_purple
+Minimal,Use unknown,Major Arterial,Unrecorded,24,BLOOR,ST,EUCLID,AV,-79.41506,43.66429,0205,stop sign,Dry,1993/10/10,Failed to yield right-of-way,Had been drinking,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,21,BLOOR,ST,EUCLID,AV,-79.41506,43.66429,1100,no control,Unrecorded,1988/08/26,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,17,BLOOR,ST,EUCLID,AV,-79.41506,43.66429,1200,no control,Unrecorded,1989/07/24,Failed to yield right-of-way,Normal,small_purple
+Minimal,Use unknown,Major Arterial,Unrecorded,48,BLOOR,ST,EUCLID,AV,-79.41506,43.66429,1415,no control,Dry,1995/09/05,Failed to yield right-of-way,Inattentive,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,34,BLOOR,ST,EUCLID,AV,-79.41506,43.66429,2200,no control,Dry,1987/08/17,Driving properly,Normal,small_purple
+Minimal,Equipment not used but available,Major Arterial,Unrecorded,27,BLOOR,ST,EUCLID,AVE,-79.4150543212891,43.6642837524414,1230,no control,Dry,2001/10/30,Improper turn,Normal,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,35,BLOOR,ST,EUCLID,AVE,-79.4150543212891,43.6642837524414,1645,no control,Dry,2004/12/09,Failed to yield right-of-way,Inattentive,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,25,BLOOR,,EUCLID,,-79.4150543212891,43.6642837524414,1730,stop sign,Dry,1998/07/02,Driving properly,Normal,small_purple
+Minimal,Other safety equipment used,Major Arterial,Unrecorded,26,BLOOR,ST,EUCLID,AVE,-79.4150543212891,43.6642837524414,1810,stop sign,Dry,2001/07/25,Failed to yield right-of-way,Normal,small_purple
+Minimal,Helmet,Local,Unrecorded,30,YONGE,ST,KEMPFORD,BV,-79.41505,43.77689,1110,traffic signal,Dry,1993/06/06,Failed to yield right-of-way,Normal,small_purple
+Minimal,Equipment not used but available,Private Property,Unrecorded,15,BATHURST,ST,BRIDGMAN,AVE,-79.4150466918945,43.6742820739746,1418,traffic signal,Dry,2004/07/22,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,25,BATHURST,ST,BRIDGMAN,AVE,-79.4150466918945,43.6742820739746,1915,no control,Wet,2004/03/26,Driving properly,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,32,DUPONT,ST,BATHURST,ST,-79.415,43.6731,1415,no control,Unrecorded,1996/04/01,Unrecorded,Unrecorded,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,25,COLLEGE,ST,GRACE,ST,-79.4149,43.655,1000,no control,Unrecorded,1989/06/26,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,16,COLLEGE,ST,GRACE,ST,-79.4149,43.655,1400,no control,Unrecorded,1991/09/12,Improper turn,Normal,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,21,COLLEGE,ST,GRACE,ST,-79.4149,43.655,1600,no control,Unrecorded,1988/03/17,Driving properly,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,24,COLLEGE,ST,GRACE,ST,-79.4149,43.655,1600,no control,Dry,1987/06/29,Driving properly,Normal,small_purple
+Minimal,Use unknown,Minor Arterial,Unrecorded,30,HARBORD,ST,MANNING,AV,-79.41487,43.66047,1730,traffic signal,Dry,1992/09/16,Driving properly,Normal,small_purple
+Minimal,No equipment available,Minor Arterial,Motorist turning right on red at signalized intersection strikes cyclists,39,HARBORD,ST,MANNING,AVE,-79.4148635864258,43.6604690551758,0852,traffic signal,Dry,2007/06/20,Improper turn,Inattentive,small_purple
+Minimal,No equipment available,Major Arterial,Motorist turned left across cyclist's path,93,5430 YONGE,ST,,,-79.4147872924805,43.7759017944336,0927,no control,Dry,2010/05/31,Failed to yield right-of-way,Inattentive,small_purple
+Minimal,Helmet,Minor Arterial,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other,19,SPADINA,RD,KILBARRY,RD,-79.4147796630859,43.6931419372559,1115,no control,Dry,2005/11/04,Improper passing,Inattentive,small_purple
+Minimal,Helmet,Major Arterial,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other,29,BATHURST,ST,DUPONT,ST,-79.4147262573242,43.6734275817871,1003,no control,Wet,2008/01/28,Improper passing,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,35,YONGE,ST,HORSHAM,AVE,-79.4147109985352,43.7755813598633,2230,no control,Dry,1998/07/11,Failed to yield right-of-way,Normal,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,23,COLLEGE,ST,GRACE,ST,-79.4147033691406,43.6549987792969,0840,no control,Dry,2002/08/09,Disobeyed traffic control,Unknown,small_purple
+Minimal,Other safety equipment used,Major Arterial,Unrecorded,27,BLOOR,ST,EUCLID,AVE,-79.4147033691406,43.6642990112305,2038,no control,Dry,2003/04/27,Other,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,29,COLLEGE,ST,GRACE,ST,-79.4147,43.655,1140,no control,Unrecorded,1997/05/22,Unrecorded,Unrecorded,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,08,BATHURST,ST,DUPONT,ST,-79.4147,43.6735,1600,traffic signal,Unrecorded,1991/10/30,Failed to yield right-of-way,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,34,BATHURST,ST,DUPONT,ST,-79.4147,43.6735,1600,no control,Dry,1986/07/28,Unrecorded,Unrecorded,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,34,BATHURST,ST,DUPONT,ST,-79.4147,43.6735,1600,traffic signal,Unrecorded,1989/05/04,Driving properly,Normal,small_purple
+Minimal,Use unknown,Laneway,Unrecorded,42,BATHURST,ST,DUPONT,ST,-79.4146728515625,43.6733055114746,0815,no control,Dry,1999/06/30,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,20,STEELES,AV,WILLOWDALE,AV,-79.41467,43.7992,1230,traffic signal,Dry,1993/05/03,Driving properly,Normal,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,34,KING,ST,SHAW,ST,-79.4146,43.6415,0855,no control,Dry,1995/10/19,Driving properly,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,29,QUEEN,ST,CRAWFORD,ST,-79.4146,43.645,1720,no control,Unrecorded,1996/07/24,Unrecorded,Unrecorded,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,30,YONGE,ST,HORSHAM,AVE,-79.4145965576172,43.7751007080078,2330,stop sign,Dry,2004/06/16,Unrecorded,Unrecorded,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,36,DUPONT,ST,BATHURST,ST,-79.41459,43.6731,1640,traffic signal,Dry,1995/08/28,Failed to yield right-of-way,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,24,DUPONT,ST,BATHURST,ST,-79.41459,43.6731,1700,traffic signal,Wet,1987/07/03,Driving properly,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,17,BATHURST,ST,DUPONT,ST,-79.41459,43.6731,1715,traffic signal,Dry,1992/07/03,Failed to yield right-of-way,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,34,BATHURST,ST,DUPONT,ST,-79.41459,43.6731,1900,no control,Dry,1987/04/11,Other,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,19,DUPONT,ST,BATHURST,ST,-79.41459,43.6731,2100,traffic signal,Unrecorded,1991/09/17,Driving properly,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,18,DUPONT,ST,BATHURST,ST,-79.41459,43.6731,2200,traffic signal,Unrecorded,1990/07/28,Improper passing,Inattentive,small_purple
+Minimal,Use unknown,Major Arterial,Unrecorded,29,DUPONT,ST,BATHURST,ST,-79.4145889282227,43.673095703125,1308,traffic signal,Dry,2002/06/05,Failed to yield right-of-way,Unknown,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,42,BATHURST,,DUPONT,,-79.4145889282227,43.673095703125,2020,traffic signal,Dry,1998/10/12,Disobeyed traffic control,Normal,small_purple
+Minimal,Other safety equipment used,Major Arterial,Unrecorded,25,BATHURST,ST,DUPONT,ST,-79.4145889282227,43.673095703125,2040,traffic signal,Dry,2002/11/13,Improper turn,Inattentive,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,30,DUPONT,ST,BATHURST,ST,-79.4145889282227,43.673095703125,2125,traffic signal,Wet,2000/12/10,Driving properly,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,18,BLOOR,ST,EUCLID,AV,-79.4145,43.6644,1000,no control,Unrecorded,1988/07/22,Other,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,25,BLOOR,ST,EUCLID,AV,-79.4145,43.6644,1000,no control,Unrecorded,1988/06/03,Other,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,25,BLOOR,ST,EUCLID,AV,-79.4145,43.6644,1200,no control,Unrecorded,1991/08/04,Other,Inattentive,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,24,BLOOR,ST,EUCLID,AV,-79.4145,43.6644,1400,no control,Dry,1986/09/06,Failed to yield right-of-way,Normal,small_purple
+Minimal,Use unknown,Collector,Unrecorded,78,CHURCHILL,Aven,YONGE,Stre,-79.4144973754883,43.7737007141113,2000,no control,Dry,1999/12/30,Unrecorded,Unrecorded,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,21,BATHURST,ST,VERMONT,AV,-79.4144,43.6726,1500,no control,Unrecorded,1989/08/24,Other,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,23,BATHURST,ST,VERMONT,AV,-79.4144,43.6726,1600,no control,Dry,1992/05/17,Driving properly,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,11,LAWRENCE,AV,ROSEWELL,AV,-79.4144,43.72251,1630,stop sign,Dry,1994/10/24,Failed to yield right-of-way,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,24,BATHURST,ST,VERMONT,AV,-79.4144,43.6726,1900,no control,Dry,1986/08/09,Driving properly,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Cyclist struck open vehicle door,48,BLOOR,ST,EUCLID,AVE,-79.4142684936523,43.6644401550293,1700,no control,Dry,2007/10/02,Other,Normal,small_purple
+Minimal,Equipment not used but available,Major Arterial,Unrecorded,36,BLOOR,ST,EUCLID,AVE,-79.4142456054688,43.6644706726074,0944,no control,Dry,1999/08/18,Other,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,17,YONGE,ST,CHURCHILL,AV,-79.41423,43.77372,0900,traffic signal,Unrecorded,1988/08/22,Driving properly,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,31,YONGE,ST,CHURCHILL,AV,-79.41423,43.77372,1510,traffic signal,Dry,1992/08/28,Driving properly,Normal,small_purple
+Minimal,Use unknown,Local,Unrecorded,47,BROOKDALE,AV,ELM,ROAD,-79.41421,43.72768,2000,stop sign,Unrecorded,1991/01/02,Failed to yield right-of-way,Normal,small_purple
+Minimal,Use unknown,Major Arterial,Unrecorded,31,BATHURST,ST,VERMONT,AV,-79.41419,43.67209,0750,stop sign,Dry,1995/07/27,Improper turn,Unknown,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,34,QUEEN,ST,MASSEY,ST,-79.414176940918,43.645149230957,1220,no control,Dry,2003/06/06,Driving properly,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Cyclist struck open vehicle door,21,QUEEN,ST,MASSEY,ST,-79.414176940918,43.645149230957,1625,no control,Dry,2009/06/24,Other,Inattentive,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,26,QUEEN,ST,MASSEY,ST,-79.414176940918,43.645149230957,2220,no control,Dry,2000/05/22,Driving properly,Unrecorded,small_purple
+Minimal,Lap and shoulder belt,Major Arterial,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other,49,STEELES,AVE,WILLOWDALE,AVE,-79.4141616821289,43.7992973327637,2145,no control,Dry,2007/07/31,Driving properly,Normal,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,47,DUNDAS,ST,GRACE,ST,-79.4141311645508,43.6506500244141,1750,traffic signal,Dry,2003/04/15,Improper passing,Unrecorded,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,35,COLLEGE,Stre,CLINTON,Stre,-79.4141,43.6552,1115,traffic signal,Dry,2007/11/09,Unrecorded,Unrecorded,small_purple
+Minimal,Use unknown,Major Arterial,Unrecorded,48,YONGE,ST,MCKEE,AV,-79.4141,43.7733,1215,no control,Dry,1993/06/14,Failed to yield right-of-way,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,10,CLINTON,ST,COLLEGE,ST,-79.4141,43.6552,1700,traffic signal,Unrecorded,1997/04/23,Unrecorded,Unrecorded,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,22,COLLEGE,ST,CLINTON,ST,-79.41408,43.65516,1100,traffic signal,Unrecorded,1988/04/13,Failed to yield right-of-way,Normal,small_purple
+Minimal,Other safety equipment used,Major Arterial,Unrecorded,31,COLLEGE,ST,CLINTON,ST,-79.4140777587891,43.655158996582,1345,traffic signal,Dry,2001/08/14,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Cyclist struck open vehicle door,29,COLLEGE,Stre,CLINTON,Stre,-79.4140777587891,43.655158996582,Unrecorded,no control,Dry,2008/07/24,Other,Inattentive,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,27,KING,ST,CRAWFORD,ST,-79.414,43.64162,0845,stop sign,Wet,1992/10/21,Driving properly,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,24,KING,ST,CRAWFORD,ST,-79.4139938354492,43.6416244506836,1900,stop sign,Wet,1999/05/18,Unrecorded,Unrecorded,small_purple
+Minimal,No equipment available,Minor Arterial,Unrecorded,20,WILLOWDALE,AV,ABITIBI,AV,-79.41398,43.79754,1800,stop sign,Unrecorded,1989/11/27,Driving properly,Normal,small_purple
+Minimal,No equipment available,Minor Arterial,Cyclist struck at Ped Crossover (cyclist either travelling in same direction as vehicle or riding across crosswalk),18,WILLOWDALE,AVE,ABITIBI,AVE,-79.4139785766602,43.7975425720215,1900,pedestrian crossover,Wet,2007/10/26,Disobeyed traffic control,Unknown,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,15,YONGE,ST,NORTON,AV,-79.4139,43.7724,1645,no control,Unrecorded,1997/06/17,Unrecorded,Unrecorded,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,38,COLLEGE,ST,CLINTON,ST,-79.4139,43.6552,2020,traffic signal,Unrecorded,1997/08/22,Unrecorded,Unrecorded,small_purple
+Minimal,Unrecorded,Collector,Unrecorded,19,ELM,ROAD,CRANBROOKE,AV,-79.41389,43.72693,1500,stop sign,Dry,1986/11/03,Disobeyed traffic control,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,38,BLOOR,ST,PALMERSTON,AV,-79.41385,43.66456,1400,traffic signal,Unrecorded,1990/01/01,Improper turn,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,24,BLOOR,ST,PALMERSTON,AV,-79.41385,43.66456,1800,traffic signal,Wet,1987/08/07,Improper turn,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Motorist turning right on green or amber  at signalized intersections strikes cyclist,19,BLOOR,ST,PALMERSTON,AVE,-79.4138488769531,43.6645622253418,1205,traffic signal,Dry,2005/11/17,Failed to yield right-of-way,Normal,small_purple
+Minimal,Helmet,Minor Arterial,Unrecorded,77,SPADINA,RD,STRATHEARN,BLVD,-79.4138488769531,43.6909217834473,2135,no control,Dry,2000/05/15,Unrecorded,Unrecorded,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,35,YONGE,ST,NORTON,AV,-79.41384,43.7722,1500,stop sign,Dry,1995/05/22,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Minor Arterial,"Motorist turn right at non-signalized intersection (i.e. stop, yield, no control,  and driveway) and strikes cyclist",68,CUMMER,AVE,SILVERVIEW,DR,-79.4138336181641,43.7877883911133,2030,stop sign,Dry,2006/09/07,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,28,QUEEN,ST,MASSEY,ST,-79.4138,43.6452,1000,no control,Unrecorded,1991/06/15,Other,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,11,YONGE,ST,NORTON,AV,-79.4138,43.7722,1627,stop sign,Dry,1996/04/25,Driving properly,Unrecorded,small_purple
+Minimal,Other safety equipment used,Major Arterial,"Motorist turn right at non-signalized intersection (i.e. stop, yield, no control,  and driveway) and strikes cyclist",15,ELLERSLIE,AVE,YONGE,ST,-79.4137725830078,43.7719383239746,0740,stop sign,Dry,2005/08/24,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,26,ELLERSLIE,AVE,YONGE,ST,-79.4137725830078,43.7719383239746,1550,no control,Dry,2003/08/20,Driving properly,Normal,small_purple
+Minimal,No equipment available,Major Arterial,"Cyclist without right of way (fault) rides into the path of motorist at intersection, laneway, driveway - Cyclist not turning",73,ELLERSLIE,AVE,YONGE,ST,-79.4137725830078,43.7719383239746,1700,stop sign,Dry,2006/05/23,Driving properly,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,19,ELLERSLIE,AV,YONGE,ST,-79.41377,43.77194,1300,stop sign,Dry,1986/06/29,Disobeyed traffic control,Normal,small_purple
+Minimal,Lap and shoulder belt,Major Arterial,Unrecorded,55,YONGE,ST,ELLERSLIE,AV,-79.41377,43.77194,2320,no control,Dry,1995/06/20,Improper turn,Normal,small_purple
+Minimal,No equipment available,Collector,Unrecorded,14,BISHOP,,YONGE,,-79.4137649536133,43.7821273803711,1744,no control,Dry,1998/06/25,Driving properly,Normal,small_purple
+Minimal,Helmet,Collector,Cyclist struck open vehicle door,25,PARK HOME,AVE,BEECROFT,RD,-79.4137573242188,43.7690505981445,1445,no control,Dry,2006/07/24,Other,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,31,BLOOR,ST,PALMERSTON,AV,-79.4137,43.6646,1145,no control,Unrecorded,1997/06/04,Unrecorded,Unrecorded,small_purple
+Minimal,No equipment available,Major Arterial,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other,47,DUNDAS,Stre,GORE VALE,Aven,-79.4136962890625,43.6506996154785,0510,no control,Dry,2010/09/22,Improper passing,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,29,DUNDAS,ST,GORE VALE,AVE,-79.4136962890625,43.6506996154785,0920,no control,Dry,2000/10/13,Driving properly,Normal,small_purple
+Minimal,Equipment not used but available,Major Arterial,Unrecorded,11,DUNDAS,ST,GORE VALE,AVE,-79.4136962890625,43.6507263183594,1340,no control,Dry,2001/07/20,Driving properly,Normal,small_purple
+Minimal,Helmet,Major Arterial,Motorist turned left across cyclist's path,72,AVENUE,RD,GLENGROVE,AVE,-79.4136734008789,43.7168846130371,1335,traffic signal,Dry,2009/04/30,Improper turn,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,07,AVENUE,ROAD,GLENGROVE,AV,-79.41367,43.71688,1600,traffic controller,Unrecorded,1988/07/15,Failed to yield right-of-way,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,19,AVENUE,ROAD,GLENGROVE,AV,-79.41367,43.71688,1900,traffic signal,Dry,1987/07/26,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,29,BATHURST,ST,OLIVE,AVE,-79.4136581420898,43.670768737793,2115,no control,Dry,2000/05/04,Unrecorded,Unrecorded,small_purple
+Minimal,No equipment available,Minor Arterial,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other,38,HARBORD,ST,EUCLID,AVE,-79.4136352539063,43.6607055664063,1500,no control,Dry,2006/07/25,Improper passing,Normal,small_purple
+Minimal,Helmet,Minor Arterial,"Motorist without right of way (fault) drives into path of cyclist at intersection, laneway, driveway - Driver not turning",46,HARBORD,St,EUCLID,Ave,-79.4136352539063,43.6607055664063,1603,stop sign,Dry,2010/09/23,Failed to yield right-of-way,Inattentive,small_purple
+Minimal,Other safety equipment used,Minor Arterial,Unrecorded,39,HARBORD,ST,EUCLID,AVE,-79.4136352539063,43.6607055664063,1725,stop sign,Dry,2003/08/12,Failed to yield right-of-way,Unknown,small_purple
+Minimal,No equipment available,Private Property,Cyclist hit in parking lot,10,153 BEECROFT,RD,PARKING LOT,,-79.4136123657227,43.7652969360352,2012,stop sign,Dry,2007/06/13,Failed to yield right-of-way,Normal,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,48,ST CLAIR,AVE,TWEEDSMUIR,AVE,-79.4135894775391,43.6841087341309,1330,no control,Dry,2002/01/12,Failed to yield right-of-way,Normal,small_purple
+Minimal,Other safety equipment used,Minor Arterial,"Motorist turn right at non-signalized intersection (i.e. stop, yield, no control,  and driveway) and strikes cyclist",23,DAVENPORT,Rd,HOWLAND,Ave,-79.4135665893555,43.6767501831055,0830,no control,Wet,2010/12/01,Failed to yield right-of-way,Inattentive,small_purple
+Minimal,Helmet,Minor Arterial,Motorist turned left across cyclist's path,48,COULSON,AVE,SPADINA,RD,-79.4135513305664,43.6901664733887,0920,stop sign,Dry,2006/09/06,Improper turn,Inattentive,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,44,YONGE,ST,PARKVIEW,AV,-79.41351,43.77094,1500,no control,Dry,1986/06/30,Failed to yield right-of-way,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,14,PARKVIEW,AV,YONGE,ST,-79.41351,43.77094,1900,stop sign,Dry,1986/09/09,Driving properly,Normal,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,24,BLOOR,ST,PALMERSTON,AVE,-79.4134979248047,43.6646003723145,1228,no control,Dry,2003/05/28,Failed to yield right-of-way,Inattentive,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,26,BATHURST,ST,OLIVE,AVE,-79.4134979248047,43.6702995300293,1722,no control,Wet,2001/12/12,Failed to yield right-of-way,Normal,small_purple
+Minimal,Helmet,Major Arterial,Motorist makes u-turn in-front of cyclist,70,955 LAKE SHORE,BLVD,,,-79.4134521484375,43.6316375732422,1213,no control,Dry,2009/07/15,Driving properly,Inattentive,small_purple
+Minimal,No equipment available,Major Arterial,Cyclist struck open vehicle door,25,COLLEGE,ST,CLINTON,ST,-79.4134521484375,43.6552810668945,1725,no control,Dry,2007/09/25,Other,Normal,small_purple
+Minimal,Use unknown,Major Arterial,Cyclist struck open vehicle door,27,COLLEGE,ST,CLINTON,ST,-79.4134063720703,43.6552886962891,1616,no control,Dry,2009/03/17,Other,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,19,COLLEGE,ST,CLINTON,ST,-79.4134,43.6553,1000,traffic signal,Unrecorded,1988/09/02,Driving properly,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,65,YONGE,ST,KINGSDALE,AV,-79.4134,43.7705,1100,no control,Dry,1986/04/08,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,32,COLLEGE,ST,CLINTON,ST,-79.4134,43.6553,1530,no control,Dry,1995/10/20,Other,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,26,DUNDAS,ST,GOREVALE,AV,-79.4134,43.6553,1700,no control,Unrecorded,1989/09/11,Other,Normal,small_purple
+Minimal,No equipment available,Local,Unrecorded,33,BATHURST,ST,WELLS,ST,-79.4134,43.6508,1700,no control,Unrecorded,1990/07/03,Driving properly,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,37,COLLEGE,ST,CLINTON,ST,-79.4134,43.6702,1700,stop sign,Unrecorded,1989/07/26,Other,Inattentive,small_purple
+Minimal,Use unknown,Major Arterial,Unrecorded,55,COLLEGE,ST,CLINTON,ST,-79.4134,43.6553,1915,no control,Dry,1994/07/20,Driving properly,Other,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,33,STRACHAN,AVE,QUEEN,ST,-79.4133987426758,43.6453094482422,1045,traffic signal,Dry,1998/08/10,Following too close,Unrecorded,small_purple
+Minimal,Helmet,Major Arterial,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other,28,QUEEN,ST,TRINITY,DR,-79.4133987426758,43.6453094482422,1926,no control,Dry,2009/06/27,Improper passing,Inattentive,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,27,QUEEN,ST,STRACHAN,AV,-79.41339,43.64531,1555,traffic signal,Dry,1992/10/19,Improper passing,Normal,small_purple
+Minimal,Helmet,Major Arterial,Motorist turning right on red at signalized intersection strikes cyclists,45,BEECROFT,RD,SHEPPARD,AVE,-79.4133605957031,43.7609710693359,0825,traffic signal,Dry,2008/09/08,Improper turn,Inattentive,small_purple
+Minimal,Unrecorded,Local,Unrecorded,34,EUCLID,AV,ULSTER,ST,-79.4133,43.6599,0800,no control,Loose snow,1986/01/14,Lost control,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,20,BLOOR,ST,PALMERSTON,AVE,-79.4132766723633,43.664665222168,1530,no control,Dry,2003/06/06,Other,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Cyclist struck open vehicle door,24,COLLEGE,ST,CLINTON,ST,-79.4132461547852,43.6553230285645,1543,no control,Dry,2006/08/20,Other,Normal,small_purple
+Minimal,No equipment available,Collector,Unrecorded,13,BARTON,AV,MARKHAM,ST,-79.4132,43.6679,0800,no control,Unrecorded,1990/09/21,Driving properly,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,38,BLOOR,ST,PALMERSTON,AV,-79.4132,43.6647,1400,no control,Unrecorded,1988/09/02,Improper  lane change,Normal,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,11,BLOOR,ST,PALMERSTON,AV,-79.4132,43.6647,1500,no control,Unrecorded,1989/10/03,Other,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,21,BLOOR,ST,PALMERSTON,AV,-79.4132,43.6647,1500,no control,Unrecorded,1989/07/12,Unrecorded,Unrecorded,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,24,BLOOR,ST,PALMERSTON,AV,-79.4132,43.6647,1800,no control,Dry,1986/05/29,Improper passing,Normal,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,27,BLOOR,ST,PALMERSTON,AV,-79.4132,43.6647,1800,traffic controller,Unrecorded,1989/07/16,Failed to yield right-of-way,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,34,BLOOR,ST,PALMERSTON,AV,-79.4132,43.6647,2100,no control,Dry,1986/09/04,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,12,YONGE,ST,PARK HOME,AV,-79.4132,43.7697,2200,no control,Unrecorded,1989/07/06,Driving properly,Normal,small_purple
+Minimal,Unrecorded,Collector,Unrecorded,19,YONGE,BV,APSLEY,ROAD,-79.41314,43.73913,1500,stop sign,Dry,1987/05/29,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,37,COLLEGE,ST,CLINTON,ST,-79.4130172729492,43.6553649902344,1230,no control,Dry,2001/04/14,Driving properly,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,29,DUNDAS,ST,BELLWOODS,AV,-79.41301,43.65087,0845,stop sign,Wet,1992/07/17,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,20,DUNDAS,ST,BELLWOODS,AV,-79.41301,43.65087,1300,stop sign,Unrecorded,1989/10/19,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,16,DUNDAS,ST,BELLWOODS,AV,-79.41301,43.65087,2100,no control,Unrecorded,1990/08/27,Improper turn,Normal,small_purple
+Minimal,No equipment available,Major Arterial,"Motorist without right of way (fault) drives into path of cyclist at intersection, laneway, driveway - Driver not turning",26,DUNDAS,ST,BELLWOODS,AVE,-79.4130096435547,43.6508712768555,1727,stop sign,Dry,2010/08/24,Failed to yield right-of-way,Inattentive,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,42,DUNDAS,ST,BELLWOODS,AVE,-79.4130096435547,43.6508712768555,1730,stop sign,Dry,2003/05/05,Failed to yield right-of-way,Inattentive,small_purple
+Minimal,Helmet,Major Arterial,Cyclist struck open vehicle door,33,DUNDAS,Stre,BELLWOODS,Aven,-79.4130020141602,43.6509017944336,0930,no control,Dry,2010/09/18,Other,Normal,small_purple
+Minimal,Helmet,Minor Arterial,"Motorist without right of way (fault) drives into path of cyclist at intersection, laneway, driveway - Driver not turning",44,WILLOWDALE,AVE,MADAWASKA,AVE,-79.4129486083984,43.7950859069824,0808,no control,Dry,2008/05/20,Failed to yield right-of-way,Normal,small_purple
+Minimal,Use unknown,Major Arterial,Unrecorded,53,BATHURST,ST,BARTON,AVE,-79.4129486083984,43.6690216064453,1415,no control,Wet,2002/06/14,Improper  lane change,Normal,small_purple
+Minimal,Helmet,Major Arterial,"Cyclist loses control and strikes object (i.e. pole, TTC track)",45,KING,Stre,MASSEY,Stre,-79.4129028320313,43.6417999267578,1705,no control,Dry,2010/11/15,Failed to yield right-of-way,Inattentive,small_purple
+Minimal,Equipment not used but available,Major Arterial,Unrecorded,20,BATHURST,ST,BARTON,AV,-79.4129,43.6688,1615,no control,Dry,1995/07/05,Driving properly,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,34,BATHURST,ST,BARTON,AV,-79.4129,43.6688,2100,no control,Wet,1986/06/11,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Local,"Motorist without right of way (fault) drives into path of cyclist at intersection, laneway, driveway - Driver not turning",38,DORIS,AVE,CHURCH,AVE,-79.4128723144531,43.7745590209961,2024,no control,Dry,2008/05/08,Driving properly,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,34,COLLEGE,ST,MANNING,AV,-79.41281,43.65541,1400,no control,Wet,1987/08/17,Other,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,21,COLLEGE,ST,MANNING,AV,-79.41281,43.65541,1700,no control,Unrecorded,1988/06/28,Lost control,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,24,COLLEGE,ST,MANNING,AV,-79.41281,43.65541,1700,no control,Dry,1986/09/08,Other,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,28,COLLEGE,Stre,MANNING,Aven,-79.4128036499023,43.6553993225098,0048,stop sign,Dry,2005/12/17,Unrecorded,Unrecorded,small_purple
+Minimal,No equipment available,Collector,Unrecorded,11,GREER,ROAD,BROOKE,AV,-79.4128,43.6882,1200,stop sign,Unrecorded,1991/09/11,Disobeyed traffic control,Normal,small_purple
+Minimal,No equipment available,Minor Arterial,Unrecorded,26,SPADINA,ROAD,MONTCLAIR,AV,-79.4128,43.73469,1200,no control,Unrecorded,1988/09/06,Other,Normal,small_purple
+Minimal,Unrecorded,Collector,Unrecorded,47,ADELAIDE,ST,STRACHAN,AV,-79.4127,43.6433,1000,stop sign,Unrecorded,1996/07/22,Unrecorded,Unrecorded,small_purple
+Minimal,Helmet,Collector,Unrecorded,30,STRACHAN,AVE,ADELAIDE,ST,-79.4126510620117,43.6432838439941,0100,stop sign,Wet,2003/05/13,Failed to yield right-of-way,Inattentive,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,27,YONGE,ST,HILLCREST,AV,-79.41265,43.76742,1300,stop sign,Unrecorded,1990/07/28,Improper turn,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,19,YONGE,ST,HILLCREST,AV,-79.41265,43.76742,1500,no control,Dry,1986/04/25,Failed to yield right-of-way,Normal,small_purple
+Minimal,Use unknown,Collector,Unrecorded,64,ADELAIDE,ST,STRACHAN,AV,-79.41265,43.64328,1900,no control,Unrecorded,1988/06/05,Driving properly,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,14,BLOOR,ST,MARKHAM,ST,-79.41264,43.66483,0900,traffic signal,Dry,1986/04/19,Other,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,30,BLOOR,ST,MARKHAM,ST,-79.41264,43.66483,0920,stop sign,Dry,1993/10/05,Improper turn,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,28,BLOOR,ST,MARKHAM,ST,-79.41264,43.66483,1500,no control,Unrecorded,1989/10/02,Improper turn,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,34,BLOOR,ST,MARKHAM,ST,-79.41264,43.66483,1600,no control,Dry,1986/09/13,Improper turn,Normal,small_purple
+Minimal,Use unknown,Major Arterial,Unrecorded,30,BLOOR,ST,MARKHAM,ST,-79.41264,43.66483,1645,no control,Dry,1992/04/09,Failed to yield right-of-way,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,19,BLOOR,ST,MARKHAM,ST,-79.41264,43.66483,1700,stop sign,Dry,1986/05/07,Failed to yield right-of-way,Unrecorded,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,24,BLOOR,ST,MARKHAM,ST,-79.41264,43.66483,1700,no control,Dry,1986/06/13,Improper turn,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,22,BLOOR,ST,MARKHAM,ST,-79.41264,43.66483,1845,stop sign,Dry,1992/05/09,Other,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,20,BLOOR,ST,MARKHAM,ST,-79.41264,43.66483,1900,no control,Unrecorded,1991/06/21,Improper  lane change,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,21,BLOOR,ST,MARKHAM,ST,-79.4126358032227,43.6648292541504,0101,stop sign,Dry,2004/08/15,Driving properly,Normal,small_purple
+Minimal,Use unknown,Major Arterial,Unrecorded,43,BLOOR,ST,MARKHAM,ST,-79.4126358032227,43.6648292541504,1200,stop sign,Dry,1999/09/22,Unrecorded,Normal,small_purple
+Minimal,Helmet,Local,Unrecorded,22,ALBANY,AVE,WELLS,ST,-79.4126281738281,43.6707611083984,1635,no control,Dry,1994/08/10,Failed to yield right-of-way,Normal,small_purple
+Minimal,Unrecorded,Minor Arterial,Unrecorded,19,WILLOWDALE,AV,NEWTON,DR,-79.41261,43.79428,2100,stop sign,Dry,1987/07/15,Unrecorded,Unrecorded,small_purple
+Minimal,No equipment available,Local,Unrecorded,34,LONDON,ST,MARKHAM,ST,-79.4126,43.6664,1400,no control,Unrecorded,1991/09/08,Driving properly,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,30,BLOOR,ST,MARKHAM,ST,-79.4126,43.6648,1528,stop sign,Unrecorded,1997/05/15,Unrecorded,Unrecorded,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,15,BATHURST,Stre,BARTON,Aven,-79.4126,43.6681,1950,traffic signal,Dry,2004/12/18,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,38,BLOOR,Stre,MARKHAM,Stre,-79.41259765625,43.6647987365723,1525,stop sign,Dry,1999/11/30,Unrecorded,Unrecorded,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,37,BLOOR,Stre,MARKHAM,Stre,-79.41259765625,43.6647987365723,2125,no control,Dry,1996/04/23,Unrecorded,Unrecorded,small_purple
+Minimal,Use unknown,Major Arterial,Unrecorded,23,BATHURST,ST,BARTON,AVE,-79.4125823974609,43.6680564880371,1905,traffic signal,Dry,2002/05/24,Improper  lane change,Normal,small_purple
+Minimal,No equipment available,Major Arterial,"Cyclist without right of way (fault) rides into the path of motorist at intersection, laneway, driveway - Cyclist not turning",24,BATHURST,ST,BARTON,AVE,-79.4125823974609,43.6680564880371,2000,traffic signal,Dry,2007/06/30,Driving properly,Normal,small_purple
+Minimal,No equipment available,Collector,Unrecorded,21,BATHURST,ST,BARTON,AV,-79.41258,43.66806,0000,traffic signal,Unrecorded,1991/06/06,Following too close,Inattentive,small_purple
+Minimal,Use unknown,Major Arterial,Unrecorded,30,BATHURST,ST,BARTON,AV,-79.41258,43.66806,1225,traffic signal,Dry,1992/05/21,Disobeyed traffic control,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,31,BATHURST,ST,BARTON,AV,-79.41258,43.66806,1345,traffic signal,Dry,1995/06/07,Other,Unknown,small_purple
+Minimal,No equipment available,Major Arterial,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other,38,KING,ST,MASSEY,ST,-79.4125518798828,43.641918182373,0317,no control,Dry,2007/07/29,Driving properly,Normal,small_purple
+Minimal,Other passive restraint device,Major Arterial,Motorist turned left across cyclist's path,25,AVENUE,RD,GLENCAIRN,AVE,-79.4125289916992,43.7159309387207,2130,no control,Dry,2010/05/24,Failed to yield right-of-way,Normal,small_purple
+Minimal,Other safety equipment used,Collector,Motorist turned left across cyclist's path,44,HOWLAND,AVE,BRIDGMAN,AVE,-79.4125213623047,43.6748085021973,0800,stop sign,Wet,2009/03/09,Failed to yield right-of-way,Unknown,small_purple
+Minimal,No equipment available,Major Arterial,Motorist turning right on green or amber  at signalized intersections strikes cyclist,30,FINCH,AVE,KENNETH,AVE,-79.4125137329102,43.7804222106934,1445,traffic signal,Dry,2010/09/14,Failed to yield right-of-way,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,14,FINCH,AV,KENNETH,AV,-79.41251,43.78042,1300,traffic signal,Dry,1987/12/23,Driving properly,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,28,KING,ST,MASSEY,ST,-79.4125,43.6419,0200,no control,Unrecorded,1991/07/05,Driving properly,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,54,QUEEN,ST,STRACHAN,AV,-79.4125,43.6455,1000,no control,Dry,1986/07/19,Other,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,28,KING,ST,MASSEY,ST,-79.4125,43.6419,1255,no control,Dry,1993/09/27,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,Unrecorded,KING,ST,MASSEY,ST,-79.4125,43.6419,1700,no control,Unrecorded,1991/08/05,Driving properly,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,19,QUEEN,ST,STRACHAN,AV,-79.4125,43.6455,1800,no control,Dry,1993/10/24,Failed to yield right-of-way,Inattentive,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,21,QUEEN,ST,STRACHAN,AV,-79.4125,43.6455,1800,no control,Unrecorded,1989/07/27,Improper turn,Normal,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,29,ST CLAIR,AVE,WALMER,RD,-79.4124984741211,43.6842994689941,0815,no control,Dry,2003/10/16,Failed to yield right-of-way,Normal,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,18,WALMER,RD,ST CLAIR,AVE,-79.4124984741211,43.6843376159668,1616,no control,Dry,2002/09/06,Driving properly,Normal,small_purple
+Minimal,Helmet,Minor Arterial,Motorist turned left across cyclist's path,55,HARBORD,ST,PALMERSTON,BLVD,-79.4124145507813,43.660961151123,1434,traffic signal,Dry,2010/06/14,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Laneway,Unrecorded,49,MARKHAM,ST,LENNOX,ST,-79.4124,43.6642,1100,no control,Dry,1993/06/30,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Minor Arterial,Motorist turning right on green or amber  at signalized intersections strikes cyclist,33,HARBORD,Stre,PALMERSTON,Boul,-79.4123992919922,43.6609992980957,1725,traffic signal,Dry,2010/10/12,Improper turn,Normal,small_purple
+Minimal,Helmet,Major Arterial,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other,41,COLLEGE,ST,MANNING,AVE,-79.4123916625977,43.6554946899414,1025,no control,Dry,2005/06/08,Failed to yield right-of-way,Inattentive,small_purple
+Minimal,No equipment available,Local,Unrecorded,45,POYNTZ,AV,BEECROFT,ROAD,-79.41234,43.75956,0700,stop sign,Unrecorded,1990/06/22,Failed to yield right-of-way,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,19,LAWRENCE,AV,ELM,ROAD,-79.41231,43.72298,1500,no control,Dry,1987/09/25,Improper turn,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,19,LAWRENCE,AVE,ELM,RD,-79.4123077392578,43.7229766845703,1700,no control,Unrecorded,1989/05/18,Improper turn,Normal,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,38,897 QUEEN,Stre,,,-79.4123001098633,43.6455001831055,0920,no control,Dry,1998/10/20,Unrecorded,Unrecorded,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,24,BATHURST,ST,LONDON,ST,-79.4123,43.6673,1400,no control,Dry,1987/08/10,Other,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,19,BATHURST,ST,LONDON,ST,-79.4123,43.6673,1600,no control,Dry,1987/05/20,Other,Normal,small_purple
+Minimal,No equipment available,Local,Unrecorded,24,EUCLID,AV,COLLEGE,ST,-79.4123,43.6573,2000,no control,Unrecorded,1988/05/09,Improper passing,Unknown,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,39,BLOOR,ST,MARKHAM,ST,-79.4122161865234,43.6648941040039,1830,no control,Wet,2000/02/15,Following too close,Normal,small_purple
+Minimal,Helmet,Major Arterial,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other,38,KING,Stre,STRACHAN,Aven,-79.4122009277344,43.6419982910156,1545,traffic signal,Dry,2010/08/06,Improper passing,Unknown,small_purple
+Minimal,Use unknown,Major Arterial,Unrecorded,17,AVENUE,ROAD,STRATHALLAN,BV,-79.4122,43.7152,0835,no control,Unrecorded,1993/09/29,Driving properly,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,14,YONGE,ST,HOLLYWOOD,AV,-79.41219,43.7656,1600,stop sign,Unrecorded,1990/07/19,Failed to yield right-of-way,Normal,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,30,BATHURST,ST,LONDON,ST,-79.4121780395508,43.6670341491699,1555,no control,Wet,2004/03/31,Improper passing,Normal,small_purple
+Minimal,Helmet,Major Arterial,Motorist turned left across cyclist's path,23,KING,ST,STRACHAN,AVE,-79.4121704101563,43.6419868469238,1659,traffic signal,Dry,2007/06/14,Improper turn,Normal,small_purple
+Minimal,Use unknown,Major Arterial,Unrecorded,31,KING,ST,STRACHAN,AV,-79.41217,43.64199,1200,no control,Unrecorded,1990/05/03,Driving properly,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,24,STRACHAN,AV,KING,ST,-79.41217,43.64199,2300,no control,Dry,1987/07/18,Other,Normal,small_purple
+Minimal,No equipment available,Local,"Motorist without right of way (fault) drives into path of cyclist at intersection, laneway, driveway - Driver not turning",59,MARKHAM,ST,LENNOX,ST,-79.4121322631836,43.6635246276855,1050,stop sign,Wet,2007/04/05,Disobeyed traffic control,Normal,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,36,BATHURST,Stre,LONDON,Stre,-79.4121017456055,43.6668014526367,0100,no control,Dry,2000/10/05,Unrecorded,Unrecorded,small_purple
+Minimal,No equipment available,Major Arterial,Motorist turned left across cyclist's path,65,AVENUE,RD,LYTTON,BLVD,-79.4120864868164,43.7139205932617,1510,traffic signal,Dry,2008/10/17,Failed to yield right-of-way,Inattentive,small_purple
+Minimal,Unrecorded,Collector,Unrecorded,37,STRACHAN,Aven,KING,Stre,-79.4120559692383,43.6416053771973,0715,no control,Dry,1998/06/16,Unrecorded,Unrecorded,small_purple
+Minimal,No equipment available,Collector,Unrecorded,16,EMPRESS,AV,YONGE,ST,-79.41205,43.76945,1500,no control,Unrecorded,1989/04/27,Failed to yield right-of-way,Normal,small_purple
+Minimal,Use unknown,Major Arterial,Unrecorded,35,HOWLAND,AVE,DUPONT,ST,-79.4120407104492,43.6736335754395,1730,stop sign,Dry,1999/10/19,Unrecorded,Unrecorded,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,19,HOWLAND,AV,DUPONT,ST,-79.41204,43.67363,0700,stop sign,Unrecorded,1988/08/22,Failed to yield right-of-way,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,34,DUPONT,ST,HOWLAND,AV,-79.41204,43.67363,0700,traffic signal,Dry,1986/05/26,Driving properly,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,34,DUPONT,ST,HOWLAND,AV,-79.41204,43.67363,0800,stop sign,Dry,1987/09/22,Unrecorded,Unrecorded,small_purple
+Minimal,No equipment available,Local,Unrecorded,12,YONGE,BV,HARLEY,AV,-79.41201,43.73812,1900,stop sign,Unrecorded,1991/04/25,Driving properly,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,21,BLOOR,Stre,BATHURST,Stre,-79.4120025634766,43.6650009155273,1530,no control,Dry,2000/11/01,Unrecorded,Unrecorded,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,31,BLOOR,ST,MARKHAM,ST,-79.412,43.6649,1300,no control,Unrecorded,1989/11/16,Other,Normal,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,26,BLOOR,ST,MARKHAM,ST,-79.412,43.6649,1629,no control,Dry,1995/10/12,Other,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,29,BLOOR,ST,MARKHAM,ST,-79.412,43.6649,1705,no control,Wet,1992/11/30,Improper passing,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,25,BLOOR,ST,MARKHAM,ST,-79.4119186401367,43.664966583252,0845,no control,Dry,2001/06/26,Failed to yield right-of-way,Unrecorded,small_purple
+Minimal,Helmet,Collector,Unrecorded,27,STRACHAN,AVE,CANNIFF,ST,-79.411865234375,43.6417922973633,0858,no control,Dry,2001/06/11,Other,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,16,YONGE,ST,SPRING GARDEN,AV,-79.41184,43.76425,0800,no control,Unrecorded,1988/09/20,Driving properly,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Cyclist struck open vehicle door,35,901 KING,ST,,,-79.4118118286133,43.6420555114746,0940,no control,Dry,2005/06/21,Other,Inattentive,small_purple
+Minimal,No equipment available,Major Arterial,Cyclist turns right across motorist path,18,DUNDAS,ST,CLAREMONT,ST,-79.4118041992188,43.651123046875,2100,no control,Dry,2007/09/05,Driving properly,Normal,small_purple
+Minimal,No equipment available,Major Arterial,"Cyclist without right of way (fault) rides into the path of motorist at intersection, laneway, driveway - Cyclist not turning",26,DUNDAS,ST,CLAREMONT,ST,-79.4118041992188,43.651123046875,2314,stop sign,Dry,2008/09/19,Other,Had been drinking,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,53,BLOOR,ST,MARKHAM,ST,-79.4118,43.665,1615,no control,Dry,1997/06/02,Unrecorded,Unrecorded,small_purple
+Minimal,Helmet,Minor Arterial,Unrecorded,33,HARBORD,ST,PALMERSTON,BV,-79.4118,43.6611,1700,no control,Unrecorded,1988/09/08,Improper passing,Unknown,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,33,DUNDAS,ST,CLAREMONT,ST,-79.4118,43.65112,1720,no control,Dry,1994/08/26,Improper turn,Normal,small_purple
+Minimal,Helmet,Collector,Motorist turned left across cyclist's path,29,DORIS,AVE,PARKVIEW,AVE,-79.4117736816406,43.7713165283203,1850,stop sign,Dry,2008/11/06,Failed to yield right-of-way,Normal,small_purple
+Minimal,Helmet,Collector,"Motorist without right of way (fault) drives into path of cyclist at intersection, laneway, driveway - Driver not turning",24,ULSTER,ST,PALMERSTON,BLVD,-79.4117050170898,43.6592636108398,0920,stop sign,Wet,2009/06/20,Disobeyed traffic control,Inattentive,small_purple
+Minimal,Helmet,Local,Unrecorded,54,PALMERSTON BLVD,,ULSTER ST,,-79.4117050170898,43.6592636108398,1740,stop sign,Dry,1998/12/04,Unrecorded,Unrecorded,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,46,BATHURST,ST,BLOOR,ST,-79.4117,43.6658,0138,no control,Dry,1994/07/16,Driving properly,Normal,small_purple
+Minimal,No equipment available,Collector,Unrecorded,60,PALMERSTON,Boul,ULSTER,Stre,-79.4117,43.6593,1000,stop sign,Wet,2004/11/24,Failed to yield right-of-way,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,34,BATHURST,ST,BLOOR,ST,-79.4117,43.6658,1200,no control,Wet,1986/12/06,Other,Normal,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,23,BATHURST,ST,BLOOR,ST,-79.4117,43.6658,1800,no control,Unrecorded,1989/11/29,Driving properly,Normal,small_purple
+Minimal,Helmet,Major Arterial,Unrecorded,26,BATHURST,ST,BLOOR,ST,-79.4117,43.6658,1950,no control,Dry,1993/04/22,Driving properly,Normal,small_purple
+Minimal,Helmet,Collector,Unrecorded,40,STRACHAN,,WELLINGTON,,-79.4116973876953,43.6407012939453,1826,stop sign,Dry,1998/02/06,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Unrecorded,24,QUEEN,ST,GOREVALE,AV,-79.41169,43.64565,0100,stop sign,Unrecorded,1990/05/19,Disobeyed traffic control,Normal,small_purple
+Minimal,No equipment available,Local,Unrecorded,12,BRIAR,AV,AVENUE,ROAD,-79.41169,43.71113,1300,stop sign,Unrecorded,1991/05/27,Driving properly,Normal,small_purple
+Minimal,Helmet,Local,Unrecorded,30,AVENUE,ROAD,BRIAR,AV,-79.41169,43.71113,2135,no control,Dry,1993/07/05,Improper turn,Normal,small_purple
+Minimal,Other safety equipment used,Major Arterial,Motorist turned left across cyclist's path,23,QUEEN,ST,GORE VALE,AVE,-79.4116897583008,43.6456451416016,0015,stop sign,Dry,2007/07/22,Failed to yield right-of-way,Normal,small_purple
+Minimal,No equipment available,Major Arterial,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other,37,QUEEN,ST,GORE VALE,AVE,-79.4116897583008,43.6456451416016,1016,no control,Dry,2010/08/11,Improper passing,Inattentive,small_purple
+Minimal,Use unknown,Minor Arterial,Unrecorded,27,STRACHAN,AV,WELLINGTON,ST,-79.41167,43.6407,1500,no control,Dry,1992/07/03,Driving properly,Normal,small_purple
+Minimal,Helmet,Minor Arterial,"Motorist turn right at non-signalized intersection (i.e. stop, yield, no control,  and driveway) and strikes cyclist",44,STRACHAN,AVE,DOURO,ST,-79.4116668701172,43.6407012939453,1739,stop sign,Dry,2008/10/17,Failed to yield right-of-way,Normal,small_purple
+Minimal,Helmet,Minor Arterial,"Motorist turn right at non-signalized intersection (i.e. stop, yield, no control,  and driveway) and strikes cyclist",43,STRACHAN,AVE,WELLINGTON,ST,-79.4116668701172,43.6407012939453,2015,stop sign,Dry,2009/04/16,Failed to yield right-of-way,Normal,small_purple
+Minimal,Helmet,Local,Unrecorded,26,KENNETH,AV,HOLMES,AV,-79.41165,43.77836,1100,stop sign,Unrecorded,1990/09/12,Failed to yield right-of-way,Normal,small_purple
+Minimal,Helmet,Major Arterial,Cyclist and Driver travelling in same direction. One vehicle rear-ended the other,39,COLLEGE,ST,EUCLID,AVE,-79.4116058349609,43.6556587219238,1640,traffic signal,Wet,2007/11/19,Driving properly,Normal,small_purple
+Minimal,Unrecorded,Major Arterial,Unrecorded,39,EUCLID,AVE,COLLEGE,ST,-79.4116058349609,43.6556587219238,1745,no control,Dry,1999/05/28,Unrecorded,Unrecorded,small_purple
