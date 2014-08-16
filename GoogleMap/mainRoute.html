@@ -18,71 +18,37 @@
 	</style>
 	<script type="text/javascript">
 		var heatmap;
-		var rendererOptions = {
-		  draggable: true
-		};
+		
 		var directionsDisplay;
 		var directionsService = new google.maps.DirectionsService();
 		var origin = new google.maps.LatLng(43.666602, -79.403502);
 		var destination = new google.maps.LatLng(43.656278, -79.380803);
+		var map;
 
 		function initialize() {
 			var map_canvas = document.getElementById("map_canvas");
-
-			directionsDisplay = new google.maps.DirectionsRenderer(rendererOptions);
-			// Center: where to center the map
-			// zoom: number between 0(furthest) and 22 (closest)
-			// mapTypeId: type of map: ROADMAP, SATELLITE, HYBRID or TERRAIN
-			
-			
 			var mapOptions = {
 				center: new google.maps.LatLng(43.658938, -79.392812),
 				zoom: 14,
 				mapTypeIds: [google.maps.MapTypeId.ROADMAP, 'map_style']
 			};
-
-			var map = new google.maps.Map(map_canvas, mapOptions);
-			directionsDisplay.setMap(map);
-			return map;
+			map = new google.maps.Map(map_canvas, mapOptions);
+			setDirections();
+			setBikeLayer();
 		}
 
-		function setStyles() {
-			//var map_canvas = document.getElementById("map_canvas");
-			var map = initialize();
-			var styles = [
-				{
-					featureType: 'road',
-					elementType: 'geometry',
-					stylers: [
-						{ color: '#000000' },
-						{ weight: 1.6 }
-					]
-				},
-				{
-					featureType: 'road',
-					elementType: 'labels',
-					stylers: [
-						{ saturation: -100 },
-						{ invert_lightness: true }
-					]
-				}
-			];
-
-			// Create a new StyledMapType object, passing array of styles
-			var styledMap = new google.maps.StyledMapTypes(styles, 
-			{
-				name: "Styled Map"
-			});
-
-			// Associate the styled map with MapTypeId and set it to display
-			// 
-			map.mapTypes.set('map_style', styleMap);
-			map.setMapTypeId('map_style');
+		function setDirections(){
+			var rendererOptions = {
+			  draggable: true
+			};
+			directionsDisplay = new google.maps.DirectionsRenderer(rendererOptions);			
+			directionsDisplay.setMap(map);
 		}
 
 		function setBikeLayer(){
-			var map = initialize();
+
 			var bikeLayer = new google.maps.BicyclingLayer();
+
   			bikeLayer.setMap(map);
 
   			$.getJSON( 'accidents.json', function( data ) {
@@ -102,9 +68,9 @@
 			    data: pointArray,
 			    radius: 25
 			  });
-	          console.log("HeatmapLayer");
+
 	          heatmap.setMap(map);
-	          console.log("setMap");
+
 	        });
 		}
 
@@ -133,7 +99,7 @@
 		
 		
 
-		google.maps.event.addDomListener(window, 'load', setBikeLayer);
+		google.maps.event.addDomListener(window, 'load', initialize);
 	</script>
 	<!--[if lt IE 9]>
 	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
