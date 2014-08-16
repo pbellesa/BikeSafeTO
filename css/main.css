@@ -1,13 +1,42 @@
-
-
-/* ==========================================================================
-   Author's custom styles
-   ========================================================================== */
+@import url('http://fonts.googleapis.com/css?family=Raleway:400,600,800');
 
 
 
 
+#map_canvas {
+	height: 100%;
+	width: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 0;
 
+}
+
+.navbar {
+	background: #3366cc;
+	height: 75px;
+	border: none;
+}
+
+.navbar-bran{
+	font-family: 'Raleway', sans-serif;
+	font-weight: 600;
+	color: #fff;
+	font-size: 1.8em;
+	line-height: 3;
+}
+
+span.navbar-bran {
+	font-weight: 800;
+}
+
+#pac-input{
+	position: relative;
+	padding: 30px 500px;
+	z-index: 1;
+	margin-top:20%;
+}
 
 
 
