@@ -90,8 +90,8 @@
 	    	  var i = 0;
 	          data.forEach( function(accident) {
 	          	i++;
-	          	if (accident.Latitude&& accident.Longitude &&) {
-	      
+	          	if (accident.latitude&& accident.longitude) {
+	          		
 	          		accidents.push( new google.maps.LatLng(accident.latitude, accident.longitude) );
 	          	};
 	            });
@@ -99,7 +99,8 @@
 	          var pointArray = new google.maps.MVCArray(accidents);
 	          console.log("MVCArray");
 	          heatmap = new google.maps.visualization.HeatmapLayer({
-			    data: pointArray
+			    data: pointArray,
+			    radius: 25
 			  });
 	          console.log("HeatmapLayer");
 	          heatmap.setMap(map);
