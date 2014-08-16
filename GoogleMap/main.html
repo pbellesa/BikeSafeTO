@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<title>Template</title>
+	<!-- <link rel="stylesheet" type="text/css" href="./css/styles.css"> -->
+	<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js"></script>
+	<style type="text/css">
+		#map_canvas {
+			width: 1000px;
+			height: 1000px;
+			background-color: #CCC;
+		}
+	</style>
+	<script type="text/javascript">
+		function initialize() {
+			var map_canvas = document.getElementById("map_canvas");
+			
+			// Center: where to center the map
+			// zoom: number between 0(furthest) and 22 (closest)
+			// mapTypeId: type of map: ROADMAP, SATELLITE, HYBRID or TERRAIN
+			
+			var mapOptions = {
+				center: new google.maps.LatLng(43.659778, -79.37978),
+				zoom: 15,
+				mapTypeIds: [google.maps.MapTypeId.ROADMAP, 'map_style']
+			};
+
+			var map = new google.maps.Map(map_canvas, mapOptions);
+			
+			return map;
+		}
+
+		function setStyles() {
+			//var map_canvas = document.getElementById("map_canvas");
+			var map = initialize();
+			var styles = [
+				{
+					featureType: 'road',
+					elementType: 'geometry',
+					stylers: [
+						{ color: '#000000' },
+						{ weight: 1.6 }
+					]
+				},
+				{
+					featureType: 'road',
+					elementType: 'labels',
+					stylers: [
+						{ saturation: -100 },
+						{ invert_lightness: true }
+					]
+				}
+			];
+
+			// Create a new StyledMapType object, passing array of styles
+			var styledMap = new google.maps.StyledMapTypes(styles, 
+			{
+				name: "Styled Map"
+			});
+			
+			// Associate the styled map with MapTypeId and set it to display
+			// 
+			map.mapTypes.set('map_style', styleMap);
+			map.setMapTypeId('map_style');
+
+			
+		}
+
+		function setBikeLayer() {
+			var map = initialize();
+			
+			var bikeLayer = new google.maps.BicyclingLayer();
+  			bikeLayer.setMap(map);
+		}
+		google.maps.event.addDomListener(window, 'load', setBikeLayer);
+	</script>
+	<!--[if lt IE 9]>
+	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+</head>
+<body>
+	<div class="page">
+		
+		<header>
+			<a class="logo" href="#">Google Map Example</a>
+		</header>
+
+		<nav>
+		<!-- 	<a href="#">About Us</a> -->
+		</nav>
+
+		<div id="map_canvas"></div>
+
+		<footer>
+			&copy; Ragu Sivanandha
+		</footer>
+
+	</div>
+</body>
+</html>

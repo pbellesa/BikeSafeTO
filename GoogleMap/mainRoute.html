@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<title>Template</title>
+	<!-- <link rel="stylesheet" type="text/css" href="./css/styles.css"> -->
+	<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js"></script>
+	<style type="text/css">
+		html, body {
+		}
+		#map_canvas {
+		
+			height: 500px;
+			width: 100%;
+			background-color: #CCC;
+		}
+	</style>
+	<script type="text/javascript">
+		var rendererOptions = {
+		  draggable: true
+		};
+		var directionsDisplay;
+		var directionsService = new google.maps.DirectionsService();
+		var origin = new google.maps.LatLng(43.666602, -79.403502);
+		var destination = new google.maps.LatLng(43.656278, -79.380803);
+
+		function initialize() {
+			var map_canvas = document.getElementById("map_canvas");
+
+			directionsDisplay = new google.maps.DirectionsRenderer(rendererOptions);
+			// Center: where to center the map
+			// zoom: number between 0(furthest) and 22 (closest)
+			// mapTypeId: type of map: ROADMAP, SATELLITE, HYBRID or TERRAIN
+			
+			
+			var mapOptions = {
+				center: new google.maps.LatLng(43.658938, -79.392812),
+				zoom: 14,
+				mapTypeIds: [google.maps.MapTypeId.ROADMAP, 'map_style']
+			};
+
+			var map = new google.maps.Map(map_canvas, mapOptions);
+			directionsDisplay.setMap(map);
+			return map;
+		}
+
+		function setStyles() {
+			//var map_canvas = document.getElementById("map_canvas");
+			var map = initialize();
+			var styles = [
+				{
+					featureType: 'road',
+					elementType: 'geometry',
+					stylers: [
+						{ color: '#000000' },
+						{ weight: 1.6 }
+					]
+				},
+				{
+					featureType: 'road',
+					elementType: 'labels',
+					stylers: [
+						{ saturation: -100 },
+						{ invert_lightness: true }
+					]
+				}
+			];
+
+			// Create a new StyledMapType object, passing array of styles
+			var styledMap = new google.maps.StyledMapTypes(styles, 
+			{
+				name: "Styled Map"
+			});
+
+			// Associate the styled map with MapTypeId and set it to display
+			// 
+			map.mapTypes.set('map_style', styleMap);
+			map.setMapTypeId('map_style');
+		}
+
+		function setBikeLayer(){
+			var map = initialize();
+			var bikeLayer = new google.maps.BicyclingLayer();
+  			bikeLayer.setMap(map);
+		}
+
+
+		function calcRoute() {
+			console.log("calcRoute");
+
+		  var request = {
+		    origin: origin,
+		    destination: destination,
+		    travelMode: google.maps.TravelMode.BICYCLING
+		  };
+		  directionsService.route(request, function(result, status) {
+		    if (status == google.maps.DirectionsStatus.OK) {
+		      directionsDisplay.setDirections(result);
+		    }
+		  });
+		}
+		google.maps.event.addDomListener(window, 'load', setBikeLayer);
+	</script>
+	<!--[if lt IE 9]>
+	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+</head>
+<body>
+	<div class="page">
+		
+		<header>
+			<a class="logo" href="#">Google Map Example</a>
+		</header>
+
+		<nav>
+		<!-- 	<a href="#">About Us</a> -->
+		</nav>
+
+		<div id="map_canvas"></div>
+		<button onClick="calcRoute();">Route</button>
+		<footer>
+			&copy; Ragu Sivanandha
+		</footer>
+
+	</div>
+</body>
+</html>
