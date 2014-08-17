@@ -2,7 +2,7 @@ var poly;
 var geodesicPoly;
 var marker1;
 var marker2;
-
+var map;
 //Additional variables
 var startPos;
 var endPos;
@@ -34,33 +34,40 @@ function deleteMarkers() {
   markers = [];
 }
 
+function getJson(map) {
+  var data;
+  data = $.getJSON( "data/stations.json", function(dataJson) {
+        dataJson.forEach( function(station) {
+        var marker = new google.maps.Marker({
+            map: map,
+            draggable: true,
+            position: new google.maps.LatLng(station.Latitude, station.Longitude) 
+        });
+      });
+      //return data;//Json.responseJSON;  
+  });
+  //console.log(data);
+  return data;
+}
+
 
 function initialize() {
   var mapOptions = {
-    zoom: 10,
+    zoom: 15,
     center: new google.maps.LatLng(43.653921, -79.373217)
   };
 
-  var map = new google.maps.Map(document.getElementById('map_canvas'),
+  map = new google.maps.Map(document.getElementById('map_canvas'),
       mapOptions);
 
   map.controls[google.maps.ControlPosition.TOP_CENTER].push(
       document.getElementById('info'));
 
-  
+  var data = getJson(map);
   // startPos = new google.maps.LatLng(43.642946, -79.394033);
   endPos = new google.maps.LatLng(43.653921, -79.373217);
 
- $.getJSON( "data/stations.json", function( data ) {
-          
-          data.forEach( function(station) {
-          var marker = new google.maps.Marker({
-              map: map,
-              draggable: true,
-              position: new google.maps.LatLng(station.Latitude, station.Longitude) 
-            });
-        });
-    });
+ 
   
   navigator.geolocation.getCurrentPosition(function(pos) {
       //console.dir(pos);
@@ -69,9 +76,9 @@ function initialize() {
 
       // [END region_getplaces]
 
-
-      DetermineClosestStation(startPos, function (closestStation) {
-          DetermineClosestStation(endPos, function(closestStationEnd) {
+      console.log("DETERMINING STATION");
+      DetermineClosestStation(startPos, data, function (closestStation) {
+          DetermineClosestStation(endPos, data, function(closestStationEnd) {
               console.log ([closestStation, closestStationEnd]);
               marker1 = new google.maps.Marker({
                   map: map,
@@ -93,6 +100,8 @@ function initialize() {
               google.maps.event.addListener(marker1, 'position_changed', update);
               google.maps.event.addListener(marker2, 'position_changed', update);
 
+              console.dir(bounds);
+              console.log(marker2);
               var polyOptions = {
                 strokeColor: '#FF0000',
                 strokeOpacity: 1.0,
@@ -110,12 +119,16 @@ function initialize() {
               };
               geodesicPoly = new google.maps.Polyline(geodesicOptions);
 
-              update();
-              }
-            )
+              
+
+              //showHeatMap(marker2.getPosition(), marker2.getPosition());
+              //update();
+            }
+            );
           }
         );
     });
+//showHeatMap(map);
 }
 
 function search(map) {
@@ -143,7 +156,7 @@ function search(map) {
         // For each place, get the icon, place name, and location.
         
         var bounds = new google.maps.LatLngBounds();
-        for (var i = 0, place; place = places[i] && i < 5; i++) {
+        for (var i = 0, place; place = places[i]; i++) {
           var image = {
             url: place.icon,
             size: new google.maps.Size(20, 20),
@@ -183,34 +196,85 @@ function update() {
   var heading = google.maps.geometry.spherical.computeHeading(path[0],
       path[1]);
   //document.getElementById('heading').value = heading;
-  document.getElementById('origin').value = path[0].toString();
-  document.getElementById('destination').value = path[1].toString();
+  //document.getElementById('origin').value = path[0].toString();
+  //document.getElementById('destination').value = path[1].toString();
 }
 
-function DetermineClosestStation(position, cb) {
-  //load dock data
+function showHeatMap(origin, destination) {
+  //var map_canvas = document.getElementById("map_canvas");
+    var heatmap;
+    var rendererOptions = {
+      draggable: true
+    };
+    var directionsDisplay;
+    var directionsService = new google.maps.DirectionsService();
+    //var origin = new google.maps.LatLng(43.666602, -79.403502);
+    //var destination = new google.maps.LatLng(43.656278, -79.380803);
 
+    directionsDisplay = new google.maps.DirectionsRenderer(rendererOptions);
+
+    //var map = new google.maps.Map(map_canvas, mapOptions);
+    directionsDisplay.setMap(map);
+    /* Set HeatMap */
+    var bikeLayer = new google.maps.BicyclingLayer();
+      bikeLayer.setMap(map);
+
+      $.getJSON( 'accidents.json', function( data ) {
+        var accidents = [];
+        var i = 0;
+          data.forEach( function(accident) {
+            i++;
+            if (accident.latitude&& accident.longitude) {
+              
+              accidents.push( new google.maps.LatLng(accident.latitude, accident.longitude) );
+            }
+            });
+
+          var pointArray = new google.maps.MVCArray(accidents);
+          console.log("MVCArray");
+          heatmap = new google.maps.visualization.HeatmapLayer({
+          data: pointArray,
+          radius: 25
+        });
+          heatmap.setMap(map);
+      });
+
+    /******** Show Route *******/
+    var request = {
+      origin: origin,
+      destination: destination,
+      travelMode: google.maps.TravelMode.BICYCLING
+    };
+    directionsService.route(request, function(result, status) {
+      if (status == google.maps.DirectionsStatus.OK) {
+        directionsDisplay.setDirections(result);
+      }
+    });
+}
+
+function DetermineClosestStation(position, data, cb) {
+  //load dock data
+  //console.dir(data);
   var closestStation = null;
   var closestStationDist = 0;
-
-
-
+//console.dir(data);
   $.getJSON( "data/stations.json", function( data ) {
-      console.log(data);
+      //console.log(data);
       
       data.forEach( function(station) {
           var stationLatLng = new google.maps.LatLng(station.Latitude, station.Longitude); 
          // console.log(stationLatLng);
 
           var distance = google.maps.geometry.spherical.computeDistanceBetween(stationLatLng, position);
+
           if (!closestStation || closestStationDist > distance)
           {
             closestStationDist = distance;
             closestStation = station;
-            console.log("calculating closest: " + closestStation + ", " + "closestStationDist");
+            //console.log("calculating closest: " + closestStation + ", " + "closestStationDist");
           }
-        });
-      console.log("returning");
+       });
+      //console.log("returning");
       cb(closestStation);
   });
 
