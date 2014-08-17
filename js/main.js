@@ -51,7 +51,8 @@ function initialize() {
           var marker = new google.maps.Marker({
             map: map,
             draggable: true,
-            position: new google.maps.LatLng(station.Latitude, station.Longitude) 
+            position: new google.maps.LatLng(station.Latitude, station.Longitude),
+            icon: 'StationMarker-Icon.png'
           });
 
           // display station name when clicked
