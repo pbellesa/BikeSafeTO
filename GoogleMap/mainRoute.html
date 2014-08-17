@@ -43,6 +43,7 @@
 			};
 			directionsDisplay = new google.maps.DirectionsRenderer(rendererOptions);			
 			directionsDisplay.setMap(map);
+			directionsDisplay.setPanel(document.getElementById('directions_panel'));
 		}
 
 		function setBikeLayer(){
@@ -91,14 +92,6 @@
 		}
 
 
-		// JSON Parsing
-	
-
-
-	   
-		
-		
-
 		google.maps.event.addDomListener(window, 'load', initialize);
 	</script>
 	<!--[if lt IE 9]>
@@ -117,6 +110,7 @@
 		</nav>
 
 		<div id="map_canvas"></div>
+		<div id="directions_panel"></div>	
 		<button onClick="calcRoute();">Route</button>
 		<footer>
 			&copy; Ragu Sivanandha
