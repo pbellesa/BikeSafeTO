@@ -67,7 +67,21 @@ function initialize() {
   // startPos = new google.maps.LatLng(43.642946, -79.394033);
   endPos = new google.maps.LatLng(43.653921, -79.373217);
 
+<<<<<<< HEAD
  
+=======
+ var markers = [];
+ $.getJSON( "data/stations.json", function( data ) {
+          
+          data.forEach( function(station) {
+          var marker = new google.maps.Marker({
+              map: map,
+              draggable: true,
+              position: new google.maps.LatLng(station.Latitude, station.Longitude) 
+            });
+        });
+    });
+>>>>>>> 233f1e1cb6026bcb711baf4546178a2456f1d863
   
   navigator.geolocation.getCurrentPosition(function(pos) {
       //console.dir(pos);
