@@ -41,6 +41,7 @@ span.navbar-bran {
 .bot-left {
 	float: right;
 	margin-top: 25%;	
+	position: relative;
 }
 
 
