@@ -47,7 +47,7 @@
       directionsDisplay.setPanel(document.getElementById('directions_panel'));
     }
 
-    function setBikeLayer(){
+    function setBikeLayer() {
 
       var bikeLayer = new google.maps.BicyclingLayer();
 
@@ -61,7 +61,7 @@
               if (accident.latitude&& accident.longitude) {
                 
                 accidents.push( new google.maps.LatLng(accident.latitude, accident.longitude) );
-              };
+              }
               });
 
             var pointArray = new google.maps.MVCArray(accidents);
@@ -75,6 +75,7 @@
 
           });
     }
+
     function setStations(){
       infoWindow = new google.maps.InfoWindow({ content: "Holding..."});
       $.getJSON( "data/stations.json", function( data ) {
@@ -132,7 +133,7 @@
     <div id="directions_panel"></div> 
     <button onClick="calcRoute();">Route</button>
     <footer>
-      &copy; Ragu Sivanandha
+      &copy; 
     </footer>
 
   </div>

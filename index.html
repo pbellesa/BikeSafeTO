@@ -13,12 +13,12 @@
         <link rel="stylesheet" href="css/bootstrap.min.css">
         <link rel="stylesheet" href="css/bootstrap-theme.min.css">
         <link rel="stylesheet" href="css/main.css">
-        <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=visualization"></script>
         <script src="js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
-        <script src="js/vendor/bootstrap.min.js"></script> 
-         <script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>    
+
+        <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=geometry,visualization"></script>-->
+
         <script src="js/main.js"></script>
-         
+           
     </head>
     <body>
         <!--[if lt IE 7]>
@@ -39,28 +39,27 @@
         <div class="navbar-collapse collapse">
           <form class="navbar-form navbar-right" role="form">
             <div class="form-group">
-              <input type="text" placeholder="Email" class="form-control">
+              <input id="input-from" type="text" placeholder="From" class="form-control">
             </div>
             <div class="form-group">
-              <input type="password" placeholder="Password" class="form-control">
+              <input id="input-to" type="text" placeholder="To" class="form-control">
             </div>
-            <button type="submit" class="btn btn-success">Sign in</button>
+            <button id="input-go" type="submit" class="btn btn-success">Go</button>
           </form>
         </div><!--/.navbar-collapse -->
       </div>
     </div>
-  <input id="pac-input" class="controls" type="text" placeholder="Search Box" autocomplete="on" id="search">
+    <div id="directions_panel"></div> 
     <div class="container"> 
 
-     
-   <!--    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=geometry"></script>
->>>>>>> 49f1b311cc28c2d411713beaa6b496757dd8773e -->
-       <!---<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=places"></script> -->
-      <div id="map_canvas"></div>
-         <!--  <button onClick="calcRoute();">Route</button>
-          </div>
 
-  <div class="container"> -->
+      <script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
+
+      <div id="map_canvas"></div>
+          <button onClick="calcRoute();">Route</button>
+
+
+        <script src="js/vendor/bootstrap.min.js"></script>
  <button class="btn btn-primary btn-lg bot-left" data-toggle="modal" data-target="#myModal">
   Report Accident
 </button>
@@ -98,25 +97,14 @@
     </div>
   </div>
 </div>
+
+
+
           <footer>
       &copy; Aaron Lo
     </footer>
 
     </div> <!-- /container -->        
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-       <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.0.min.js"></script>')</script>
-           <script>$( document.body ).on( 'click', '.dropdown-menu li', function( event ) {
- 
-   var $target = $( event.currentTarget );
- 
-   $target.closest( '.btn-group' )
-      .find( '[data-bind="label"]' ).text( $target.text() )
-         .end()
-      .children( '.dropdown-toggle' ).dropdown( 'toggle' );
- 
-   return false;
- 
-});</script>
     </body>
 </html>
 
