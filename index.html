@@ -13,10 +13,10 @@
         <link rel="stylesheet" href="css/bootstrap.min.css">
         <link rel="stylesheet" href="css/bootstrap-theme.min.css">
         <link rel="stylesheet" href="css/main.css">
-
+        <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=visualization"></script>
         <script src="js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
-        <script src="https://maps.googleapis.com/maps/api/js"></script>
         <script src="js/main.js"></script>
+           
     </head>
     <body>
         <!--[if lt IE 7]>
@@ -32,7 +32,7 @@
             <span class="icon-bar"></span>
           </button>
           <a class="navbar-bran" href="#">Bike<span style=" font-weight: 800;
-">SAFETO</span></a>
+">SafeTO</span></a>
         </div>
         <div class="navbar-collapse collapse">
           <form class="navbar-form navbar-right" role="form">
@@ -49,19 +49,71 @@
     </div>
   <input id="pac-input" class="controls" type="text" placeholder="Search Box" autocomplete="on" id="search">
     <div class="container"> 
-     
+     <button class="btn btn-primary btn-lg bot-left" data-toggle="modal" data-target="#myModal">
+  Report Accident
+</button>
       <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=geometry"></script>
       <script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
        <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=places"></script>
       <div id="map_canvas"></div>
-
-    </div> <!-- /container -->        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.0.min.js"><\/script>')</script>
+          <button onClick="calcRoute();">Route</button>
 
 
-        <script src="js/vendor/bootstrap.min.js"></script>
+<!-- Modal -->
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+        <h4 class="modal-title" id="myModalLabel">Report an Accident.</h4>
+      </div>
+      <div class="modal-body">
+              <div class="form-group">
+                <input type="text" placeholder="Name" class="form-control"><br>
+                <input type="text" placeholder="Location; e.g. King and University Intersection" class="form-control"><br>
+               <div class="btn-group btn-input clearfix"> 
+                    <button type="button" class="btn btn-default dropdown-toggle form-control" data-toggle="dropdown">
+                    <span data-bind="label">Type of Accident</span> <span class="caret"></span><br>
+                    </button>
+                    <ul class="dropdown-menu" role="menu">
+                      <li><a href="#">Dooring</a></li>
+                      <li><a href="#">Sideswiped</a></li>
+                      <li><a href="#">Cyclist without Right of Way</a></li>
+                      <li><a href="#">Motorist without Right of Way</a></li>
+                    </ul>
+              </div>                <br>
+              <br>
+              <textarea name="More Information" id="form-control" cols="50" rows="10"></textarea>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary">Save changes</button>
+      </div>
+    </div>
+  </div>
+</div>
+          <footer>
+      &copy; Aaron Lo
+    </footer>
 
-        <script src="js/main.js"></script>
+    </div> <!-- /container -->        
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+       <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.0.min.js"></script>')</script>
+
+
+        <script src="js/vendor/bootstrap.min.js"></script> 
+        <script>$( document.body ).on( 'click', '.dropdown-menu li', function( event ) {
+ 
+   var $target = $( event.currentTarget );
+ 
+   $target.closest( '.btn-group' )
+      .find( '[data-bind="label"]' ).text( $target.text() )
+         .end()
+      .children( '.dropdown-toggle' ).dropdown( 'toggle' );
+ 
+   return false;
+ 
+});</script>
     </body>
 </html>
 

@@ -16,6 +16,13 @@ var options = {
   maximumAge: 0
 };
 
+var heatmap;
+    var rendererOptions = {
+      draggable: true
+    };
+    var directionsDisplay;
+    var directionsService = new google.maps.DirectionsService();
+
 function success(pos) {
 }
 
@@ -41,13 +48,16 @@ function initialize() {
     center: new google.maps.LatLng(43.653921, -79.373217)
   };
 
+
+
   var map = new google.maps.Map(document.getElementById('map_canvas'),
       mapOptions);
 
   map.controls[google.maps.ControlPosition.TOP_CENTER].push(
       document.getElementById('info'));
 
-  
+        directionsDisplay = new google.maps.DirectionsRenderer(rendererOptions);
+
   // startPos = new google.maps.LatLng(43.642946, -79.394033);
   endPos = new google.maps.LatLng(43.653921, -79.373217);
 
@@ -68,7 +78,7 @@ function initialize() {
       startPos = new google.maps.LatLng(pos.coords.latitude, pos.coords.longitude); 
 
       // [END region_getplaces]
-
+      searchPoint(map);
 
       DetermineClosestStation(startPos, function (closestStation) {
           DetermineClosestStation(endPos, function(closestStationEnd) {
@@ -115,10 +125,45 @@ function initialize() {
             )
           }
         );
+      var origin = new google.maps.LatLng(pos);
+    var destination = new google.maps.LatLng(43.656278, -79.380803);
     });
+    // setting the bike layer
+    function setBikeLayer(){
+      var map = initialize();
+      var bikeLayer = new google.maps.BicyclingLayer();
+        bikeLayer.setMap(map);
+
+        $.getJSON( 'data/accidents.json', function( data ) {
+          var accidents = [];
+          var i = 0;
+            data.forEach( function(accident) {
+              i++;
+              if (accident.latitude&& accident.longitude) {
+                
+                accidents.push( new google.maps.LatLng(accident.latitude, accident.longitude) );
+              };
+              });
+
+            var pointArray = new google.maps.MVCArray(accidents);
+            console.log("MVCArray");
+            heatmap = new google.maps.visualization.HeatmapLayer({
+          data: pointArray,
+          radius: 25
+        });
+            console.log("HeatmapLayer");
+            heatmap.setMap(map);
+            console.log("setMap");
+          });
+    }
+
 }
 
-function search(map) {
+   
+
+
+function searchPoint(map) {
+  console.log("SEARCHING");
       // Create the search box and link it to the UI element.
       var input = /** @type {HTMLInputElement} */(
           document.getElementById('pac-input'));
@@ -170,10 +215,10 @@ function search(map) {
       
       // Bias the SearchBox results towards places that are within the bounds of the
       // current map's viewport.
-      google.maps.event.addListener(map, 'bounds_changed', function() {
-        var bounds = map.getBounds();
-        searchBox.setBounds(bounds);
-      });
+      // google.maps.event.addListener(map, 'bounds_changed', function() {
+      //   var bounds = map.getBounds();
+      //   searchBox.setBounds(bounds);
+      // });
 }
 
 function update() {
@@ -215,14 +260,73 @@ function DetermineClosestStation(position, cb) {
   });
 
 }
+function setStyles() {
+      //var map_canvas = document.getElementById("map_canvas");
+      var map = initialize();
+      var styles = [
+        {
+          featureType: 'road',
+          elementType: 'geometry',
+          stylers: [
+            { color: '#000000' },
+            { weight: 1.6 }
+          ]
+        },
+        {
+          featureType: 'road',
+          elementType: 'labels',
+          stylers: [
+            { saturation: -100 },
+            { invert_lightness: true }
+          ]
+        }
+      ];
 
-google.maps.event.addDomListener(window, 'load', initialize);
+      // Create a new StyledMapType object, passing array of styles
+      var styledMap = new google.maps.StyledMapTypes(styles, 
+      {
+        name: "Styled Map"
+      });
 
+      // Associate the styled map with MapTypeId and set it to display
+      // 
+      map.mapTypes.set('map_style', styleMap);
+      map.setMapTypeId('map_style');
+    }
+
+
+    function calcRoute() {
+      console.log("calcRoute");
+
+      var request = {
+        origin: origin,
+        destination: destination,
+        travelMode: google.maps.TravelMode.BICYCLING
+      };
+      directionsService.route(request, function(result, status) {
+        if (status == google.maps.DirectionsStatus.OK) {
+          directionsDisplay.setDirections(result);
+        }
+      });
+    }
+ 
+google.maps.event.addDomListener(window, 'load', setBikeLayer, initialize);
 
 
 // function initialize() {
 
-
+$( document.body ).on( 'click', '.dropdown-menu li', function( event ) {
+ 
+   var $target = $( event.currentTarget );
+ 
+   $target.closest( '.btn-group' )
+      .find( '[data-bind="label"]' ).text( $target.text() )
+         .end()
+      .children( '.dropdown-toggle' ).dropdown( 'toggle' );
+ 
+   return false;
+ 
+});
   
 // }
 //       google.maps.event.addDomListener(window, 'load', initialize);
