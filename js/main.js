@@ -33,12 +33,12 @@ function initialize() {
   map.controls[google.maps.ControlPosition.TOP_CENTER].push(
       document.getElementById('info'));
  
-  // startPos = new google.maps.LatLng(43.642946, -79.394033);
+  startPos = new google.maps.LatLng(43.642946, -79.394033);
 
-  // endPos = new google.maps.LatLng(43.653921, -79.373200);
+  endPos = new google.maps.LatLng(43.653921, -79.373200);
 
-  // var bounds = new google.maps.LatLngBounds(startPos, endPos);
-  // map.fitBounds(bounds);
+  var bounds = new google.maps.LatLngBounds(startPos, endPos);
+  map.fitBounds(bounds);
 
   setDirections();
   setBikeLayer();
@@ -62,7 +62,7 @@ function initialize() {
           });
 
           // recenter map to the marker which was clicked
-          google.maps.event.addListener(marker, 'click', function() {
+          google.maps.event.addListener(marker, 'dblclick', function() {
             map.setZoom(14);
             map.setCenter(marker.getPosition());
           });
@@ -70,19 +70,19 @@ function initialize() {
         });
 
         $("#input-go").click( function(){
-
+          
           var geocoder = new google.maps.Geocoder();
 
           geocoder.geocode({'address': $("#input-from").val()}, function(results, status) {
             var fromLatlng = results[0].geometry.location;
-            console.log(fromLatlng);
+            //console.log(fromLatlng);
             geocoder.geocode({'address': $("#input-to").val()}, function(results, status) {
               var toLatlng = results[0].geometry.location;
-              console.log(toLatlng);
+              //console.log(toLatlng);
               DetermineClosestStation(fromLatlng, function (closestStation) {
                 
                 DetermineClosestStation(toLatlng, function(closestStationEnd) {
-                  console.log ([closestStation, closestStationEnd]);
+                  //console.log ([closestStation, closestStationEnd]);
                   marker1 = new google.maps.Marker({
                       map: map,
                       draggable: true,
@@ -144,7 +144,7 @@ function setBikeLayer() {
           var i = 0;
             data.forEach( function(accident) {
               i++;
-              if (accident.latitude&& accident.longitude) {
+              if (accident.latitude && accident.longitude) {
                 
                 accidents.push( new google.maps.LatLng(accident.latitude, accident.longitude) );
               }
@@ -188,7 +188,7 @@ function DetermineClosestStation(position, cb) {
               closestStationDist = distance;
               closestStation = station;
               console.log(closestStation);
-              console.log("calculating closest: " + closestStation + ", " + "closestStationDist");
+              //console.log("calculating closest: " + closestStation + ", " + "closestStationDist");
             }
 
           });
