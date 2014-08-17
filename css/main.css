@@ -1,4 +1,6 @@
+
 	@import url('http://fonts.googleapis.com/css?family=Raleway:400,600,800');
+
 
 
 
@@ -81,6 +83,12 @@
 	}
 
 
+
+
+#wrapper{
+	width: 200px;
+	background-color: red;
+}
 
 	.btn-defaul {
 				-webkit-border-radius: 11;
