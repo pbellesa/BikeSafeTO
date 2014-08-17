@@ -42,7 +42,7 @@ function initialize() {
 
   setDirections();
   setBikeLayer();
-
+  setDirections();  // ADDED DIRECTIONS
   infoWindow = new google.maps.InfoWindow({ content: "Holding..."});
   
   $.getJSON( "data/stations.json", function( data ) {
@@ -133,6 +133,9 @@ function initialize() {
     });
 }
 
+
+
+
 function setBikeLayer() {
 
       var bikeLayer = new google.maps.BicyclingLayer();
@@ -206,6 +209,7 @@ function setDirections(){
 }
 
 function calcRoute(origin, destination) {
+  $("#wrapper_directions").css( "display", "block");
   var request = {
     origin: origin,
     destination: destination,
@@ -213,10 +217,12 @@ function calcRoute(origin, destination) {
   };
   directionsService.route(request, function(result, status) {
     if (status == google.maps.DirectionsStatus.OK) {
-      directionsDisplay.setDirections(result);
+      directionsDisplay.setDirections(result);     
     }
   });
 }
+
+
 
 google.maps.event.addDomListener(window, 'load', initialize);
 

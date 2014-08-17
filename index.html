@@ -49,17 +49,23 @@
         </div><!--/.navbar-collapse -->
       </div>
     </div>
-    <div id="directions_panel"></div> 
     <div class="container"> 
 
 
-      <script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
+      
 
       <div id="map_canvas"></div>
           <button onClick="calcRoute();">Route</button>
 
 
-        <script src="js/vendor/bootstrap.min.js"></script>
+        
+
+        <!-- TEXTUAL DIRECTIONS PANEL -->
+        <div id="wrapper_directions" style="position:absolute; left: 20px; bottom: 100px; width: 25%; height: 200px; overflow-x: hidden; display: none;">
+          <div id="directions_panel" class="panel panel-body"> </div> 
+        </div>
+
+
  <button class="btn btn-dange btn-lg bot-left" data-toggle="modal" data-target="#myModal">
   Report Accident
 </button>
@@ -99,12 +105,13 @@
 </div>
 
 
-
           <footer>
       &copy; Aaron Lo
     </footer>
 
-    </div> <!-- /container -->        
+    </div> <!-- /container -->  
+    <script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
+<script src="js/vendor/bootstrap.min.js"></script>      
     </body>
 </html>
 
