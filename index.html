@@ -49,25 +49,33 @@
         </div><!--/.navbar-collapse -->
       </div>
     </div>
-    <div id="directions_panel"></div> 
+    
     <div class="container"> 
 
 
-      <script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
+      
+      <!-- TEXTUAL DIRECTIONS PANEL -->
+        
 
       <div id="map_canvas"></div>
           <button onClick="calcRoute();">Route</button>
 
+        <div id="wrapper_directions" style="position:absolute; right: 20px; bottom: 100px; width: 25%; height: 200px; overflow-x: hidden; display: none; z-index: 99;">
+          <div id="directions_panel" class="panel panel-body"> </div> 
+        </div>
 
-        <script src="js/vendor/bootstrap.min.js"></script>
 <div class="row">
- <button class="btn btn-dange btn-lg bot-left col-md-5 col-sm-5 col-md-push-3" data-toggle="modal" data-target="#myModal">
+ <button class="btn btn-dange btn-lg bot-left col-md-2 col-sm-2 col-md-push-3" data-toggle="modal" data-target="#myModal">
   Report Accident
 </button>
 
- <button class="btn btn-dangea btn-lg bot-left col-md-5 col-sm-3 col-md-push-3" data-toggle="modal" data-target="#Modal">
-  Recent Accidents 
+ <button class="btn btn-dangea btn-lg bot-right col-md-2 col-sm-2 col-md-push-3" data-toggle="modal" data-target="#Modal">
+  User Comments 
 </button>
+        
+
+        
+
 </div>
 <!-- Modal -->
 <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
@@ -97,6 +105,7 @@
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-defaul" data-dismiss="modal">Close</button>
+
         <button type="button" class="btn btn-primar">Submit</button>
       </div>
     </div>
@@ -137,10 +146,9 @@
         <button type="button" class="btn btn-defaul" data-dismiss="modal">Close</button>
         <button type="button" class="btn btn-primar">Save changes</button>
       </div>
-    </div>
-  </div>
-</div>
 
+        <button type="button" class="btn btn-primar">Save changes</button>
+      </div>
 
 
           <footer>
@@ -148,6 +156,9 @@
     </footer>
 
     </div> <!-- /container -->        
+<script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
+
+        <script src="js/vendor/bootstrap.min.js"></script>
     </body>
 </html>
 

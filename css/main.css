@@ -1,4 +1,6 @@
+
 	@import url('http://fonts.googleapis.com/css?family=Raleway:400,600,800');
+
 
 
 
@@ -9,7 +11,7 @@
 		position: absolute;
 		top: 0;
 		left: 0;
-		z-index: 0;
+		z-index: -99;
 
 	}
 
@@ -39,10 +41,14 @@
 	}
 
 	.bot-left {
-		
-		margin-top: 75%;	
-		margin-right: 1%;	
-	
+		position: absolute;
+		bottom: 20px;
+		left: 20px;
+	}
+	.bot-right {
+		position: absolute;
+		bottom: 20px;
+		right: 20px;
 	}
 
 	.btn-primar {
@@ -83,6 +89,7 @@
 
 
 
+
 	.btn-defaul {
 				-webkit-border-radius: 11;
 	  -moz-border-radius: 11;
@@ -114,7 +121,7 @@
 	  padding: 10px 20px 10px 20px;
 	  text-decoration: none;
 	  margin-right: -70px;
-	 
+
 	}
 
 	.btn-dangea:hover {
@@ -123,6 +130,7 @@
 		text-decoration: none;
 
 	}
+
 
 
 
@@ -141,4 +149,5 @@
 	  background: #33cc33;
 	  text-decoration: none;
 	  
+
 	}
