@@ -15,6 +15,7 @@
         <link rel="stylesheet" href="css/main.css">
         <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=visualization"></script>
         <script src="js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+
         <script src="js/main.js"></script>
            
     </head>
@@ -49,12 +50,12 @@
     </div>
   <input id="pac-input" class="controls" type="text" placeholder="Search Box" autocomplete="on" id="search">
     <div class="container"> 
-     <button class="btn btn-primary btn-lg bot-left" data-toggle="modal" data-target="#myModal">
-  Report Accident
-</button>
-      <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=geometry"></script>
+
+     
+   <!--    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=geometry"></script>
+>>>>>>> 49f1b311cc28c2d411713beaa6b496757dd8773e
       <script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
-       <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=places"></script>
+       <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=places"></script> -->
       <div id="map_canvas"></div>
           <button onClick="calcRoute();">Route</button>
 
@@ -99,21 +100,6 @@
     </div> <!-- /container -->        
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.0.min.js"></script>')</script>
-
-
-        <script src="js/vendor/bootstrap.min.js"></script> 
-        <script>$( document.body ).on( 'click', '.dropdown-menu li', function( event ) {
- 
-   var $target = $( event.currentTarget );
- 
-   $target.closest( '.btn-group' )
-      .find( '[data-bind="label"]' ).text( $target.text() )
-         .end()
-      .children( '.dropdown-toggle' ).dropdown( 'toggle' );
- 
-   return false;
- 
-});</script>
     </body>
 </html>
 
