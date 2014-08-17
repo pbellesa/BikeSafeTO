@@ -52,7 +52,7 @@ function initialize() {
             map: map,
             draggable: true,
             position: new google.maps.LatLng(station.Latitude, station.Longitude),
-            icon: 'StationMarker-Icon.png'
+            icon: 'img/StationMarker-Icon.png'
           });
 
           // display station name when clicked
