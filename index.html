@@ -25,7 +25,7 @@
             <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
     <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
-      <div class="container">
+      <div class="container-fluid">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
             <span class="sr-only">Toggle navigation</span>
@@ -44,38 +44,38 @@
             <div class="form-group">
               <input id="input-to" type="text" placeholder="To" class="form-control">
             </div>
-            <button id="input-go" type="submit" class="btn btn-success">Go</button>
+            <button id="input-go" type="submit" class="btn btn-succes">Go</button>
           </form>
         </div><!--/.navbar-collapse -->
       </div>
     </div>
+    
     <div class="container"> 
 
 
       
+      <!-- TEXTUAL DIRECTIONS PANEL -->
+        
 
       <div id="map_canvas"></div>
           <button onClick="calcRoute();">Route</button>
 
-
-
-        
-
-        <!-- TEXTUAL DIRECTIONS PANEL -->
-        <div id="wrapper_directions" style="position:absolute; left: 20px; bottom: 100px; width: 25%; height: 200px; overflow-x: hidden; display: none;">
+        <div id="wrapper_directions" style="position:absolute; right: 20px; bottom: 100px; width: 25%; height: 200px; overflow-x: hidden; display: none; z-index: 99;">
           <div id="directions_panel" class="panel panel-body"> </div> 
         </div>
 
-        <script src="js/vendor/bootstrap.min.js"></script>
 <div class="row">
- <button class="btn btn-dange btn-lg bot-left col-md-5 col-md-push-3" data-toggle="modal" data-target="#Modal">
-
+ <button class="btn btn-dange btn-lg bot-left col-md-2 col-sm-2 col-md-push-3" data-toggle="modal" data-target="#myModal">
   Report Accident
 </button>
 
- <button class="btn btn-dangea btn-lg bot-left col-md-5 col-md-push-2 " data-toggle="modal" data-target="#myModal">
-  Recent Accidents (Comments?)
+ <button class="btn btn-dangea btn-lg bot-right col-md-2 col-sm-2 col-md-push-3" data-toggle="modal" data-target="#Modal">
+  User Comments 
 </button>
+        
+
+        
+
 </div>
 <!-- Modal -->
 <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
@@ -105,54 +105,60 @@
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-defaul" data-dismiss="modal">Close</button>
-        <button type="button" class="btn btn-primar">Save changes</button>
+
+        <button type="button" class="btn btn-primar">Submit</button>
       </div>
     </div>
   </div>
 </div>
-
-
+</div>
+<div class="container">
 <div class="modal fade" id="Modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-        <h4 class="modal-title" id="myModalLabel">Report an Accident.</h4>
+        <h4 class="modal-title" id="myModalLabel">Recent Accidents</h4>
       </div>
       <div class="modal-body">
-              <div class="form-group">
-                <input type="text" placeholder="Name" class="form-control"><br>
-                <input type="text" placeholder="Location; e.g. King and University Intersection" class="form-control"><br>
-               <div class="btn-group btn-input clearfix"> 
-                    <button type="button" class="btn btn-default dropdown-toggle form-control col-lg-12" data-toggle="dropdown">
-                    <span data-bind="label">Type of Accident</span> <span class="caret"></span><br>
-                    </button>
-                    <ul class="dropdown-menu" role="menu">
-                      <li><a href="#">Dooring</a></li>
-                      <li><a href="#">Sideswiped</a></li>
-                      <li><a href="#">Cyclist without Right of Way</a></li>
-                      <li><a href="#">Motorist without Right of Way</a></li>
-                    </ul>
-              </div>                <br>
-              <br>
+             <div class="row">
+               <img src="http://imgur.com/Uhf1GZu" alt="" class="col-md-3">
+               <h4>Jane Doe</h4>
+               <p class="col-md-6">I love cheese, especially airedale queso. Cheese and biscuits halloumi cauliflower cheese cottage cheese swiss boursin fondue caerphilly. Cow port-salut camembert de normandie macaroni cheese feta who moved my cheese babybel boursin. Red leicester roquefort boursin squirty cheese jarlsberg blue castello caerphilly chalk and cheese. Lancashire.</p>
+             </div>
+             <hr>
+                <div class="row">
+               <img src="http://imgur.com/Aivhryj" alt="" class="col-md-3">
+               <h4>Rob Ford</h4>
+               <p class="col-md-6"><strong>Accident Type:</strong> Cyclist Fault <br> <strong>Location:</strong> Main and Queen <br>I got into an accident at main and queen. I was riding a bike down king street when a car hit me. I was 100% sober. Ok maybe I was in a drunken stupor, but i'm doing good at the gym</p>
+             </div>
+             <hr>
+              <div class="row">
+               <img src="http://imgur.com/oGaPi4a" alt="" class="col-md-3">
+               <h4>Obama</h4>
+               <p class="col-md-6">My fellow Americans...Cheese and biscuits halloumi cauliflower cheese cottage cheese swiss boursin fondue caerphilly. Cow port-salut camembert de normandie macaroni cheese feta who moved my cheese babybel boursin. Red leicester roquefort boursin squirty cheese jarlsberg blue castello caerphilly chalk and cheese.</p>
+             </div>
+              <hr>
+              <h3>Submit a Accident</h3>
               <textarea name="More Information" id="form-control" cols="50" rows="10"></textarea>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-defaul" data-dismiss="modal">Close</button>
         <button type="button" class="btn btn-primar">Save changes</button>
       </div>
-    </div>
-  </div>
-</div>
+
+        <button type="button" class="btn btn-primar">Save changes</button>
+      </div>
 
 
           <footer>
       &copy; Aaron Lo
     </footer>
 
-    </div> <!-- /container -->  
-    <script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
-<script src="js/vendor/bootstrap.min.js"></script>      
+    </div> <!-- /container -->        
+<script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
+
+        <script src="js/vendor/bootstrap.min.js"></script>
     </body>
 </html>
 

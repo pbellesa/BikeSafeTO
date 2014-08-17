@@ -11,7 +11,7 @@
 		position: absolute;
 		top: 0;
 		left: 0;
-		z-index: 0;
+		z-index: -99;
 
 	}
 
@@ -41,9 +41,14 @@
 	}
 
 	.bot-left {
-		float: right;
-		margin-top: 75%;	
-		position: relative;
+		position: absolute;
+		bottom: 20px;
+		left: 20px;
+	}
+	.bot-right {
+		position: absolute;
+		bottom: 20px;
+		right: 20px;
 	}
 
 	.btn-primar {
@@ -85,11 +90,6 @@
 
 
 
-#wrapper{
-	width: 200px;
-	background-color: red;
-}
-
 	.btn-defaul {
 				-webkit-border-radius: 11;
 	  -moz-border-radius: 11;
@@ -121,6 +121,7 @@
 	  padding: 10px 20px 10px 20px;
 	  text-decoration: none;
 	  margin-right: -70px;
+
 	}
 
 	.btn-dangea:hover {
@@ -137,6 +138,16 @@
 
 
 
-	.btn-green {
+
+	.btn-succes {
+  	-webkit-border-radius: 11;
+	  -moz-border-radius: 11;
+	  border-radius: 11px;
+	  font-family: 'Raleway', sans-serif;
+	  color: #ffffff;
+	  font-size: 20px;
+	  background: #33cc33;
+	  text-decoration: none;
+	  
 
 	}
