@@ -74,7 +74,19 @@
 
 	        });
 		}
+		function setStations(){
 
+			$.getJSON( "data/stations.json", function( data ) {
+  				var markers = []
+		          data.forEach( function(station) {
+		          marker.push( new google.maps.Marker({
+		              map: map,
+		              draggable: true,
+		              position: new google.maps.LatLng(station.Latitude, station.Longitude) 
+		            }));
+		        });
+		    });
+		}
 
 		function calcRoute() {
 			console.log("calcRoute");

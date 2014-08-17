@@ -51,6 +51,7 @@ function initialize() {
   // startPos = new google.maps.LatLng(43.642946, -79.394033);
   endPos = new google.maps.LatLng(43.653921, -79.373217);
 
+ var markers = [];
  $.getJSON( "data/stations.json", function( data ) {
           
           data.forEach( function(station) {
