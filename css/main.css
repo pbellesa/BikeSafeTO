@@ -1,112 +1,134 @@
-@import url('http://fonts.googleapis.com/css?family=Raleway:400,600,800');
+
+	@import url('http://fonts.googleapis.com/css?family=Raleway:400,600,800');
 
 
 
 
-#map_canvas {
-	height: 100%;
-	width: 100%;
-	position: absolute;
-	top: 0;
-	left: 0;
-	z-index: -99;
 
-}
+	#map_canvas {
+		height: 100%;
+		width: 100%;
+		position: absolute;
+		top: 0;
+		left: 0;
+		z-index: 0;
 
-.navbar {
-	background: #3366cc;
-	height: 75px;
-	border: none;
-}
+	}
 
-.navbar-bran{
-	font-family: 'Raleway', sans-serif;
-	font-weight: 600;
-	color: #fff;
-	font-size: 1.8em;
-	line-height: 3;
-}
+	.navbar {
+		background: #3366cc;
+		height: 75px;
+		border: none;
+	}
 
-span.navbar-bran {
-	font-weight: 800;
-}
+	.navbar-bran{
+		font-family: 'Raleway', sans-serif;
+		font-weight: 600;
+		color: #fff;
+		font-size: 1.8em;
+		line-height: 3;
+	}
 
-#pac-input{
-	position: relative;
-	padding: 30px 500px;
-	z-index: 1;
-	margin-top:20%;
-}
+	span.navbar-bran {
+		font-weight: 800;
+	}
 
-.bot-left {
-	float: right;
-	margin-top: 25%;	
-	position: relative;
-}
+	#pac-input{
+		position: relative;
+		padding: 30px 500px;
+		z-index: 1;
+		margin-top:20%;
+	}
 
-.btn-primar {
-	-webkit-border-radius: 11;
-  -moz-border-radius: 11;
-  border-radius: 11px;
-  font-family: 'Raleway', sans-serif;
-  color: #ffffff;
-  font-size: 20px;
-  background: #3366cc;
-  padding: 10px 20px 10px 20px;
-  text-decoration: none;
-}
+	.bot-left {
+		float: right;
+		margin-top: 75%;	
+		position: relative;
+	}
 
-.btn-primar:hover {
-background: #3399cc;
-text-decoration: none;
-}
-
-
-.btn-dange {
+	.btn-primar {
 		-webkit-border-radius: 11;
-  -moz-border-radius: 11;
-  border-radius: 11px;
-  font-family: 'Raleway', sans-serif;
-  color: #ffffff;
-  font-size: 20px;
-  background: #ff3333;
-  padding: 10px 20px 10px 20px;
-  text-decoration: none;
-}
+	  -moz-border-radius: 11;
+	  border-radius: 11px;
+	  font-family: 'Raleway', sans-serif;
+	  color: #ffffff;
+	  font-size: 20px;
+	  background: #3366cc;
+	  padding: 10px 20px 10px 20px;
+	  text-decoration: none;
+	}
 
-.btn-dange:hover{
-	color:#fff;
-	background: #ff3300;
+	.btn-primar:hover {
+	background: #3399cc;
 	text-decoration: none;
+	}
 
 
-
-
-.btn-defaul {
+	.btn-dange {
 			-webkit-border-radius: 11;
-  -moz-border-radius: 11;
-  border-radius: 11px;
-  font-family: 'Raleway', sans-serif;
-  color: #ffffff;
-  font-size: 20px;
-  background: #ff9933;
-  padding: 10px 20px 10px 20px;
-  text-decoration: none;
-}
+	  -moz-border-radius: 11;
+	  border-radius: 11px;
+	  font-family: 'Raleway', sans-serif;
+	  color: #ffffff;
+	  font-size: 20px;
+	  background: #ff3333;
+	  padding: 10px 20px 10px 20px;
+	  text-decoration: none;
+	}
+
+	.btn-dange:hover{
+		color:#fff;
+		background: #ff3300;
+		text-decoration: none;
+	}
 
 
-.btn-defaul:hover {
-	color: #fff;
-	background: #ff6600;
-	text-decoration: none;
 
-}
 
 #wrapper{
 	width: 200px;
 	background-color: red;
 }
 
+	.btn-defaul {
+				-webkit-border-radius: 11;
+	  -moz-border-radius: 11;
+	  border-radius: 11px;
+	  font-family: 'Raleway', sans-serif;
+	  color: #ffffff;
+	  font-size: 20px;
+	  background: #ff9933;
+	  padding: 10px 20px 10px 20px;
+	  text-decoration: none;
+	}
+
+
+	.btn-defaul:hover {
+		color: #fff;
+		background: #ff6600;
+		text-decoration: none;
+
+	}
+
+	.btn-dangea {
+	  -webkit-border-radius: 11;
+	  -moz-border-radius: 11;
+	  border-radius: 11px;
+	  font-family: 'Raleway', sans-serif;
+	  color: #ffffff;
+	  font-size: 20px;
+	  background: #ff3300;
+	  padding: 10px 20px 10px 20px;
+	  text-decoration: none;
+	  margin-right: -70px;
+	}
+
+	.btn-dangea:hover {
+		color:#fff;
+		background: #ff3333;
+		text-decoration: none;
+
+	}
 
 
 
@@ -115,4 +137,6 @@ text-decoration: none;
 
 
 
+	.btn-green {
 
+	}
