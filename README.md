@@ -18,6 +18,6 @@ Contributors:
 
 -- Aaron Lo - https://github.com/IllusionElements
 
--- Jose Ongpin - https://twitter/neuroticjose
+-- Jose Ongpin - https://www.twitter.com/neuroticjose
 
 -- Ragu Sivanandha - https://github.com/ragu-S
